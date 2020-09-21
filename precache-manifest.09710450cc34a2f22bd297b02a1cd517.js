@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b447265d935952106770e770fc6f85b",
+    "revision": "39286ba746a16b56db3418c5a26cfe27",
     "url": "/sstl/index.html"
   },
   {
-    "revision": "4d8a3dd01e1a58c79324",
+    "revision": "cd22abb514965167cc07",
+    "url": "/sstl/static/css/2.fd971cca.chunk.css"
+  },
+  {
+    "revision": "20729c9c51e8add21baa",
     "url": "/sstl/static/css/main.80e3c8a5.chunk.css"
   },
   {
-    "revision": "ca4dd69fe444d8e8af4d",
-    "url": "/sstl/static/js/2.82f2ce82.chunk.js"
+    "revision": "cd22abb514965167cc07",
+    "url": "/sstl/static/js/2.649965a0.chunk.js"
   },
   {
-    "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/sstl/static/js/2.82f2ce82.chunk.js.LICENSE.txt"
+    "revision": "d2966845b94a3318bf32eecc7af8015d",
+    "url": "/sstl/static/js/2.649965a0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4d8a3dd01e1a58c79324",
-    "url": "/sstl/static/js/main.8bd5bb5b.chunk.js"
+    "revision": "20729c9c51e8add21baa",
+    "url": "/sstl/static/js/main.493fe840.chunk.js"
   },
   {
     "revision": "bda845fc14f510be5140",
@@ -1268,10 +1272,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sstl/static/media/pensacola.dc7d11ee.png"
   },
   {
-    "revision": "e8ea44bc3a18bcef1fbd6345e6ccdfe6",
-    "url": "/sstl/static/media/pepega.e8ea44bc.png"
-  },
-  {
     "revision": "8c967144c264e93a108343b6472718f4",
     "url": "/sstl/static/media/perseus.8c967144.png"
   },
@@ -1494,6 +1494,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "323f0b8b07bd4aa195902e11f45b1d02",
     "url": "/sstl/static/media/surcouf.323f0b8b.png"
+  },
+  {
+    "revision": "01cc1c8a2dbc44b002f46a225d5ff0ba",
+    "url": "/sstl/static/media/suruGA.01cc1c8a.png"
   },
   {
     "revision": "933938e3e322cb3c5f7a4d8e6c9bb622",

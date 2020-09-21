@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/sstl/static/css/main.80e3c8a5.chunk.css",
-    "main.js": "/sstl/static/js/main.8bd5bb5b.chunk.js",
-    "main.js.map": "/sstl/static/js/main.8bd5bb5b.chunk.js.map",
+    "main.js": "/sstl/static/js/main.493fe840.chunk.js",
+    "main.js.map": "/sstl/static/js/main.493fe840.chunk.js.map",
     "runtime-main.js": "/sstl/static/js/runtime-main.ee9ba740.js",
     "runtime-main.js.map": "/sstl/static/js/runtime-main.ee9ba740.js.map",
-    "static/js/2.82f2ce82.chunk.js": "/sstl/static/js/2.82f2ce82.chunk.js",
-    "static/js/2.82f2ce82.chunk.js.map": "/sstl/static/js/2.82f2ce82.chunk.js.map",
+    "static/css/2.fd971cca.chunk.css": "/sstl/static/css/2.fd971cca.chunk.css",
+    "static/js/2.649965a0.chunk.js": "/sstl/static/js/2.649965a0.chunk.js",
+    "static/js/2.649965a0.chunk.js.map": "/sstl/static/js/2.649965a0.chunk.js.map",
     "index.html": "/sstl/index.html",
-    "precache-manifest.8fe005c70303d0432a65e86e6cd93714.js": "/sstl/precache-manifest.8fe005c70303d0432a65e86e6cd93714.js",
+    "precache-manifest.09710450cc34a2f22bd297b02a1cd517.js": "/sstl/precache-manifest.09710450cc34a2f22bd297b02a1cd517.js",
     "service-worker.js": "/sstl/service-worker.js",
+    "static/css/2.fd971cca.chunk.css.map": "/sstl/static/css/2.fd971cca.chunk.css.map",
     "static/css/main.80e3c8a5.chunk.css.map": "/sstl/static/css/main.80e3c8a5.chunk.css.map",
-    "static/js/2.82f2ce82.chunk.js.LICENSE.txt": "/sstl/static/js/2.82f2ce82.chunk.js.LICENSE.txt",
+    "static/js/2.649965a0.chunk.js.LICENSE.txt": "/sstl/static/js/2.649965a0.chunk.js.LICENSE.txt",
     "static/media/22.png": "/sstl/static/media/22.d47d5ccf.png",
     "static/media/33.png": "/sstl/static/media/33.e236a16f.png",
     "static/media/abercrombie.png": "/sstl/static/media/abercrombie.c0a30921.png",
@@ -320,7 +322,6 @@
     "static/media/pamiat merkuria.png": "/sstl/static/media/pamiat merkuria.4070595c.png",
     "static/media/pennsylvania.png": "/sstl/static/media/pennsylvania.944ae93d.png",
     "static/media/pensacola.png": "/sstl/static/media/pensacola.dc7d11ee.png",
-    "static/media/pepega.png": "/sstl/static/media/pepega.e8ea44bc.png",
     "static/media/perseus.png": "/sstl/static/media/perseus.8c967144.png",
     "static/media/phoenix.png": "/sstl/static/media/phoenix.f8cd32f8.png",
     "static/media/ping hai.png": "/sstl/static/media/ping hai.5413d135.png",
@@ -377,6 +378,7 @@
     "static/media/suffolk.png": "/sstl/static/media/suffolk.87d2a33e.png",
     "static/media/super gamer kizuna ai.png": "/sstl/static/media/super gamer kizuna ai.53d7ffad.png",
     "static/media/surcouf.png": "/sstl/static/media/surcouf.323f0b8b.png",
+    "static/media/suruGA.png": "/sstl/static/media/suruGA.01cc1c8a.png",
     "static/media/suruga.png": "/sstl/static/media/suruga.933938e3.png",
     "static/media/sussex.png": "/sstl/static/media/sussex.0d789804.png",
     "static/media/suzutsuki.png": "/sstl/static/media/suzutsuki.862a8e8b.png",
@@ -452,8 +454,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ee9ba740.js",
-    "static/js/2.82f2ce82.chunk.js",
+    "static/css/2.fd971cca.chunk.css",
+    "static/js/2.649965a0.chunk.js",
     "static/css/main.80e3c8a5.chunk.css",
-    "static/js/main.8bd5bb5b.chunk.js"
+    "static/js/main.493fe840.chunk.js"
   ]
 }
