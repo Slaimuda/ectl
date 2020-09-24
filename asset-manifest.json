@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.c7391ff3.chunk.css",
-    "main.js": "/ectl/static/js/main.e45a4ba9.chunk.js",
-    "main.js.map": "/ectl/static/js/main.e45a4ba9.chunk.js.map",
+    "main.js": "/ectl/static/js/main.9f705716.chunk.js",
+    "main.js.map": "/ectl/static/js/main.9f705716.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.fd971cca.chunk.css": "/ectl/static/css/2.fd971cca.chunk.css",
     "static/js/2.e12841b5.chunk.js": "/ectl/static/js/2.e12841b5.chunk.js",
     "static/js/2.e12841b5.chunk.js.map": "/ectl/static/js/2.e12841b5.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.6d16fcd03dda7853adad14429a0165c5.js": "/ectl/precache-manifest.6d16fcd03dda7853adad14429a0165c5.js",
+    "precache-manifest.8dcb717d31286554c20acf9516b12be0.js": "/ectl/precache-manifest.8dcb717d31286554c20acf9516b12be0.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.fd971cca.chunk.css.map": "/ectl/static/css/2.fd971cca.chunk.css.map",
     "static/css/main.c7391ff3.chunk.css.map": "/ectl/static/css/main.c7391ff3.chunk.css.map",
@@ -138,7 +138,6 @@
     "static/media/edinburgh.png": "/ectl/static/media/edinburgh.626f8fa8.png",
     "static/media/eldridge.png": "/ectl/static/media/eldridge.6f3cb6bd.png",
     "static/media/elegant kizuna ai.png": "/ectl/static/media/elegant kizuna ai.4f619bfa.png",
-    "static/media/emile bertinKai.png": "/ectl/static/media/emile bertinKai.48a01b83.png",
     "static/media/enterprise.png": "/ectl/static/media/enterprise.f108ac08.png",
     "static/media/erebus.png": "/ectl/static/media/erebus.7110a0e6.png",
     "static/media/eskimo.png": "/ectl/static/media/eskimo.c631293a.png",
@@ -525,13 +524,14 @@
     "static/media/zara.png": "/ectl/static/media/zara.8b4a747a.png",
     "static/media/zeppy.png": "/ectl/static/media/zeppy.60d66592.png",
     "static/media/zuikaku.png": "/ectl/static/media/zuikaku.ed72dcf9.png",
-    "static/media/émile bertin.png": "/ectl/static/media/émile bertin.3c324463.png"
+    "static/media/émile bertin.png": "/ectl/static/media/émile bertin.3c324463.png",
+    "static/media/émile bertinKai.png": "/ectl/static/media/émile bertinKai.48a01b83.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.fd971cca.chunk.css",
     "static/js/2.e12841b5.chunk.js",
     "static/css/main.c7391ff3.chunk.css",
-    "static/js/main.e45a4ba9.chunk.js"
+    "static/js/main.9f705716.chunk.js"
   ]
 }
