@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eec6d9923886b51c5fc994fea1b08da9",
+    "revision": "c9927e0bb21c93e3d098b19a8828cae6",
     "url": "/ectl/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/css/2.fd971cca.chunk.css"
   },
   {
-    "revision": "2f722d3b9c377f3a85d3",
+    "revision": "f7090652d2fcbd8e4061",
     "url": "/ectl/static/css/main.c7391ff3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/js/2.acc14b37.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f722d3b9c377f3a85d3",
-    "url": "/ectl/static/js/main.72bb5b67.chunk.js"
+    "revision": "f7090652d2fcbd8e4061",
+    "url": "/ectl/static/js/main.dc7df74b.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -1738,6 +1738,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0143b96fbb72773004dcff85bcdca437",
     "url": "/ectl/static/media/sovetskaya rossiya.0143b96f.png"
+  },
+  {
+    "revision": "b36b38f80d54aabf6b6a79cfcd8a4468",
+    "url": "/ectl/static/media/specialized bulin custom mkiii.b36b38f8.png"
   },
   {
     "revision": "33a05b0263ced18f3e9e5c11bf9cf85e",
