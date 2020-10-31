@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11533358d3d583bb93f5ac102a0b935e",
+    "revision": "01e2848109f460db1312494cb1801dd0",
     "url": "/ectl/index.html"
   },
   {
-    "revision": "b8f4988be099a6bda2f9",
+    "revision": "8d277c9d084b31e55182",
     "url": "/ectl/static/css/2.fd971cca.chunk.css"
   },
   {
-    "revision": "3aeb77ca2c1dbde2381d",
-    "url": "/ectl/static/css/main.4c02c5cd.chunk.css"
+    "revision": "fdd867004aab1f051576",
+    "url": "/ectl/static/css/main.02d18541.chunk.css"
   },
   {
-    "revision": "b8f4988be099a6bda2f9",
-    "url": "/ectl/static/js/2.245efe19.chunk.js"
+    "revision": "8d277c9d084b31e55182",
+    "url": "/ectl/static/js/2.8b7470f3.chunk.js"
   },
   {
     "revision": "c3cb654a3a7d27a576aed8d503b856d8",
-    "url": "/ectl/static/js/2.245efe19.chunk.js.LICENSE.txt"
+    "url": "/ectl/static/js/2.8b7470f3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3aeb77ca2c1dbde2381d",
-    "url": "/ectl/static/js/main.8288c6f1.chunk.js"
+    "revision": "fdd867004aab1f051576",
+    "url": "/ectl/static/js/main.309152f6.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -374,6 +374,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e791403609b4b8de48022dc870ff6b99",
     "url": "/ectl/static/media/alabamashipyardicon.e7914036.png"
+  },
+  {
+    "revision": "dedb399faacef7cbdda28ffdef1a6199",
+    "url": "/ectl/static/media/albacore µbanner.dedb399f.png"
+  },
+  {
+    "revision": "62207f4173b58080c72ea8338d68a633",
+    "url": "/ectl/static/media/albacore µicon.62207f41.png"
+  },
+  {
+    "revision": "47e7fb4ad1daef32595120e12f635c94",
+    "url": "/ectl/static/media/albacore µshipyardicon.47e7fb4a.png"
   },
   {
     "revision": "acd7128df3e4d17425bb3a9dcddcc9d8",
@@ -762,6 +774,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c0414f8fb27af71ce1c1a37a31e79365",
     "url": "/ectl/static/media/baileyshipyardicon.c0414f8f.png"
+  },
+  {
+    "revision": "d3233d274a27d5aaa5e21cf350641787",
+    "url": "/ectl/static/media/baltimore µbanner.d3233d27.png"
+  },
+  {
+    "revision": "edfdd9297990cacea9ffafc561b21620",
+    "url": "/ectl/static/media/baltimore µicon.edfdd929.png"
+  },
+  {
+    "revision": "96f441848af085c7507aae57888efdb6",
+    "url": "/ectl/static/media/baltimore µshipyardicon.96f44184.png"
   },
   {
     "revision": "6234bddd86c08f6c141e7dfd8f395c07",
@@ -1526,6 +1550,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fe533acde93e308b332de9a25d652f33",
     "url": "/ectl/static/media/deweyshipyardicon.fe533acd.png"
+  },
+  {
+    "revision": "8fcd375b22e1efe0151d9e85059a76f3",
+    "url": "/ectl/static/media/dido µbanner.8fcd375b.png"
+  },
+  {
+    "revision": "25713789b97cf0c397abd8c80843b2fd",
+    "url": "/ectl/static/media/dido µicon.25713789.png"
+  },
+  {
+    "revision": "91f9485ed171b78427e31e4e9e9f569e",
+    "url": "/ectl/static/media/dido µshipyardicon.91f9485e.png"
   },
   {
     "revision": "a78ee1387e88122a55178408c317801c",
@@ -2864,6 +2900,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/ikazuchishipyardicon.9a3eb961.png"
   },
   {
+    "revision": "65e522dfe3a04798b168d63c1e1fdd0d",
+    "url": "/ectl/static/media/illustrious µbanner.65e522df.png"
+  },
+  {
+    "revision": "f260ddf9c8202d0a1f41bf1edafea15a",
+    "url": "/ectl/static/media/illustrious µicon.f260ddf9.png"
+  },
+  {
+    "revision": "f4cc5aa4e3848aacc019e0e39866036c",
+    "url": "/ectl/static/media/illustrious µshipyardicon.f4cc5aa4.png"
+  },
+  {
     "revision": "7cad0d0c414f95c4a356c1c98b1a1977",
     "url": "/ectl/static/media/illustriousbanner.7cad0d0c.png"
   },
@@ -3666,6 +3714,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5bfee61f9bd4c7af768c431726ad8c2e",
     "url": "/ectl/static/media/langleyshipyardicon.5bfee61f.png"
+  },
+  {
+    "revision": "b3cfee4d0e74f1e44a93c16c649a2de2",
+    "url": "/ectl/static/media/le malin µbanner.b3cfee4d.png"
+  },
+  {
+    "revision": "0205873de106e1ae347b9c77f4d0caf4",
+    "url": "/ectl/static/media/le malin µicon.0205873d.png"
+  },
+  {
+    "revision": "fe954e1d1b6f94d7a315e1bbc05ec419",
+    "url": "/ectl/static/media/le malin µshipyardicon.fe954e1d.png"
   },
   {
     "revision": "8a759d7108de477e0b5cfcf81777ece2",
@@ -4860,6 +4920,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/prince of walesshipyardicon.c4fd93a5.png"
   },
   {
+    "revision": "232bec0314a047103214ca676916d50e",
+    "url": "/ectl/static/media/princetonbanner.232bec03.png"
+  },
+  {
+    "revision": "2d4919f665774c5ea8787ff8cb7bfc8e",
+    "url": "/ectl/static/media/princetonicon.2d4919f6.png"
+  },
+  {
+    "revision": "de1210e49a380de6d85e1c0e16f3dba0",
+    "url": "/ectl/static/media/princetonshipyardicon.de1210e4.png"
+  },
+  {
     "revision": "bda05faf8765cc53cba5207a63601740",
     "url": "/ectl/static/media/prinz eugenbanner.bda05faf.png"
   },
@@ -5086,6 +5158,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a8d64d043406ee78adbebcf206b0dd60",
     "url": "/ectl/static/media/rodneyshipyardicon.a8d64d04.png"
+  },
+  {
+    "revision": "109fbc925d7a4a82cb5a8ea61ed8d941",
+    "url": "/ectl/static/media/roon µbanner.109fbc92.png"
+  },
+  {
+    "revision": "54ece13665bd2bd9e06398269a29ca0f",
+    "url": "/ectl/static/media/roon µicon.54ece136.png"
+  },
+  {
+    "revision": "462d5ec3d1abb2528d5092e53d4a567d",
+    "url": "/ectl/static/media/roon µshipyardicon.462d5ec3.png"
   },
   {
     "revision": "012decab63022ebe3a46f6dbc5f1cd49",
@@ -5852,6 +5936,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/tai yuanshipyardicon.ba1211ae.png"
   },
   {
+    "revision": "47a9c3d6b269fe5048c34ca92fe145e6",
+    "url": "/ectl/static/media/taihou µbanner.47a9c3d6.png"
+  },
+  {
+    "revision": "cdcf21b552f4d2002df11a06b3bc9e21",
+    "url": "/ectl/static/media/taihou µicon.cdcf21b5.png"
+  },
+  {
+    "revision": "ba8fb0e1fb3e37f3d3ed81c3460489bc",
+    "url": "/ectl/static/media/taihou µshipyardicon.ba8fb0e1.png"
+  },
+  {
     "revision": "8ebd74c031b45b030db1a630d7bf4bff",
     "url": "/ectl/static/media/taihoubanner.8ebd74c0.png"
   },
@@ -5910,6 +6006,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "78ec66cbc7eb2e8efbd27a06989c1c8c",
     "url": "/ectl/static/media/tartushipyardicon.78ec66cb.png"
+  },
+  {
+    "revision": "932bdefe66ec881a69ee5623cec71f50",
+    "url": "/ectl/static/media/tashkent µbanner.932bdefe.png"
+  },
+  {
+    "revision": "220e298ec97fff9727efbb1403d0f879",
+    "url": "/ectl/static/media/tashkent µicon.220e298e.png"
+  },
+  {
+    "revision": "5b7e2ffeebba16a16e89fa9c3342b84d",
+    "url": "/ectl/static/media/tashkent µshipyardicon.5b7e2ffe.png"
   },
   {
     "revision": "813904d58fe6bb088e4d7abaf365ec64",
