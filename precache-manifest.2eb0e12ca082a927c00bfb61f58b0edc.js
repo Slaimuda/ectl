@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7593cbcfba1da824d4ed0dbfc4d53578",
+    "revision": "1eac182f88381765e3441ae3c7652661",
     "url": "/ectl/index.html"
   },
   {
-    "revision": "32e500c1c6df24553ea7",
-    "url": "/ectl/static/css/2.fd971cca.chunk.css"
+    "revision": "ca5577d1542e78e8059d",
+    "url": "/ectl/static/css/2.5ce3a8b1.chunk.css"
   },
   {
-    "revision": "f7158c4ea805cd3a0cea",
-    "url": "/ectl/static/css/main.89e29550.chunk.css"
+    "revision": "dcbcb62af681a3bbf2b6",
+    "url": "/ectl/static/css/main.f1ddf3aa.chunk.css"
   },
   {
-    "revision": "32e500c1c6df24553ea7",
-    "url": "/ectl/static/js/2.ae3e2821.chunk.js"
+    "revision": "ca5577d1542e78e8059d",
+    "url": "/ectl/static/js/2.604a11ea.chunk.js"
   },
   {
-    "revision": "c3cb654a3a7d27a576aed8d503b856d8",
-    "url": "/ectl/static/js/2.ae3e2821.chunk.js.LICENSE.txt"
+    "revision": "511b00759df6cd2713ed1e082c0b4d12",
+    "url": "/ectl/static/js/2.604a11ea.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f7158c4ea805cd3a0cea",
-    "url": "/ectl/static/js/main.1c30193f.chunk.js"
+    "revision": "dcbcb62af681a3bbf2b6",
+    "url": "/ectl/static/js/main.b776069d.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -880,8 +880,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/bg.4b2013a7.jpg"
   },
   {
-    "revision": "ecd224569e22b20e3de2e4b93785eff8",
-    "url": "/ectl/static/media/bg_repeat.ecd22456.jpg"
+    "revision": "ee899d0302fc4960865a40c25c0931a9",
+    "url": "/ectl/static/media/bg_repeat.ee899d03.jpg"
   },
   {
     "revision": "6d513ca6a05c8908b5b4aff01630597d",
@@ -998,6 +998,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9ca1900ee165d1c75519dfe647e370a0",
     "url": "/ectl/static/media/bogueshipyardicon.9ca1900e.png"
+  },
+  {
+    "revision": "13db00b7a34fee4d819ab7f9838cc428",
+    "url": "/ectl/static/media/brand-icons.13db00b7.eot"
+  },
+  {
+    "revision": "a046592bac8f2fd96e994733faf3858c",
+    "url": "/ectl/static/media/brand-icons.a046592b.woff"
+  },
+  {
+    "revision": "a1a749e89f578a49306ec2b055c073da",
+    "url": "/ectl/static/media/brand-icons.a1a749e8.svg"
+  },
+  {
+    "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
+    "url": "/ectl/static/media/brand-icons.c5ebe0b3.ttf"
+  },
+  {
+    "revision": "e8c322de9658cbeb8a774b6624167c2c",
+    "url": "/ectl/static/media/brand-icons.e8c322de.woff2"
   },
   {
     "revision": "4b11e023c6083ad24df0a7ffb78d1e41",
@@ -1890,6 +1910,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13c7b3b929165a0ed704205dcb748104",
     "url": "/ectl/static/media/fire_extinguisher.13c7b3b9.png"
+  },
+  {
+    "revision": "9c74e172f87984c48ddf5c8108cabe67",
+    "url": "/ectl/static/media/flags.9c74e172.png"
   },
   {
     "revision": "6fc4b461d00c1514af894010b1e5988f",
@@ -2926,6 +2950,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d6c7ae1e2f4fe30a1b8c43fc64d45ac8",
     "url": "/ectl/static/media/icarusshipyardicon.d6c7ae1e.png"
+  },
+  {
+    "revision": "0ab54153eeeca0ce03978cc463b257f7",
+    "url": "/ectl/static/media/icons.0ab54153.woff2"
+  },
+  {
+    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
+    "url": "/ectl/static/media/icons.8e3c7f55.eot"
+  },
+  {
+    "revision": "962a1bf31c081691065fe333d9fa8105",
+    "url": "/ectl/static/media/icons.962a1bf3.svg"
+  },
+  {
+    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
+    "url": "/ectl/static/media/icons.b87b9ba5.ttf"
+  },
+  {
+    "revision": "faff92145777a3cbaf8e7367b4807987",
+    "url": "/ectl/static/media/icons.faff9214.woff"
   },
   {
     "revision": "fc6f5032e1d65c50d2cdb343c980354b",
@@ -4826,6 +4870,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c99a30d013d182d83e85a4a69314c2d3",
     "url": "/ectl/static/media/ooshioshipyardicon.c99a30d0.png"
+  },
+  {
+    "revision": "701ae6abd4719e9c2ada3535a497b341",
+    "url": "/ectl/static/media/outline-icons.701ae6ab.eot"
+  },
+  {
+    "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
+    "url": "/ectl/static/media/outline-icons.82f60bd0.svg"
+  },
+  {
+    "revision": "ad97afd3337e8cda302d10ff5a4026b8",
+    "url": "/ectl/static/media/outline-icons.ad97afd3.ttf"
+  },
+  {
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "/ectl/static/media/outline-icons.cd6c777f.woff2"
+  },
+  {
+    "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
+    "url": "/ectl/static/media/outline-icons.ef60a4f6.woff"
   },
   {
     "revision": "3ed02876473f34e2dfcfd7253071f494",
