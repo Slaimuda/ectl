@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d22a396669cd09a5d5982bc0f20bdb1",
+    "revision": "d887a77e8988796d7e7188438f556ba9",
     "url": "/ectl/index.html"
   },
   {
-    "revision": "d5f27be8979f3b153a7b",
-    "url": "/ectl/static/css/2.e1f1642b.chunk.css"
+    "revision": "fd58dffa1a56487937fd",
+    "url": "/ectl/static/css/2.15259e4c.chunk.css"
   },
   {
-    "revision": "43311fe6499d7a3bc7f7",
-    "url": "/ectl/static/css/main.3d822f3b.chunk.css"
+    "revision": "c54dedf2d66fc89d5706",
+    "url": "/ectl/static/css/main.d325b735.chunk.css"
   },
   {
-    "revision": "d5f27be8979f3b153a7b",
-    "url": "/ectl/static/js/2.c7fdab48.chunk.js"
+    "revision": "fd58dffa1a56487937fd",
+    "url": "/ectl/static/js/2.d5ecebbd.chunk.js"
   },
   {
     "revision": "511b00759df6cd2713ed1e082c0b4d12",
-    "url": "/ectl/static/js/2.c7fdab48.chunk.js.LICENSE.txt"
+    "url": "/ectl/static/js/2.d5ecebbd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "43311fe6499d7a3bc7f7",
-    "url": "/ectl/static/js/main.eeb67e9d.chunk.js"
+    "revision": "c54dedf2d66fc89d5706",
+    "url": "/ectl/static/js/main.c88acd68.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -3938,6 +3938,70 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ef6748c8dbb75e7d0b811d9ff48919a1",
     "url": "/ectl/static/media/illustriousshipyardicon.ef6748c8.png"
+  },
+  {
+    "revision": "55fd95e787b2c0eff7810ed4c55752b3",
+    "url": "/ectl/static/media/image1.55fd95e7.png"
+  },
+  {
+    "revision": "8aa1628e767570aa75b33cd9c929eb42",
+    "url": "/ectl/static/media/image10.8aa1628e.png"
+  },
+  {
+    "revision": "5753654abcf4e8b651a00d389af3c53c",
+    "url": "/ectl/static/media/image11.5753654a.png"
+  },
+  {
+    "revision": "b18008fa6f062db6e20b6839883ec6bc",
+    "url": "/ectl/static/media/image12.b18008fa.png"
+  },
+  {
+    "revision": "3e33071345daa22fbe0216471746d3e6",
+    "url": "/ectl/static/media/image13.3e330713.png"
+  },
+  {
+    "revision": "377c420264cc65e572fcbfa9600ce248",
+    "url": "/ectl/static/media/image14.377c4202.png"
+  },
+  {
+    "revision": "165acb6e6224547eebcf38181d6b1d03",
+    "url": "/ectl/static/media/image16.165acb6e.png"
+  },
+  {
+    "revision": "765d7d4a5c8aa500d906284968af24d7",
+    "url": "/ectl/static/media/image17.765d7d4a.png"
+  },
+  {
+    "revision": "4a86144e87c7df8e07a73c25b878dca7",
+    "url": "/ectl/static/media/image2.4a86144e.png"
+  },
+  {
+    "revision": "371a06ef4c3b0502ef1600163dc14d0e",
+    "url": "/ectl/static/media/image3.371a06ef.png"
+  },
+  {
+    "revision": "53f9cc4e66122876443c623036f4a14e",
+    "url": "/ectl/static/media/image4.53f9cc4e.png"
+  },
+  {
+    "revision": "b08586209486de561ba788f88ad92ac4",
+    "url": "/ectl/static/media/image5.b0858620.png"
+  },
+  {
+    "revision": "c940f598a378bb3e703b25ccf68fa8fa",
+    "url": "/ectl/static/media/image6.c940f598.png"
+  },
+  {
+    "revision": "3c7fa1cc496ca1c864e5bcda8b858896",
+    "url": "/ectl/static/media/image7.3c7fa1cc.png"
+  },
+  {
+    "revision": "8a99269e432a83014a4b7714d27f75f7",
+    "url": "/ectl/static/media/image8.8a99269e.png"
+  },
+  {
+    "revision": "4089e0ef4e840ab4eb6d788acefdc296",
+    "url": "/ectl/static/media/image9.4089e0ef.png"
   },
   {
     "revision": "3d2ed5a31ccd8a7fbb526981d581c7fc",
