@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e624c074041d1941168ec64227486ee",
+    "revision": "fbd1d6a276954431fdf50a9b2086774f",
     "url": "/ectl/index.html"
   },
   {
-    "revision": "3f435dc36b391db654c6",
+    "revision": "26cc25143a5edcc6d973",
     "url": "/ectl/static/css/2.15259e4c.chunk.css"
   },
   {
-    "revision": "386c0796e2250dac0d56",
-    "url": "/ectl/static/css/main.cf450f58.chunk.css"
+    "revision": "fe47a00978f2717d7203",
+    "url": "/ectl/static/css/main.fd0652ce.chunk.css"
   },
   {
-    "revision": "3f435dc36b391db654c6",
-    "url": "/ectl/static/js/2.f6163515.chunk.js"
+    "revision": "26cc25143a5edcc6d973",
+    "url": "/ectl/static/js/2.a87cd712.chunk.js"
   },
   {
     "revision": "511b00759df6cd2713ed1e082c0b4d12",
-    "url": "/ectl/static/js/2.f6163515.chunk.js.LICENSE.txt"
+    "url": "/ectl/static/js/2.a87cd712.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "386c0796e2250dac0d56",
-    "url": "/ectl/static/js/main.4a380fa5.chunk.js"
+    "revision": "fe47a00978f2717d7203",
+    "url": "/ectl/static/js/main.3cb9978a.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -6978,6 +6978,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b61d3a602baa5e6787b6742df57d4ddd",
     "url": "/ectl/static/media/rangershipyardicon.b61d3a60.png"
+  },
+  {
+    "revision": "8c3da336070e52da2fb38ff05e2b88e8",
+    "url": "/ectl/static/media/rb_1.8c3da336.png"
+  },
+  {
+    "revision": "4d89a90315588673f88c021efbbce5d2",
+    "url": "/ectl/static/media/rb_2.4d89a903.png"
+  },
+  {
+    "revision": "b3cece91c9c62afc0257a41c2c4b6a7a",
+    "url": "/ectl/static/media/rb_3.b3cece91.png"
+  },
+  {
+    "revision": "ef831909c37e857a5840a6114e2b7015",
+    "url": "/ectl/static/media/rb_4.ef831909.png"
+  },
+  {
+    "revision": "a76088bd6b6e102545acaa60340c76ea",
+    "url": "/ectl/static/media/rb_5.a76088bd.png"
   },
   {
     "revision": "0d8a276aab2d13cd784fb817a54d8ae3",

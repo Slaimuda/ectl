@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ectl/static/css/main.cf450f58.chunk.css",
-    "main.js": "/ectl/static/js/main.4a380fa5.chunk.js",
-    "main.js.map": "/ectl/static/js/main.4a380fa5.chunk.js.map",
+    "main.css": "/ectl/static/css/main.fd0652ce.chunk.css",
+    "main.js": "/ectl/static/js/main.3cb9978a.chunk.js",
+    "main.js.map": "/ectl/static/js/main.3cb9978a.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.15259e4c.chunk.css": "/ectl/static/css/2.15259e4c.chunk.css",
-    "static/js/2.f6163515.chunk.js": "/ectl/static/js/2.f6163515.chunk.js",
-    "static/js/2.f6163515.chunk.js.map": "/ectl/static/js/2.f6163515.chunk.js.map",
+    "static/js/2.a87cd712.chunk.js": "/ectl/static/js/2.a87cd712.chunk.js",
+    "static/js/2.a87cd712.chunk.js.map": "/ectl/static/js/2.a87cd712.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.216c8c0d4cb05445c166b000db8bc4b0.js": "/ectl/precache-manifest.216c8c0d4cb05445c166b000db8bc4b0.js",
+    "precache-manifest.1e7cfe45d99772e2721824e8a3d2a286.js": "/ectl/precache-manifest.1e7cfe45d99772e2721824e8a3d2a286.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.15259e4c.chunk.css.map": "/ectl/static/css/2.15259e4c.chunk.css.map",
-    "static/css/main.cf450f58.chunk.css.map": "/ectl/static/css/main.cf450f58.chunk.css.map",
-    "static/js/2.f6163515.chunk.js.LICENSE.txt": "/ectl/static/js/2.f6163515.chunk.js.LICENSE.txt",
+    "static/css/main.fd0652ce.chunk.css.map": "/ectl/static/css/main.fd0652ce.chunk.css.map",
+    "static/js/2.a87cd712.chunk.js.LICENSE.txt": "/ectl/static/js/2.a87cd712.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.82316982.png",
     "static/media/102mm_aa_qf_4__mk_v.png": "/ectl/static/media/102mm_aa_qf_4__mk_v.dce69267.png",
     "static/media/127mm_aa_m2_browning.png": "/ectl/static/media/127mm_aa_m2_browning.4743fd30.png",
@@ -1734,6 +1734,11 @@
     "static/media/rangerkaiicon.png": "/ectl/static/media/rangerkaiicon.c084d630.png",
     "static/media/rangerkaishipyardicon.png": "/ectl/static/media/rangerkaishipyardicon.71ee67de.png",
     "static/media/rangershipyardicon.png": "/ectl/static/media/rangershipyardicon.b61d3a60.png",
+    "static/media/rb_1.png": "/ectl/static/media/rb_1.8c3da336.png",
+    "static/media/rb_2.png": "/ectl/static/media/rb_2.4d89a903.png",
+    "static/media/rb_3.png": "/ectl/static/media/rb_3.b3cece91.png",
+    "static/media/rb_4.png": "/ectl/static/media/rb_4.ef831909.png",
+    "static/media/rb_5.png": "/ectl/static/media/rb_5.a76088bd.png",
     "static/media/renobanner.png": "/ectl/static/media/renobanner.0d8a276a.png",
     "static/media/renochibi.png": "/ectl/static/media/renochibi.94532b93.png",
     "static/media/renoicon.png": "/ectl/static/media/renoicon.c04407c6.png",
@@ -2428,8 +2433,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.15259e4c.chunk.css",
-    "static/js/2.f6163515.chunk.js",
-    "static/css/main.cf450f58.chunk.css",
-    "static/js/main.4a380fa5.chunk.js"
+    "static/js/2.a87cd712.chunk.js",
+    "static/css/main.fd0652ce.chunk.css",
+    "static/js/main.3cb9978a.chunk.js"
   ]
 }
