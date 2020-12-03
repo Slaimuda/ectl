@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fbd1d6a276954431fdf50a9b2086774f",
+    "revision": "5d7918b7ffb1e380a8fad0e64971804a",
     "url": "/ectl/index.html"
   },
   {
-    "revision": "26cc25143a5edcc6d973",
+    "revision": "2c1222f209164e61c8c5",
     "url": "/ectl/static/css/2.15259e4c.chunk.css"
   },
   {
-    "revision": "fe47a00978f2717d7203",
-    "url": "/ectl/static/css/main.fd0652ce.chunk.css"
+    "revision": "b932a62eb30d59b6c78f",
+    "url": "/ectl/static/css/main.5f566607.chunk.css"
   },
   {
-    "revision": "26cc25143a5edcc6d973",
-    "url": "/ectl/static/js/2.a87cd712.chunk.js"
+    "revision": "2c1222f209164e61c8c5",
+    "url": "/ectl/static/js/2.265f4104.chunk.js"
   },
   {
     "revision": "511b00759df6cd2713ed1e082c0b4d12",
-    "url": "/ectl/static/js/2.a87cd712.chunk.js.LICENSE.txt"
+    "url": "/ectl/static/js/2.265f4104.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe47a00978f2717d7203",
-    "url": "/ectl/static/js/main.3cb9978a.chunk.js"
+    "revision": "b932a62eb30d59b6c78f",
+    "url": "/ectl/static/js/main.9797d5ea.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -2402,6 +2402,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9b170423f372e4978660d89d8d22798c",
     "url": "/ectl/static/media/essexshipyardicon.9b170423.png"
+  },
+  {
+    "revision": "68a140b2a632ee3b482b0204122e5c6a",
+    "url": "/ectl/static/media/event_banner.68a140b2.jpg"
   },
   {
     "revision": "8e23303b4806b5a470d33d9d7d362e02",
