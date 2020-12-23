@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eff5e15540c4a0d91412a6fc3163d9ee",
+    "revision": "f5a8f03155cba28bf826ff84fcaac461",
     "url": "/ectl/index.html"
   },
   {
-    "revision": "15e768cc488ce2a1d89a",
-    "url": "/ectl/static/css/2.15259e4c.chunk.css"
+    "revision": "66a9bf938827f88fb210",
+    "url": "/ectl/static/css/2.e1f1642b.chunk.css"
   },
   {
-    "revision": "00551139e9ca6e60c667",
-    "url": "/ectl/static/css/main.5f566607.chunk.css"
+    "revision": "d0e44a95bc68b621f929",
+    "url": "/ectl/static/css/main.b64d1499.chunk.css"
   },
   {
-    "revision": "15e768cc488ce2a1d89a",
-    "url": "/ectl/static/js/2.03e607ad.chunk.js"
+    "revision": "66a9bf938827f88fb210",
+    "url": "/ectl/static/js/2.84518574.chunk.js"
   },
   {
     "revision": "511b00759df6cd2713ed1e082c0b4d12",
-    "url": "/ectl/static/js/2.03e607ad.chunk.js.LICENSE.txt"
+    "url": "/ectl/static/js/2.84518574.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "00551139e9ca6e60c667",
-    "url": "/ectl/static/js/main.74255bab.chunk.js"
+    "revision": "d0e44a95bc68b621f929",
+    "url": "/ectl/static/js/main.fd2c3686.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -2404,8 +2404,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/essexshipyardicon.9b170423.png"
   },
   {
-    "revision": "25fc77d85fc8fa688e160ce738f95ab3",
-    "url": "/ectl/static/media/event_banner.25fc77d8.jpg"
+    "revision": "e606e340b2098e958b705657bef0ef66",
+    "url": "/ectl/static/media/event_banner.e606e340.jpg"
   },
   {
     "revision": "8e23303b4806b5a470d33d9d7d362e02",
@@ -5642,6 +5642,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b2fd46c0eab97e628a0c6f99adba3d9a",
     "url": "/ectl/static/media/memphisshipyardicon.b2fd46c0.png"
+  },
+  {
+    "revision": "c58176bbff0572505e8c4766c1cb1a2a",
+    "url": "/ectl/static/media/menu1.c58176bb.jpg"
+  },
+  {
+    "revision": "4baf0ddeb3b480d58bda7cf3cf804b80",
+    "url": "/ectl/static/media/menu2.4baf0dde.jpg"
   },
   {
     "revision": "8237deaa0ff119861e94bb87fbc9666a",
