@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd03bb6f61f929669cbb09699cb4bae7",
+    "revision": "693c8bbb1c8d3930cc5177c91c83ec90",
     "url": "/ectl/index.html"
   },
   {
-    "revision": "f8439104492e64170be2",
+    "revision": "72fb188e247df22b4daa",
     "url": "/ectl/static/css/2.e1f1642b.chunk.css"
   },
   {
-    "revision": "526287ed0176a6589026",
-    "url": "/ectl/static/css/main.a693e3a0.chunk.css"
+    "revision": "8c737383ed23bbe726d7",
+    "url": "/ectl/static/css/main.d1764c7d.chunk.css"
   },
   {
-    "revision": "f8439104492e64170be2",
-    "url": "/ectl/static/js/2.c9df1848.chunk.js"
+    "revision": "72fb188e247df22b4daa",
+    "url": "/ectl/static/js/2.23402f94.chunk.js"
   },
   {
     "revision": "511b00759df6cd2713ed1e082c0b4d12",
-    "url": "/ectl/static/js/2.c9df1848.chunk.js.LICENSE.txt"
+    "url": "/ectl/static/js/2.23402f94.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "526287ed0176a6589026",
-    "url": "/ectl/static/js/main.62aa0689.chunk.js"
+    "revision": "8c737383ed23bbe726d7",
+    "url": "/ectl/static/js/main.caf38086.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -36,8 +36,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/102mm_aa_qf_4__mk_v.dce69267.png"
   },
   {
+    "revision": "f40868b88a7bc915751aca8cbae6788d",
+    "url": "/ectl/static/media/120mm_highangle_gun_mk_viii.f40868b8.png"
+  },
+  {
     "revision": "4743fd307bd5e176a9051513eb0cfd20",
     "url": "/ectl/static/media/127mm_aa_m2_browning.4743fd30.png"
+  },
+  {
+    "revision": "cdb693a95d7b0130338cc54b4a3c39f9",
+    "url": "/ectl/static/media/127mm_type_89_highangle.cdb693a9.png"
   },
   {
     "revision": "ed1f75b06d34f83718d1cf9d9ee95c13",
@@ -104,6 +112,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/533mm_quintuple_torpedo_mount.cef1f550.png"
   },
   {
+    "revision": "476eba699f5bf7127a6d6cab99e008a9",
+    "url": "/ectl/static/media/533mm_quintuple_torpedo_mount_mk_ix.476eba69.png"
+  },
+  {
     "revision": "a5cf2dd410f1285dcc115ba789d2245f",
     "url": "/ectl/static/media/533mm_triple_homing_torpedo_mount.a5cf2dd4.png"
   },
@@ -118,6 +130,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e276f5e137e8b31315f430044b956e3a",
     "url": "/ectl/static/media/610mm_quadruple_torpedo_mount.e276f5e1.png"
+  },
+  {
+    "revision": "7fcf43ab7c352f371f1ed9c5110881d1",
+    "url": "/ectl/static/media/610mm_quadruple_torpedo_mount_kai.7fcf43ab.png"
   },
   {
     "revision": "e2acf774c05880bee4930ce6a9d4aba3",
@@ -2176,6 +2192,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/douglas_tbd_devastator_vt8.fd34544c.png"
   },
   {
+    "revision": "66b8c5bd0a3c912c0880fa734b8810e1",
+    "url": "/ectl/static/media/douglas_xtb2d1_skypirate.66b8c5bd.png"
+  },
+  {
     "revision": "fd93db4fb108b6def2eacaca95746fc5",
     "url": "/ectl/static/media/downesbanner.fd93db4f.png"
   },
@@ -3088,6 +3108,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/grumman_f6f_hellcat.740c0ec7.png"
   },
   {
+    "revision": "06fb14fb499966bcf52f3a376a13146a",
+    "url": "/ectl/static/media/grumman_f7f_tigercat.06fb14fb.png"
+  },
+  {
     "revision": "67f181c9187388e09cc4461ddc25f5f4",
     "url": "/ectl/static/media/grumman_tbf_avenger.67f181c9.png"
   },
@@ -3502,6 +3526,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3ade12962ed174df9d34460a018a2b18",
     "url": "/ectl/static/media/high_performance_fire_control_radar.3ade1296.png"
+  },
+  {
+    "revision": "036a1bbd65ff5581512eee13d7df3a23",
+    "url": "/ectl/static/media/hiryuu metabanner.036a1bbd.png"
+  },
+  {
+    "revision": "7f89fcbb4bd59f4a502bc69e1486d72a",
+    "url": "/ectl/static/media/hiryuu metachibi.7f89fcbb.png"
+  },
+  {
+    "revision": "38028fa0176ca6620d3cd98d1a58d1d1",
+    "url": "/ectl/static/media/hiryuu metaicon.38028fa0.png"
+  },
+  {
+    "revision": "9721650d87deca563e8c0b06a455dd33",
+    "url": "/ectl/static/media/hiryuu metashipyardicon.9721650d.png"
   },
   {
     "revision": "46c019a960257870f885431f6b3c8446",
@@ -6476,6 +6516,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/nyotengushipyardicon.85e21bd0.png"
   },
   {
+    "revision": "58fc84e3a6f18344ff20d2541b0b498f",
+    "url": "/ectl/static/media/nürnbergbanner.58fc84e3.png"
+  },
+  {
+    "revision": "889beb00b6949ccf7191a02e1775b0a3",
+    "url": "/ectl/static/media/nürnbergchibi.889beb00.png"
+  },
+  {
+    "revision": "000e2a6b06232d9ef8b9f1b1350e33de",
+    "url": "/ectl/static/media/nürnbergicon.000e2a6b.png"
+  },
+  {
+    "revision": "6e16ca7e6fbfc093b6624c7dcd67e9e4",
+    "url": "/ectl/static/media/nürnbergshipyardicon.6e16ca7e.png"
+  },
+  {
     "revision": "20b2da41a603ae3798749282061ed4e4",
     "url": "/ectl/static/media/ocean_soul_camouflage.20b2da41.png"
   },
@@ -6684,6 +6740,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/perseusshipyardicon.94d27e72.png"
   },
   {
+    "revision": "4fc620f854f460a16c226838b4abbf46",
+    "url": "/ectl/static/media/peter strasserbanner.4fc620f8.png"
+  },
+  {
+    "revision": "9fbebc4e221d31135bae919d1f7e14d5",
+    "url": "/ectl/static/media/peter strasserchibi.9fbebc4e.png"
+  },
+  {
+    "revision": "25fdd4413d82ccd8f50a2d5d62da2f4e",
+    "url": "/ectl/static/media/peter strassericon.25fdd441.png"
+  },
+  {
+    "revision": "df72ce3d6cf5243711e9506502894bc4",
+    "url": "/ectl/static/media/peter strassershipyardicon.df72ce3d.png"
+  },
+  {
     "revision": "df4ec8b239d2938e12368fa56758f0dc",
     "url": "/ectl/static/media/phoenixbanner.df4ec8b2.png"
   },
@@ -6820,6 +6892,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/prinz eugenshipyardicon.b75b41f4.png"
   },
   {
+    "revision": "8578a39ce89b3890e40eaaaeaf36dbe1",
+    "url": "/ectl/static/media/prinz heinrichbanner.8578a39c.png"
+  },
+  {
+    "revision": "8df33a16aa2c3a5fe4864583b30cb0a1",
+    "url": "/ectl/static/media/prinz heinrichchibi.8df33a16.png"
+  },
+  {
+    "revision": "158080687f060f16f291488d98ee1891",
+    "url": "/ectl/static/media/prinz heinrichicon.15808068.png"
+  },
+  {
+    "revision": "6c0687b99bfba8f9a199b56efa277dd2",
+    "url": "/ectl/static/media/prinz heinrichshipyardicon.6c0687b9.png"
+  },
+  {
     "revision": "27d6016c816328bd6988391c0b3cee9a",
     "url": "/ectl/static/media/prototype bulin mkiibanner.27d6016c.png"
   },
@@ -6862,6 +6950,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "114cd08a5f970b622da5f385863c49ae",
     "url": "/ectl/static/media/quadruple_20mm_aa_flakvierling_38.114cd08a.png"
+  },
+  {
+    "revision": "fb68ceef9823344401d63e734ec2af36",
+    "url": "/ectl/static/media/quadruple_20mm_aa_oerlikon_mk_15.fb68ceef.png"
   },
   {
     "revision": "e9fa4f47d260cb12f9095e8914fec3b4",
@@ -8004,6 +8096,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/supermarine_seafire.a7572222.png"
   },
   {
+    "revision": "6d50d8865561ba64d9eca4c343b89f20",
+    "url": "/ectl/static/media/supermarine_seafire_fr_mk_47.6d50d886.png"
+  },
+  {
     "revision": "bdb6fd1e355bdcf5310bb49cdff75595",
     "url": "/ectl/static/media/surcoufbanner.bdb6fd1e.png"
   },
@@ -8388,6 +8484,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/triple_152mm_6_47_mk_16.26b3f761.png"
   },
   {
+    "revision": "96823fb7f1d0cde53a3e0752535c2572",
+    "url": "/ectl/static/media/triple_152mm_6_47_mk_16_mod_1.96823fb7.png"
+  },
+  {
     "revision": "f630872ec45f3ab5d905ff3e16e0754f",
     "url": "/ectl/static/media/triple_152mm_6_47_mk_17_dp_prototype.f630872e.png"
   },
@@ -8412,6 +8512,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/triple_203mm_8_55_mk_15.bee70063.png"
   },
   {
+    "revision": "3367acf9ef74557742b58d7ec9c9a9d9",
+    "url": "/ectl/static/media/triple_203mm_8_55_mk_15_t0.3367acf9.png"
+  },
+  {
     "revision": "957fd60c7f6f19bc75f38423f899d313",
     "url": "/ectl/static/media/triple_203mm_8_55_mk_9.957fd60c.png"
   },
@@ -8422,6 +8526,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "957fd60c7f6f19bc75f38423f899d313",
     "url": "/ectl/static/media/triple_203mm_8quot55_mk_9.957fd60c.png"
+  },
+  {
+    "revision": "1d53f2201887cc6098575bd0ff52db79",
+    "url": "/ectl/static/media/triple_203mm_bl_mk_ix_prototype.1d53f220.png"
   },
   {
     "revision": "2d652c6f09b23e8a73317732c12da76e",
@@ -8506,6 +8614,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7347c9a2654e798808b29185d57e08a9",
     "url": "/ectl/static/media/twin_127mm_type_3.7347c9a2.png"
+  },
+  {
+    "revision": "f127fef918016be58cbf204e56794289",
+    "url": "/ectl/static/media/twin_127mm_type_3_mod_b.f127fef9.png"
   },
   {
     "revision": "10523fcea681504601aa3656b1d41265",
@@ -8648,6 +8760,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/twin_40mm_bofors_hazemeyer_mount_mk_iv.b4e20fcb.png"
   },
   {
+    "revision": "e2f2dfad8e9c4f370a98f8187e738da7",
+    "url": "/ectl/static/media/twin_40mm_bofors_highangle_gun_mk_i.e2f2dfad.png"
+  },
+  {
     "revision": "5a83e1aaf2dde9c0d4bef0f137b24703",
     "url": "/ectl/static/media/twin_40mm_bofors_highangle_type_98.5a83e1aa.png"
   },
@@ -8672,8 +8788,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/twin_410mm_3rd_year_type.eee716b1.png"
   },
   {
+    "revision": "677e7f56e247996f8029ad983806bfc2",
+    "url": "/ectl/static/media/twin_410mm_3rd_year_type_kai.677e7f56.png"
+  },
+  {
     "revision": "eee716b138f39d6b2d5669e6c9b5b329",
     "url": "/ectl/static/media/twin_410mm_type_3_shell.eee716b1.png"
+  },
+  {
+    "revision": "f7093ead80c613cbfdf897137f08457b",
+    "url": "/ectl/static/media/twin_76mm_aa_gun_3_50_mk_27.f7093ead.png"
   },
   {
     "revision": "a634f5c4507af84a9e3e0db50f511297",
@@ -8722,6 +8846,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4fd28a36976750f339aa406f4a99978a",
     "url": "/ectl/static/media/u-110shipyardicon.4fd28a36.png"
+  },
+  {
+    "revision": "b6313deaf8c3616f877a0c6869a4c189",
+    "url": "/ectl/static/media/u-37banner.b6313dea.png"
+  },
+  {
+    "revision": "34726e0b1c25890f7b4632abb6bdb43b",
+    "url": "/ectl/static/media/u-37chibi.34726e0b.png"
+  },
+  {
+    "revision": "f18ddcb0bac74f9d6ede6b213afb3e58",
+    "url": "/ectl/static/media/u-37icon.f18ddcb0.png"
+  },
+  {
+    "revision": "2568a50e630b8367a7db01dd78e1eacb",
+    "url": "/ectl/static/media/u-37shipyardicon.2568a50e.png"
   },
   {
     "revision": "7db4ad1d7f0147b39d30356f00db276a",
@@ -9200,6 +9340,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/waspshipyardicon.cd8be7d0.png"
   },
   {
+    "revision": "ce8fb5bf34cad270cc9e1c2992e6f5f4",
+    "url": "/ectl/static/media/weserbanner.ce8fb5bf.png"
+  },
+  {
+    "revision": "9dfbe61fc8beed39e0f3290fc14f488c",
+    "url": "/ectl/static/media/weserchibi.9dfbe61f.png"
+  },
+  {
+    "revision": "169fcd5c976ae2158d362638ee6288cb",
+    "url": "/ectl/static/media/wesericon.169fcd5c.png"
+  },
+  {
+    "revision": "a901bd3b2e180ea9826e2ba1b76c19f7",
+    "url": "/ectl/static/media/wesershipyardicon.a901bd3b.png"
+  },
+  {
     "revision": "eac30b18a6387e213c5fad62cccdbddd",
     "url": "/ectl/static/media/west virginiabanner.eac30b18.png"
   },
@@ -9592,6 +9748,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/z23shipyardicon.f5cc32ed.png"
   },
   {
+    "revision": "2a005aa6279364916fc6234d2d7427dd",
+    "url": "/ectl/static/media/z24banner.2a005aa6.png"
+  },
+  {
+    "revision": "b271dc12a9e712c76a6f6bad2d2c4d2c",
+    "url": "/ectl/static/media/z24chibi.b271dc12.png"
+  },
+  {
+    "revision": "70e35582241f3e2dcf15f4d92e6e2bf1",
+    "url": "/ectl/static/media/z24icon.70e35582.png"
+  },
+  {
+    "revision": "5fec42bc84df9709a1f39af4029a8619",
+    "url": "/ectl/static/media/z24shipyardicon.5fec42bc.png"
+  },
+  {
     "revision": "3daea1685374950bff23696dc744b7ec",
     "url": "/ectl/static/media/z25banner.3daea168.png"
   },
@@ -9622,6 +9794,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "028e386a7491fbdfc857267481b482d2",
     "url": "/ectl/static/media/z26shipyardicon.028e386a.png"
+  },
+  {
+    "revision": "4d01f03e675d2882838043613fd6d044",
+    "url": "/ectl/static/media/z28banner.4d01f03e.png"
+  },
+  {
+    "revision": "cb63683ec1dd1b97b0cc56e65d5b9591",
+    "url": "/ectl/static/media/z28chibi.cb63683e.png"
+  },
+  {
+    "revision": "4c71cd1546b833416152058e7b9d0f15",
+    "url": "/ectl/static/media/z28icon.4c71cd15.png"
+  },
+  {
+    "revision": "586c4a852a5b13f47ec110615ee5a4ed",
+    "url": "/ectl/static/media/z28shipyardicon.586c4a85.png"
   },
   {
     "revision": "4b898aa26c4659e261293624fdfd4dee",
