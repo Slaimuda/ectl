@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "693c8bbb1c8d3930cc5177c91c83ec90",
+    "revision": "9438dc3ef7764d4f404e6a05dccbffea",
     "url": "/ectl/index.html"
   },
   {
-    "revision": "72fb188e247df22b4daa",
+    "revision": "df58c3a3d422f76fb91c",
     "url": "/ectl/static/css/2.e1f1642b.chunk.css"
   },
   {
-    "revision": "8c737383ed23bbe726d7",
-    "url": "/ectl/static/css/main.d1764c7d.chunk.css"
+    "revision": "b8b08e4717f46949f986",
+    "url": "/ectl/static/css/main.088d092b.chunk.css"
   },
   {
-    "revision": "72fb188e247df22b4daa",
-    "url": "/ectl/static/js/2.23402f94.chunk.js"
+    "revision": "df58c3a3d422f76fb91c",
+    "url": "/ectl/static/js/2.fce9db68.chunk.js"
   },
   {
     "revision": "511b00759df6cd2713ed1e082c0b4d12",
-    "url": "/ectl/static/js/2.23402f94.chunk.js.LICENSE.txt"
+    "url": "/ectl/static/js/2.fce9db68.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8c737383ed23bbe726d7",
-    "url": "/ectl/static/js/main.caf38086.chunk.js"
+    "revision": "b8b08e4717f46949f986",
+    "url": "/ectl/static/js/main.49f9e62d.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "695f626cb031276bc54660a0ab9a5167",
     "url": "/ectl/static/media/25mm_aa_type_96.695f626c.png"
+  },
+  {
+    "revision": "3ce99e74186b57de9c7e02ba7382f0fc",
+    "url": "/ectl/static/media/25mm_type_96_triple_ataa_gun.3ce99e74.png"
   },
   {
     "revision": "8657b8009155b8a7c55f5acb4c9eee3a",
@@ -8572,8 +8576,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/twin_100mm_mz14.f6134171.png"
   },
   {
-    "revision": "be8274d33626f36e155d275e9dfc3802",
-    "url": "/ectl/static/media/twin_100mm_type_98.be8274d3.png"
+    "revision": "dee0664c1ffcaca12244a7ca75a28465",
+    "url": "/ectl/static/media/twin_100mm_type_98.dee0664c.png"
   },
   {
     "revision": "317cc77b03f58c967af66729f5c0ae2d",
