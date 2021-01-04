@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ectl/static/css/main.5e18c173.chunk.css",
-    "main.js": "/ectl/static/js/main.7baef042.chunk.js",
-    "main.js.map": "/ectl/static/js/main.7baef042.chunk.js.map",
+    "main.css": "/ectl/static/css/main.1847c21f.chunk.css",
+    "main.js": "/ectl/static/js/main.93f89078.chunk.js",
+    "main.js.map": "/ectl/static/js/main.93f89078.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.e1f1642b.chunk.css": "/ectl/static/css/2.e1f1642b.chunk.css",
     "static/js/2.d2d6f182.chunk.js": "/ectl/static/js/2.d2d6f182.chunk.js",
     "static/js/2.d2d6f182.chunk.js.map": "/ectl/static/js/2.d2d6f182.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.fccdb179547a681cb07997baa94ef391.js": "/ectl/precache-manifest.fccdb179547a681cb07997baa94ef391.js",
+    "precache-manifest.51e2a734d60370cd91751a239ec113b3.js": "/ectl/precache-manifest.51e2a734d60370cd91751a239ec113b3.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.e1f1642b.chunk.css.map": "/ectl/static/css/2.e1f1642b.chunk.css.map",
-    "static/css/main.5e18c173.chunk.css.map": "/ectl/static/css/main.5e18c173.chunk.css.map",
+    "static/css/main.1847c21f.chunk.css.map": "/ectl/static/css/main.1847c21f.chunk.css.map",
     "static/js/2.d2d6f182.chunk.js.LICENSE.txt": "/ectl/static/js/2.d2d6f182.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.82316982.png",
     "static/media/102mm_aa_qf_4__mk_v.png": "/ectl/static/media/102mm_aa_qf_4__mk_v.dce69267.png",
@@ -25,7 +25,6 @@
     "static/media/22icon.png": "/ectl/static/media/22icon.d47d5ccf.png",
     "static/media/22shipyardicon.png": "/ectl/static/media/22shipyardicon.b9648b24.png",
     "static/media/25mm_aa_type_96.png": "/ectl/static/media/25mm_aa_type_96.695f626c.png",
-    "static/media/25mm_type_96_triple_ataa_gun.png": "/ectl/static/media/25mm_type_96_triple_ataa_gun.3ce99e74.png",
     "static/media/33banner.png": "/ectl/static/media/33banner.8657b800.png",
     "static/media/33chibi.png": "/ectl/static/media/33chibi.30d180c5.png",
     "static/media/33icon.png": "/ectl/static/media/33icon.e236a16f.png",
@@ -2125,6 +2124,7 @@
     "static/media/triple_203mm_bl_mk_ix_prototype.png": "/ectl/static/media/triple_203mm_bl_mk_ix_prototype.1d53f220.png",
     "static/media/triple_203mm_mle_1934_prototype.png": "/ectl/static/media/triple_203mm_mle_1934_prototype.2d652c6f.png",
     "static/media/triple_25mm_aa_type_96.png": "/ectl/static/media/triple_25mm_aa_type_96.6bad0f4f.png",
+    "static/media/triple_25mm_aa_type_96_blast_shield.png": "/ectl/static/media/triple_25mm_aa_type_96_blast_shield.3ce99e74.png",
     "static/media/triple_305mm_sk_c39_prototype.png": "/ectl/static/media/triple_305mm_sk_c39_prototype.9de5786b.png",
     "static/media/triple_310mm_type_0_prototype.png": "/ectl/static/media/triple_310mm_type_0_prototype.98dce5c5.png",
     "static/media/triple_356mm_14_50_mk_11.png": "/ectl/static/media/triple_356mm_14_50_mk_11.33aaf691.png",
@@ -2485,7 +2485,7 @@
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.e1f1642b.chunk.css",
     "static/js/2.d2d6f182.chunk.js",
-    "static/css/main.5e18c173.chunk.css",
-    "static/js/main.7baef042.chunk.js"
+    "static/css/main.1847c21f.chunk.css",
+    "static/js/main.93f89078.chunk.js"
   ]
 }
