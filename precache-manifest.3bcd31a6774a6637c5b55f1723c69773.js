@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ecb27dd137a114d2482249b0db158e7",
+    "revision": "feef53729277b216853a3f25c295bd12",
     "url": "/ectl/index.html"
   },
   {
-    "revision": "104b79a7170a7b24cacf",
+    "revision": "6dd32655a9797a3c702d",
     "url": "/ectl/static/css/2.e1f1642b.chunk.css"
   },
   {
-    "revision": "afc824f25ba87e1b40bd",
-    "url": "/ectl/static/css/main.edef586a.chunk.css"
+    "revision": "eec89ef2b00650a4644a",
+    "url": "/ectl/static/css/main.a693e3a0.chunk.css"
   },
   {
-    "revision": "104b79a7170a7b24cacf",
-    "url": "/ectl/static/js/2.d9f247e8.chunk.js"
+    "revision": "6dd32655a9797a3c702d",
+    "url": "/ectl/static/js/2.85f5de59.chunk.js"
   },
   {
     "revision": "511b00759df6cd2713ed1e082c0b4d12",
-    "url": "/ectl/static/js/2.d9f247e8.chunk.js.LICENSE.txt"
+    "url": "/ectl/static/js/2.85f5de59.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "afc824f25ba87e1b40bd",
-    "url": "/ectl/static/js/main.0ac80a49.chunk.js"
+    "revision": "eec89ef2b00650a4644a",
+    "url": "/ectl/static/js/main.e24b53b9.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -152,8 +152,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/76mm_aa_gun_3_50_mk_22.10966290.png"
   },
   {
-    "revision": "10966290abd3a41f609b4ef3c8c2bfc5",
-    "url": "/ectl/static/media/76mm_aa_gun_3quot50_mk_22.10966290.png"
+    "revision": "8613ebdfebef137c51ad0d9033a8029a",
+    "url": "/ectl/static/media/76mm_highangle_gun_3_50_mk_22.8613ebdf.png"
   },
   {
     "revision": "a7fa99090c8d93c260f96d2c0f7ec684",
@@ -1358,6 +1358,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e9458bb19b5df27b6088bbea0ff3041a",
     "url": "/ectl/static/media/brewster_f2a_buffalo_thach_squadron.e9458bb1.png"
+  },
+  {
+    "revision": "4206da190f8e9ffabff9693318d9f4ed",
+    "url": "/ectl/static/media/brewster_xf2a4_buffalo_prototype.4206da19.png"
   },
   {
     "revision": "4a856de643532a824b5afcbb002e028d",
@@ -3112,6 +3116,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/grumman_f7f_tigercat.06fb14fb.png"
   },
   {
+    "revision": "ed70915021300b74546e3ce6272f65f9",
+    "url": "/ectl/static/media/grumman_f8f_bearcat.ed709150.png"
+  },
+  {
     "revision": "67f181c9187388e09cc4461ddc25f5f4",
     "url": "/ectl/static/media/grumman_tbf_avenger.67f181c9.png"
   },
@@ -3394,6 +3402,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "278375ca6eee10bdf6626201d2aa3dd0",
     "url": "/ectl/static/media/hedgehog.278375ca.png"
+  },
+  {
+    "revision": "d0e0115f67005feb42f4809346cb1bdd",
+    "url": "/ectl/static/media/heinkel_he_50b.d0e0115f.png"
   },
   {
     "revision": "3dfe72ac325dd8a13a99925bd4ef62e0",
@@ -4706,6 +4718,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ed57482436e9874a17291b2273424f55",
     "url": "/ectl/static/media/kawakazeshipyardicon.ed574824.png"
+  },
+  {
+    "revision": "fec47d8078a3538e450bd539f1501106",
+    "url": "/ectl/static/media/kawanishi_n1k1_kyoufuu.fec47d80.png"
   },
   {
     "revision": "f8030dba1707e2e6495d1c292eab21f3",
@@ -6964,12 +6980,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/quadruple_330mm_mle_1931.4ca2451d.png"
   },
   {
-    "revision": "67b146f3d666362f6642963b2d7b1356",
-    "url": "/ectl/static/media/quadruple_356mm_bl_14__mk_vii.67b146f3.png"
+    "revision": "24683efb299274ecc804162cac93b29a",
+    "url": "/ectl/static/media/quadruple_356mm_14_50_mark_b_prototype.24683efb.png"
   },
   {
     "revision": "67b146f3d666362f6642963b2d7b1356",
-    "url": "/ectl/static/media/quadruple_356mm_bl_14quot_mk_vii.67b146f3.png"
+    "url": "/ectl/static/media/quadruple_356mm_bl_14__mk_vii.67b146f3.png"
   },
   {
     "revision": "b51b0d51c68c86e0e0388e04b7ebda59",
@@ -7764,10 +7780,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/single_127mm_5_38_mk_30.6119d1f1.png"
   },
   {
-    "revision": "6119d1f19f61a2bfa77bb7d786a9984f",
-    "url": "/ectl/static/media/single_127mm_5quot38_mk_30.6119d1f1.png"
-  },
-  {
     "revision": "923696f738d2bf913e3396df3d4d9c6a",
     "url": "/ectl/static/media/single_127mm_sk_c34.923696f7.png"
   },
@@ -7810,10 +7822,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ec0ae1e1fac1567e4b343b9a927d4635",
     "url": "/ectl/static/media/single_76mm_3_50_caliber_gun.ec0ae1e1.png"
-  },
-  {
-    "revision": "ec0ae1e1fac1567e4b343b9a927d4635",
-    "url": "/ectl/static/media/single_76mm_3quot50_caliber_gun.ec0ae1e1.png"
   },
   {
     "revision": "988c21f9b69672f729b0245840ae4503",
@@ -8492,12 +8500,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/triple_152mm_6_47_mk_17_dp_prototype.f630872e.png"
   },
   {
-    "revision": "26b3f761232061cf452d203eeb9edd8f",
-    "url": "/ectl/static/media/triple_152mm_6quot47_mk_16.26b3f761.png"
-  },
-  {
-    "revision": "f630872ec45f3ab5d905ff3e16e0754f",
-    "url": "/ectl/static/media/triple_152mm_6quot47_mk_17_dp_prototype.f630872e.png"
+    "revision": "2a4313082dd530f21d406caf6c15d324",
+    "url": "/ectl/static/media/triple_152mm_bl_6__mk_xxiii.2a431308.png"
   },
   {
     "revision": "d2da2df2f325c0b5ebcd949d9759c420",
@@ -8506,6 +8510,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "39f02de09592228368357c9a2b997002",
     "url": "/ectl/static/media/triple_155mm_3rd_year_type.39f02de0.png"
+  },
+  {
+    "revision": "45e760792f6333ff241e9c5631709781",
+    "url": "/ectl/static/media/triple_203mm_8_55_mk_13.45e76079.png"
   },
   {
     "revision": "bee70063ddd615aae65eb112cf5b5e69",
@@ -8518,14 +8526,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "957fd60c7f6f19bc75f38423f899d313",
     "url": "/ectl/static/media/triple_203mm_8_55_mk_9.957fd60c.png"
-  },
-  {
-    "revision": "bee70063ddd615aae65eb112cf5b5e69",
-    "url": "/ectl/static/media/triple_203mm_8quot55_mk_15.bee70063.png"
-  },
-  {
-    "revision": "957fd60c7f6f19bc75f38423f899d313",
-    "url": "/ectl/static/media/triple_203mm_8quot55_mk_9.957fd60c.png"
   },
   {
     "revision": "1d53f2201887cc6098575bd0ff52db79",
@@ -8580,8 +8580,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/twin_100mm_type_98.dee0664c.png"
   },
   {
-    "revision": "317cc77b03f58c967af66729f5c0ae2d",
-    "url": "/ectl/static/media/twin_102mm_qf_mk_xvi.317cc77b.png"
+    "revision": "6e9b98f0b45353a39764be3413e076d9",
+    "url": "/ectl/static/media/twin_102mm_qf_mk_xvi.6e9b98f0.png"
   },
   {
     "revision": "a5e1c4721189f07f404c0028cbe6ecb5",
@@ -8608,12 +8608,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/twin_120mm_qf_mark_xii.cf5981c0.png"
   },
   {
+    "revision": "b929b3ad63c79fc1ae4f2f130cea52aa",
+    "url": "/ectl/static/media/twin_127mm_5_38_mk_32.b929b3ad.png"
+  },
+  {
     "revision": "fb5f5200f77d4839bbd03d6a144e48df",
     "url": "/ectl/static/media/twin_127mm_5_38_mk_38.fb5f5200.png"
   },
   {
     "revision": "4900a4ba3a8a7bcb7e22a15bc347b980",
     "url": "/ectl/static/media/twin_127mm_aa_gun_type_89.4900a4ba.png"
+  },
+  {
+    "revision": "cdb693a95d7b0130338cc54b4a3c39f9",
+    "url": "/ectl/static/media/twin_127mm_highangle_gun_type_89_a1_mod_2.cdb693a9.png"
   },
   {
     "revision": "7347c9a2654e798808b29185d57e08a9",
@@ -8652,6 +8660,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/twin_152mm_41st_year_type.b925c7f8.png"
   },
   {
+    "revision": "48cd605089bbbaf82ad4339707c82d75",
+    "url": "/ectl/static/media/twin_152mm_6_53_mk_15.48cd6050.png"
+  },
+  {
     "revision": "212305494743c511c96a6bf55f351358",
     "url": "/ectl/static/media/twin_152mm_6_53_mk_18.21230549.png"
   },
@@ -8678,10 +8690,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b6a97871bac38246e6eaa3c9b0a7f059",
     "url": "/ectl/static/media/twin_203mm_bl_8__mk_viii.b6a97871.png"
-  },
-  {
-    "revision": "b6a97871bac38246e6eaa3c9b0a7f059",
-    "url": "/ectl/static/media/twin_203mm_bl_8quot_mk_viii.b6a97871.png"
   },
   {
     "revision": "45eec3d60574fe7d4b47152cbcc742d7",
@@ -8712,6 +8720,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/twin_356mm_41st_year_type.9efea401.png"
   },
   {
+    "revision": "000a1332660da343caecf49527d19052",
+    "url": "/ectl/static/media/twin_37mm_aa_gun_flak_m43.000a1332.png"
+  },
+  {
     "revision": "efb0cc503ba4fcd1ed7de5afb8dc8f8d",
     "url": "/ectl/static/media/twin_37mm_aa_gun_sk_c30.efb0cc50.png"
   },
@@ -8736,28 +8748,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/twin_381mm_bl_15__mk_ii.5eba5a48.png"
   },
   {
-    "revision": "fde5e08e61abb788524cb327c2cb07a3",
-    "url": "/ectl/static/media/twin_381mm_bl_15quot_mk_i.fde5e08e.png"
-  },
-  {
-    "revision": "5eba5a48211ec3f6684bd0b16336ea3c",
-    "url": "/ectl/static/media/twin_381mm_bl_15quot_mk_ii.5eba5a48.png"
+    "revision": "5291dcd795b137a968a65eda276dc6d5",
+    "url": "/ectl/static/media/twin_406mm_16_45_mk_1.5291dcd7.png"
   },
   {
     "revision": "1d896df326328628af80a9fea45a67bf",
     "url": "/ectl/static/media/twin_406mm_16_45_mk_5.1d896df3.png"
   },
   {
-    "revision": "1d896df326328628af80a9fea45a67bf",
-    "url": "/ectl/static/media/twin_406mm_16quot45_mk_5.1d896df3.png"
-  },
-  {
     "revision": "76ccba2f78b39c0c6be4081233151c9b",
     "url": "/ectl/static/media/twin_406mm_sk_c34_prototype.76ccba2f.png"
   },
   {
-    "revision": "42444ae3e388b863ce26209bf48c2aad",
-    "url": "/ectl/static/media/twin_40mm_aa_l60_bofors.42444ae3.png"
+    "revision": "0743f5e9093dd0eb6764988862630ca0",
+    "url": "/ectl/static/media/twin_40mm_aa_l60_bofors.0743f5e9.png"
   },
   {
     "revision": "b4e20fcb511729d99cf6cfe26cbab32b",
@@ -8782,10 +8786,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "61520819933f5f000eccbc494cc83406",
     "url": "/ectl/static/media/twin_40mm_vickers__hi__shiki_type_91.61520819.png"
-  },
-  {
-    "revision": "61520819933f5f000eccbc494cc83406",
-    "url": "/ectl/static/media/twin_40mm_vickers_quothiquot_shiki_type_91.61520819.png"
   },
   {
     "revision": "eee716b138f39d6b2d5669e6c9b5b329",
