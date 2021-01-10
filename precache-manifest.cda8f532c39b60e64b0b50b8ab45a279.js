@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4dce444c62d814fd9aa6540fea2b14ec",
+    "revision": "7db56e21f5f5e721aa79d21576e78c5c",
     "url": "/ectl/index.html"
   },
   {
-    "revision": "6dd32655a9797a3c702d",
+    "revision": "a1e254f4fd3225a80e4f",
     "url": "/ectl/static/css/2.e1f1642b.chunk.css"
   },
   {
-    "revision": "709b94d9645bae6addee",
-    "url": "/ectl/static/css/main.a693e3a0.chunk.css"
+    "revision": "fa9d988e23aa7078a375",
+    "url": "/ectl/static/css/main.a674e894.chunk.css"
   },
   {
-    "revision": "6dd32655a9797a3c702d",
-    "url": "/ectl/static/js/2.85f5de59.chunk.js"
+    "revision": "a1e254f4fd3225a80e4f",
+    "url": "/ectl/static/js/2.6249f345.chunk.js"
   },
   {
     "revision": "511b00759df6cd2713ed1e082c0b4d12",
-    "url": "/ectl/static/js/2.85f5de59.chunk.js.LICENSE.txt"
+    "url": "/ectl/static/js/2.6249f345.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "709b94d9645bae6addee",
-    "url": "/ectl/static/js/main.51f8e1cc.chunk.js"
+    "revision": "fa9d988e23aa7078a375",
+    "url": "/ectl/static/js/main.1902c9da.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -526,6 +526,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c94e3f1f9a18a05f86da0218e0a495d1",
     "url": "/ectl/static/media/algérieshipyardicon.c94e3f1f.png"
+  },
+  {
+    "revision": "1b6a077cd022fd8bbacbceb8076ab5f0",
+    "url": "/ectl/static/media/alm.1b6a077c.jpg"
   },
   {
     "revision": "bc20da26bbbd3d49c6de9f27e03f8cf2",
@@ -1542,6 +1546,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b0ebebeaf4a315f5805fd103c64d4187",
     "url": "/ectl/static/media/cavallashipyardicon.b0ebebea.png"
+  },
+  {
+    "revision": "4930dc2eb432709dc68b45536d2c5f75",
+    "url": "/ectl/static/media/cay_pvp_score_table.4930dc2e.png"
   },
   {
     "revision": "d712873571dbc45724a46cc7f123387b",
