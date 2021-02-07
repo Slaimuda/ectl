@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee5ac08724757ae8425f19491ec8257d",
+    "revision": "e4deaa8cee5d1eb2f44e341a2c38a9cc",
     "url": "/ectl/index.html"
   },
   {
-    "revision": "236ddc2476316c534f01",
+    "revision": "6e16f6f3cd91817bcf43",
     "url": "/ectl/static/css/2.e1f1642b.chunk.css"
   },
   {
-    "revision": "0750ebe1678d42f01c9f",
-    "url": "/ectl/static/css/main.5e18c173.chunk.css"
+    "revision": "6a8014d3b94519786e1e",
+    "url": "/ectl/static/css/main.052c6234.chunk.css"
   },
   {
-    "revision": "236ddc2476316c534f01",
-    "url": "/ectl/static/js/2.0ac58116.chunk.js"
+    "revision": "6e16f6f3cd91817bcf43",
+    "url": "/ectl/static/js/2.cb0ae7ab.chunk.js"
   },
   {
     "revision": "511b00759df6cd2713ed1e082c0b4d12",
-    "url": "/ectl/static/js/2.0ac58116.chunk.js.LICENSE.txt"
+    "url": "/ectl/static/js/2.cb0ae7ab.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0750ebe1678d42f01c9f",
-    "url": "/ectl/static/js/main.7a3d83fc.chunk.js"
+    "revision": "6a8014d3b94519786e1e",
+    "url": "/ectl/static/js/main.5466d12b.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -1576,6 +1576,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/chang chunshipyardicon.8eff5704.png"
   },
   {
+    "revision": "bcf3ffd214d7e9bb37e0b37d12518525",
+    "url": "/ectl/static/media/chao hobanner.bcf3ffd2.png"
+  },
+  {
+    "revision": "80ef0474ed2f9dbfef032e713ddaf1dc",
+    "url": "/ectl/static/media/chao hochibi.80ef0474.png"
+  },
+  {
+    "revision": "df8206fb29a6cceda9759f873c22181a",
+    "url": "/ectl/static/media/chao hoicon.df8206fb.png"
+  },
+  {
+    "revision": "6ebcc7d4965d521d5f976fb93c0a3934",
+    "url": "/ectl/static/media/chao hoshipyardicon.6ebcc7d4.png"
+  },
+  {
     "revision": "aad47d3e04d1a094754d01471552546c",
     "url": "/ectl/static/media/chapayevbanner.aad47d3e.png"
   },
@@ -2400,8 +2416,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/essexshipyardicon.9b170423.png"
   },
   {
-    "revision": "f313787fc5bfe984eae917bffa774352",
-    "url": "/ectl/static/media/event_banner.f313787f.png"
+    "revision": "d614426a13501b417c9a31c304bd78cf",
+    "url": "/ectl/static/media/event_banner.d614426a.png"
   },
   {
     "revision": "8e23303b4806b5a470d33d9d7d362e02",
@@ -6676,6 +6692,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/pearl_tears.314ff595.png"
   },
   {
+    "revision": "a40940c1786c258d28cc54159bb8494d",
+    "url": "/ectl/static/media/penelopebanner.a40940c1.png"
+  },
+  {
+    "revision": "af8d7154b0619b0fa6c5200584680247",
+    "url": "/ectl/static/media/penelopechibi.af8d7154.png"
+  },
+  {
+    "revision": "ccefc7ba45890b7cf02d67c1c10d44b4",
+    "url": "/ectl/static/media/penelopeicon.ccefc7ba.png"
+  },
+  {
+    "revision": "1fc61a8f81363a2d00672ebdda9e1719",
+    "url": "/ectl/static/media/penelopeshipyardicon.1fc61a8f.png"
+  },
+  {
     "revision": "2ec89efae568850a3255a87cc0e32617",
     "url": "/ectl/static/media/pennsylvaniabanner.2ec89efa.png"
   },
@@ -8040,6 +8072,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/steam_catapult.5032fc93.png"
   },
   {
+    "revision": "eb8b838ba4121dacbb1c881d185800b9",
+    "url": "/ectl/static/media/stremitelnyicon.eb8b838b.png"
+  },
+  {
+    "revision": "6744744d6e797f75caa6755dfa2405b3",
+    "url": "/ectl/static/media/stremitelnyshipyardicon.6744744d.png"
+  },
+  {
     "revision": "c2e23719b4cb35cde732f5d31194b4cf",
     "url": "/ectl/static/media/sub_gears.c2e23719.png"
   },
@@ -8568,6 +8608,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/triple_406mm_bl_16__mk_i.d3267f60.png"
   },
   {
+    "revision": "f8ebd7790290092232fefd935c960b03",
+    "url": "/ectl/static/media/twin_100mm_aa_b54.f8ebd779.png"
+  },
+  {
     "revision": "f6134171f2344de8bf2f2e7fbd628598",
     "url": "/ectl/static/media/twin_100mm_aa_mz14.f6134171.png"
   },
@@ -8878,6 +8922,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2568a50e630b8367a7db01dd78e1eacb",
     "url": "/ectl/static/media/u-37shipyardicon.2568a50e.png"
+  },
+  {
+    "revision": "6e6e65d3b69e503a66cfaa40fec7af67",
+    "url": "/ectl/static/media/u-410banner.6e6e65d3.png"
+  },
+  {
+    "revision": "3e3d00bdf6631b2c71dde14521e5335f",
+    "url": "/ectl/static/media/u-410chibi.3e3d00bd.png"
+  },
+  {
+    "revision": "49b915e68d1bdc6682a4131288d93539",
+    "url": "/ectl/static/media/u-410icon.49b915e6.png"
+  },
+  {
+    "revision": "8e837c214c5bec18f9033fe941d03b9b",
+    "url": "/ectl/static/media/u-410shipyardicon.8e837c21.png"
   },
   {
     "revision": "7db4ad1d7f0147b39d30356f00db276a",
@@ -9482,6 +9542,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d4e88b58137f092a56632c5920460bb0",
     "url": "/ectl/static/media/yat senshipyardicon.d4e88b58.png"
+  },
+  {
+    "revision": "77e99c40a2c5575aaeee249ba286f386",
+    "url": "/ectl/static/media/ying sweibanner.77e99c40.png"
+  },
+  {
+    "revision": "0f931141b168d09ac6e5fa106f84291d",
+    "url": "/ectl/static/media/ying sweichibi.0f931141.png"
+  },
+  {
+    "revision": "e20ff66a29176030a2fdff0cc2372f11",
+    "url": "/ectl/static/media/ying sweiicon.e20ff66a.png"
+  },
+  {
+    "revision": "bdb598026227d291fc5dceb6e523e7a6",
+    "url": "/ectl/static/media/ying sweishipyardicon.bdb59802.png"
   },
   {
     "revision": "dcfaf6d3e2d80e01a8bba4f4e8423a4e",
