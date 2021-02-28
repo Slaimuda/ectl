@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56ca9db56a9606d623b13908ad164750",
+    "revision": "70ccd65fd63c7920d52dea29f2d6a95f",
     "url": "/ectl/index.html"
   },
   {
-    "revision": "6e16f6f3cd91817bcf43",
+    "revision": "99171ffb0ba8bdfc79cc",
     "url": "/ectl/static/css/2.e1f1642b.chunk.css"
   },
   {
-    "revision": "c159eb1325622bc9d5cd",
-    "url": "/ectl/static/css/main.052c6234.chunk.css"
+    "revision": "50ee7dc0b1aafca4bfda",
+    "url": "/ectl/static/css/main.d1764c7d.chunk.css"
   },
   {
-    "revision": "6e16f6f3cd91817bcf43",
-    "url": "/ectl/static/js/2.cb0ae7ab.chunk.js"
+    "revision": "99171ffb0ba8bdfc79cc",
+    "url": "/ectl/static/js/2.862009c0.chunk.js"
   },
   {
     "revision": "511b00759df6cd2713ed1e082c0b4d12",
-    "url": "/ectl/static/js/2.cb0ae7ab.chunk.js.LICENSE.txt"
+    "url": "/ectl/static/js/2.862009c0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c159eb1325622bc9d5cd",
-    "url": "/ectl/static/js/main.c7164ea4.chunk.js"
+    "revision": "50ee7dc0b1aafca4bfda",
+    "url": "/ectl/static/js/main.b75466f5.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -2416,8 +2416,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/essexshipyardicon.9b170423.png"
   },
   {
-    "revision": "4bd531460d7d4f74271996ad85f212ca",
-    "url": "/ectl/static/media/event_banner.4bd53146.png"
+    "revision": "396b2fe99f02aefc1d1ee3af0a9312ee",
+    "url": "/ectl/static/media/event_banner.396b2fe9.png"
   },
   {
     "revision": "8e23303b4806b5a470d33d9d7d362e02",
@@ -3044,6 +3044,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/green heartshipyardicon.e62ff775.png"
   },
   {
+    "revision": "3468232d3142d8335252391cc0cd97d1",
+    "url": "/ectl/static/media/gremyashchybanner.3468232d.png"
+  },
+  {
+    "revision": "f4a63494848d09d6b285b3e9ec830df2",
+    "url": "/ectl/static/media/gremyashchychibi.f4a63494.png"
+  },
+  {
+    "revision": "cabe9a3e3ad50512d6cb94909bd40f04",
+    "url": "/ectl/static/media/gremyashchyicon.cabe9a3e.png"
+  },
+  {
+    "revision": "4f1eae9f2bfad69fb180322089a179c6",
+    "url": "/ectl/static/media/gremyashchyshipyardicon.4f1eae9f.png"
+  },
+  {
     "revision": "1a958049037986ceda7448e2fe050cda",
     "url": "/ectl/static/media/grenvillebanner.1a958049.png"
   },
@@ -3074,6 +3090,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8033eeb311fb369c6e4a10675a5c6196",
     "url": "/ectl/static/media/gridleyshipyardicon.8033eeb3.png"
+  },
+  {
+    "revision": "4b83bf3ab4a9ab1c776b49d4906d40c9",
+    "url": "/ectl/static/media/gromkybanner.4b83bf3a.png"
+  },
+  {
+    "revision": "3e69294317d21aaeebd2b0fb7006f9f7",
+    "url": "/ectl/static/media/gromkychibi.3e692943.png"
+  },
+  {
+    "revision": "c6ec4d808648d2ef89dc1825527f9298",
+    "url": "/ectl/static/media/gromkyicon.c6ec4d80.png"
+  },
+  {
+    "revision": "84ecf4489f9ed7cf053585941c4363d3",
+    "url": "/ectl/static/media/gromkyshipyardicon.84ecf448.png"
   },
   {
     "revision": "3758588e309b5fe9cb66650ab0d6f9b5",
@@ -4844,6 +4876,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/kirishimashipyardicon.09e9d42c.png"
   },
   {
+    "revision": "fb3f5fd016f70c23fe6b915fb960d089",
+    "url": "/ectl/static/media/kirovbanner.fb3f5fd0.png"
+  },
+  {
+    "revision": "4c71d9bcef80b3b5d49522a78752b93a",
+    "url": "/ectl/static/media/kirovchibi.4c71d9bc.png"
+  },
+  {
+    "revision": "947871522188bedce303893df53e6a79",
+    "url": "/ectl/static/media/kirovicon.94787152.png"
+  },
+  {
+    "revision": "921146c427e9ff7596f535729a706487",
+    "url": "/ectl/static/media/kirovshipyardicon.921146c4.png"
+  },
+  {
     "revision": "12d423a582f7167fe7dd0f7f11ac778c",
     "url": "/ectl/static/media/kisaragibanner.12d423a5.png"
   },
@@ -5972,6 +6020,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/murasaki shionshipyardicon.d509635a.png"
   },
   {
+    "revision": "3b3e2358199da91148ae36084de3b451",
+    "url": "/ectl/static/media/murmanskbanner.3b3e2358.png"
+  },
+  {
+    "revision": "66045a55b1f265250bd90aaa1ff2de95",
+    "url": "/ectl/static/media/murmanskchibi.66045a55.png"
+  },
+  {
+    "revision": "43badd0deb0d04e0424a14d35c886f10",
+    "url": "/ectl/static/media/murmanskicon.43badd0d.png"
+  },
+  {
+    "revision": "37883bb297fda4944322dda97bb987d6",
+    "url": "/ectl/static/media/murmanskshipyardicon.37883bb2.png"
+  },
+  {
     "revision": "9bcddecee9c5130048de817f5b97f07f",
     "url": "/ectl/static/media/musketeerbanner.9bcddece.png"
   },
@@ -6682,6 +6746,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4070595ca57b9074260ed77c150f207d",
     "url": "/ectl/static/media/pamiat merkuriaicon.4070595c.png"
+  },
+  {
+    "revision": "ed4678a1d7343f387eb0f9e34717f461",
+    "url": "/ectl/static/media/pamiat merkuriakaibanner.ed4678a1.png"
+  },
+  {
+    "revision": "598a666e0f8741fc5ed64f59c7c34be0",
+    "url": "/ectl/static/media/pamiat merkuriakaichibi.598a666e.png"
+  },
+  {
+    "revision": "0176c136798f82495f82d799a1cc438e",
+    "url": "/ectl/static/media/pamiat merkuriakaiicon.0176c136.png"
+  },
+  {
+    "revision": "764e1042e0fb498e9edfcde01c35eaad",
+    "url": "/ectl/static/media/pamiat merkuriakaishipyardicon.764e1042.png"
   },
   {
     "revision": "d4474763a809eea884813e5c02dba369",
@@ -7980,6 +8060,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/southamptonshipyardicon.92de988a.png"
   },
   {
+    "revision": "ddb6fc3e392f51baf4db3b9806581d2f",
+    "url": "/ectl/static/media/sovetskaya belorussiyabanner.ddb6fc3e.png"
+  },
+  {
+    "revision": "80ca5c214b4e7756ad8907fd1c78c757",
+    "url": "/ectl/static/media/sovetskaya belorussiyachibi.80ca5c21.png"
+  },
+  {
+    "revision": "28be98d571f678d2f751ceacedae4897",
+    "url": "/ectl/static/media/sovetskaya belorussiyaicon.28be98d5.png"
+  },
+  {
+    "revision": "18f1070bd4cc874ee709b91061470b6f",
+    "url": "/ectl/static/media/sovetskaya belorussiyashipyardicon.18f1070b.png"
+  },
+  {
     "revision": "1196cf417e7859ab1deebda2216e4246",
     "url": "/ectl/static/media/sovetskaya rossiyabanner.1196cf41.png"
   },
@@ -8070,6 +8166,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5032fc935feea564278ea23a1d38bf6d",
     "url": "/ectl/static/media/steam_catapult.5032fc93.png"
+  },
+  {
+    "revision": "602eb92195408d2c81f1674156bbe5bb",
+    "url": "/ectl/static/media/stremitelnybanner.602eb921.png"
+  },
+  {
+    "revision": "e817dc7770ddb5d8dbd77e3c97e33e7f",
+    "url": "/ectl/static/media/stremitelnychibi.e817dc77.png"
   },
   {
     "revision": "eb8b838ba4121dacbb1c881d185800b9",
@@ -8318,6 +8422,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2e712a96d22ecbbe7d19afe95b8bdcc8",
     "url": "/ectl/static/media/takaoshipyardicon.2e712a96.png"
+  },
+  {
+    "revision": "698d1df105d48ecdd21eb49ae5c491f0",
+    "url": "/ectl/static/media/tallinnbanner.698d1df1.png"
+  },
+  {
+    "revision": "13bf192cdf8524586cbe84b37a25ff45",
+    "url": "/ectl/static/media/tallinnchibi.13bf192c.png"
+  },
+  {
+    "revision": "d8feb24943e9737c83bb2d24cc72ea4c",
+    "url": "/ectl/static/media/tallinnicon.d8feb249.png"
+  },
+  {
+    "revision": "caca29fdebfbf95ccdecd99112311b01",
+    "url": "/ectl/static/media/tallinnshipyardicon.caca29fd.png"
   },
   {
     "revision": "31a3952153796c3caffe8c0cfaba05f1",
