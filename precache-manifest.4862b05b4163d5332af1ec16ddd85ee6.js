@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0944e565750cf3c68a2e480a899e07d",
+    "revision": "dff4a800506694c11b1aa441be69c078",
     "url": "/ectl/index.html"
   },
   {
-    "revision": "99171ffb0ba8bdfc79cc",
+    "revision": "a735b5a8bc276b11da49",
     "url": "/ectl/static/css/2.e1f1642b.chunk.css"
   },
   {
-    "revision": "b6111dd0a825394fc3b8",
-    "url": "/ectl/static/css/main.d1764c7d.chunk.css"
+    "revision": "adaeba2db4e1efd9b56d",
+    "url": "/ectl/static/css/main.714dab8a.chunk.css"
   },
   {
-    "revision": "99171ffb0ba8bdfc79cc",
-    "url": "/ectl/static/js/2.862009c0.chunk.js"
+    "revision": "a735b5a8bc276b11da49",
+    "url": "/ectl/static/js/2.b7f9a865.chunk.js"
   },
   {
     "revision": "511b00759df6cd2713ed1e082c0b4d12",
-    "url": "/ectl/static/js/2.862009c0.chunk.js.LICENSE.txt"
+    "url": "/ectl/static/js/2.b7f9a865.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b6111dd0a825394fc3b8",
-    "url": "/ectl/static/js/main.2614d555.chunk.js"
+    "revision": "adaeba2db4e1efd9b56d",
+    "url": "/ectl/static/js/main.1e19d48b.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -492,6 +492,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/algérieshipyardicon.c94e3f1f.png"
   },
   {
+    "revision": "98b0ee9a2de3c1fc184512c52f39150b",
+    "url": "/ectl/static/media/allen m. sumnerbanner.98b0ee9a.png"
+  },
+  {
+    "revision": "abe17484867f3b014a6e555aa08fa871",
+    "url": "/ectl/static/media/allen m. sumnerchibi.abe17484.png"
+  },
+  {
+    "revision": "2c61ece366b8a645111dc2bec8917713",
+    "url": "/ectl/static/media/allen m. sumnericon.2c61ece3.png"
+  },
+  {
+    "revision": "6bcf631c249471efd72ef9dcb075a50a",
+    "url": "/ectl/static/media/allen m. sumnershipyardicon.6bcf631c.png"
+  },
+  {
     "revision": "1b6a077cd022fd8bbacbceb8076ab5f0",
     "url": "/ectl/static/media/alm.1b6a077c.jpg"
   },
@@ -718,6 +734,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0f009696d7d0cd29c70940ea81b2d4e9",
     "url": "/ectl/static/media/arizonashipyardicon.0f009696.png"
+  },
+  {
+    "revision": "adbdcbd0722389cdbe6f62751ebe3b6f",
+    "url": "/ectl/static/media/ark royal metabanner.adbdcbd0.png"
+  },
+  {
+    "revision": "8d2748fac415da7ecfb59e93f62d5ab5",
+    "url": "/ectl/static/media/ark royal metachibi.8d2748fa.png"
+  },
+  {
+    "revision": "fac167d592c9424de0811ecda4aa8836",
+    "url": "/ectl/static/media/ark royal metaicon.fac167d5.png"
+  },
+  {
+    "revision": "51dcadc125867d8d604c58b631d3983b",
+    "url": "/ectl/static/media/ark royal metashipyardicon.51dcadc1.png"
   },
   {
     "revision": "cd3c9c6ec07d7cb1bbb28e1b9577cf49",
@@ -8166,6 +8198,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5032fc935feea564278ea23a1d38bf6d",
     "url": "/ectl/static/media/steam_catapult.5032fc93.png"
+  },
+  {
+    "revision": "8f7a84bc3171339dff0e63ff9c45e5e0",
+    "url": "/ectl/static/media/stephen potterbanner.8f7a84bc.png"
+  },
+  {
+    "revision": "19fdc27a1acb2d214a0433deceb442de",
+    "url": "/ectl/static/media/stephen potterchibi.19fdc27a.png"
+  },
+  {
+    "revision": "592d1f7d85868e42c941050ece793db5",
+    "url": "/ectl/static/media/stephen pottericon.592d1f7d.png"
+  },
+  {
+    "revision": "3f3dccea5341611f03ae32096fd74ce4",
+    "url": "/ectl/static/media/stephen pottershipyardicon.3f3dccea.png"
   },
   {
     "revision": "602eb92195408d2c81f1674156bbe5bb",
