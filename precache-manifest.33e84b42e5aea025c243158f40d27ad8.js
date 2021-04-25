@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a31865b08eb865a3b5e76a3d5ec1992",
+    "revision": "f94546495dfa96fb09ca5fb944c341a2",
     "url": "/ectl/index.html"
   },
   {
-    "revision": "a735b5a8bc276b11da49",
+    "revision": "389d1587886cd3e5ae20",
     "url": "/ectl/static/css/2.e1f1642b.chunk.css"
   },
   {
-    "revision": "0abf043892b3cedb22b3",
-    "url": "/ectl/static/css/main.714dab8a.chunk.css"
+    "revision": "0bf70fe04fdb20e0169a",
+    "url": "/ectl/static/css/main.a693e3a0.chunk.css"
   },
   {
-    "revision": "a735b5a8bc276b11da49",
-    "url": "/ectl/static/js/2.b7f9a865.chunk.js"
+    "revision": "389d1587886cd3e5ae20",
+    "url": "/ectl/static/js/2.7543b5ef.chunk.js"
   },
   {
     "revision": "511b00759df6cd2713ed1e082c0b4d12",
-    "url": "/ectl/static/js/2.b7f9a865.chunk.js.LICENSE.txt"
+    "url": "/ectl/static/js/2.7543b5ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0abf043892b3cedb22b3",
-    "url": "/ectl/static/js/main.79d0025f.chunk.js"
+    "revision": "0bf70fe04fdb20e0169a",
+    "url": "/ectl/static/js/main.c7919b42.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -512,6 +512,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/alm.1b6a077c.jpg"
   },
   {
+    "revision": "cfc29ca157feb7532e0fde248f1a2667",
+    "url": "/ectl/static/media/amagi-chanbanner.cfc29ca1.png"
+  },
+  {
+    "revision": "9d8cb887da8ea2c3f6055c2f6ace33d6",
+    "url": "/ectl/static/media/amagi-chanchibi.9d8cb887.png"
+  },
+  {
+    "revision": "df82de91bc10836dab50ec128242a5c9",
+    "url": "/ectl/static/media/amagi-chanicon.df82de91.png"
+  },
+  {
+    "revision": "3b75c04ac37aba925cd676e1be374dec",
+    "url": "/ectl/static/media/amagi-chanshipyardicon.3b75c04a.png"
+  },
+  {
     "revision": "bc20da26bbbd3d49c6de9f27e03f8cf2",
     "url": "/ectl/static/media/amagibanner.bc20da26.png"
   },
@@ -614,6 +630,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7ff462998721c3f4765445524d347064",
     "url": "/ectl/static/media/aobashipyardicon.7ff46299.png"
+  },
+  {
+    "revision": "6eca6e0c993c84943fb8dead4e591343",
+    "url": "/ectl/static/media/aquilabanner.6eca6e0c.png"
+  },
+  {
+    "revision": "22e4ae6868fb24e35bc461a294a1a157",
+    "url": "/ectl/static/media/aquilachibi.22e4ae68.png"
+  },
+  {
+    "revision": "80b405986ad9b9f22fb945575b2a6af7",
+    "url": "/ectl/static/media/aquilaicon.80b40598.png"
+  },
+  {
+    "revision": "9d661310cba09fe9c26fb6f960e98704",
+    "url": "/ectl/static/media/aquilashipyardicon.9d661310.png"
   },
   {
     "revision": "558c32fdc5ac3fc6e45426b6cb793d36",
@@ -2272,6 +2304,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/drop_tank.47b29865.png"
   },
   {
+    "revision": "a40137baf045908b05cf0b9cc76bedb5",
+    "url": "/ectl/static/media/duca degli abruzzibanner.a40137ba.png"
+  },
+  {
+    "revision": "93491608ffb347811a84a05baca47d19",
+    "url": "/ectl/static/media/duca degli abruzzichibi.93491608.png"
+  },
+  {
+    "revision": "e0297c0c258d634dd5026af233935fb5",
+    "url": "/ectl/static/media/duca degli abruzziicon.e0297c0c.png"
+  },
+  {
+    "revision": "74c29c45604a650bec6bc4cee3c155a0",
+    "url": "/ectl/static/media/duca degli abruzzishipyardicon.74c29c45.png"
+  },
+  {
     "revision": "353855a34664e3ab1efe4e3dc06e32d5",
     "url": "/ectl/static/media/duke of yorkbanner.353855a3.png"
   },
@@ -2926,6 +2974,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c63baa5fd1c6a9f2cf813547a38b32a9",
     "url": "/ectl/static/media/general_motors_tbm3_avenger_asw.c63baa5f.png"
+  },
+  {
+    "revision": "7282b0624eebae6f2ca88f3557fd13ab",
+    "url": "/ectl/static/media/general_motors_tbm_avenger_vt18_squadron.7282b062.png"
   },
   {
     "revision": "885a93f8b4189bced614ba4c1cc7f258",
@@ -5424,6 +5476,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/li'l sandyshipyardicon.31903c3d.png"
   },
   {
+    "revision": "030d450697a0f38df27670e9e9617304",
+    "url": "/ectl/static/media/libecciobanner.030d4506.png"
+  },
+  {
+    "revision": "c35c7d8fdf07d6402c28397a0fc9e4a1",
+    "url": "/ectl/static/media/libecciochibi.c35c7d8f.png"
+  },
+  {
+    "revision": "fc5f769c5cbaf616e771ee89d7f637d4",
+    "url": "/ectl/static/media/libeccioicon.fc5f769c.png"
+  },
+  {
+    "revision": "1eca8a8badf0ad88d0eb842f118f5668",
+    "url": "/ectl/static/media/libeccioshipyardicon.1eca8a8b.png"
+  },
+  {
     "revision": "34711724b1ae0f8ca5918207ea78d57c",
     "url": "/ectl/static/media/little belbanner.34711724.png"
   },
@@ -5554,6 +5622,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cde488575cebf09e64e47ec9a14d8946",
     "url": "/ectl/static/media/long islandshipyardicon.cde48857.png"
+  },
+  {
+    "revision": "f3b92ec031fc330963392086fb87f4cc",
+    "url": "/ectl/static/media/maestralebanner.f3b92ec0.png"
+  },
+  {
+    "revision": "f1a5ad039c6841b7cdde60facf9245f3",
+    "url": "/ectl/static/media/maestralechibi.f1a5ad03.png"
+  },
+  {
+    "revision": "465e9d0cddf4665cf420f5cd5433779e",
+    "url": "/ectl/static/media/maestraleicon.465e9d0c.png"
+  },
+  {
+    "revision": "8e7be0a9989f2fb7ce20e1e0e9e08272",
+    "url": "/ectl/static/media/maestraleshipyardicon.8e7be0a9.png"
   },
   {
     "revision": "2ff50859940aacdfea26da09257ad8f6",
@@ -6432,6 +6516,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/nicholasshipyardicon.480eac50.png"
   },
   {
+    "revision": "6ab0c9d525adf935b87a7865f22a0310",
+    "url": "/ectl/static/media/nicoloso da reccobanner.6ab0c9d5.png"
+  },
+  {
+    "revision": "9b6e0b3d8cf4be631d809a0930a75f55",
+    "url": "/ectl/static/media/nicoloso da reccochibi.9b6e0b3d.png"
+  },
+  {
+    "revision": "bc659d09c996bc681d7bbdcd2f1fe8f5",
+    "url": "/ectl/static/media/nicoloso da reccoicon.bc659d09.png"
+  },
+  {
+    "revision": "f3536f5e3ce6931c47684b0184f3b29f",
+    "url": "/ectl/static/media/nicoloso da reccoshipyardicon.f3536f5e.png"
+  },
+  {
     "revision": "cf969c69d240bf67fc3481f2262ef307",
     "url": "/ectl/static/media/niizukibanner.cf969c69.png"
   },
@@ -6650,6 +6750,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bb34b1206e115d140d66660b2be9261c",
     "url": "/ectl/static/media/odinshipyardicon.bb34b120.png"
+  },
+  {
+    "revision": "a70a6279e1b53ffe71736ab37ea4c487",
+    "url": "/ectl/static/media/oitebanner.a70a6279.png"
+  },
+  {
+    "revision": "481e9cfcfd03ab9484b3538d28963e84",
+    "url": "/ectl/static/media/oitechibi.481e9cfc.png"
+  },
+  {
+    "revision": "823ec8394d7ebc6a22b1bbe13b7eca00",
+    "url": "/ectl/static/media/oiteicon.823ec839.png"
+  },
+  {
+    "revision": "14e393e9a90b3e8f369bc65b817967b6",
+    "url": "/ectl/static/media/oiteshipyardicon.14e393e9.png"
   },
   {
     "revision": "f1f66fd589ab510185ffa88daf67b60e",
@@ -8660,6 +8776,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/torpedo_materials_cargo.73858462.png"
   },
   {
+    "revision": "04f6ff6c03295ba7ff1b0633db500571",
+    "url": "/ectl/static/media/torricellibanner.04f6ff6c.png"
+  },
+  {
+    "revision": "9b3bd643f1067afd94444f2cc741380a",
+    "url": "/ectl/static/media/torricellichibi.9b3bd643.png"
+  },
+  {
+    "revision": "0fd761e982b85c038adae235f407cfb6",
+    "url": "/ectl/static/media/torricelliicon.0fd761e9.png"
+  },
+  {
+    "revision": "eed3e3c030cb1ce6e00c4116dbc1c4f0",
+    "url": "/ectl/static/media/torricellishipyardicon.eed3e3c0.png"
+  },
+  {
     "revision": "22ff3912bdcd3744640f786ade51f2e4",
     "url": "/ectl/static/media/tosabanner.22ff3912.png"
   },
@@ -9454,6 +9586,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ed4d89734a73a2d49c73300eb74fba03",
     "url": "/ectl/static/media/vincenzo giobertishipyardicon.ed4d8973.png"
+  },
+  {
+    "revision": "3fc173fce6484fa317eb6e4b78b16ee0",
+    "url": "/ectl/static/media/vittorio venetobanner.3fc173fc.png"
+  },
+  {
+    "revision": "8798eac26bb6bbb7fa1a7b43c9a457a0",
+    "url": "/ectl/static/media/vittorio venetochibi.8798eac2.png"
+  },
+  {
+    "revision": "87313972b8358e9f8d59ae0cb5ac8e66",
+    "url": "/ectl/static/media/vittorio venetoicon.87313972.png"
+  },
+  {
+    "revision": "27966bd79c63618b473771c598020317",
+    "url": "/ectl/static/media/vittorio venetoshipyardicon.27966bd7.png"
   },
   {
     "revision": "078b2be665f827117529a040a0462930",
