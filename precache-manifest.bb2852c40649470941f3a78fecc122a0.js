@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e79fbf3089c39efccef82ca501b18799",
+    "revision": "ec1f74492cba49c9e27b2e31f8df7e16",
     "url": "/ectl/index.html"
   },
   {
-    "revision": "33c8bfb5711e09d55437",
+    "revision": "c9af8f3e8a4f7295a79e",
     "url": "/ectl/static/css/2.e1f1642b.chunk.css"
   },
   {
-    "revision": "eefb08517fbe0a32c422",
-    "url": "/ectl/static/css/main.7fd575fe.chunk.css"
+    "revision": "690ed0295dca89175d33",
+    "url": "/ectl/static/css/main.4a7924f9.chunk.css"
   },
   {
-    "revision": "33c8bfb5711e09d55437",
-    "url": "/ectl/static/js/2.221e004f.chunk.js"
+    "revision": "c9af8f3e8a4f7295a79e",
+    "url": "/ectl/static/js/2.9c606587.chunk.js"
   },
   {
     "revision": "511b00759df6cd2713ed1e082c0b4d12",
-    "url": "/ectl/static/js/2.221e004f.chunk.js.LICENSE.txt"
+    "url": "/ectl/static/js/2.9c606587.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eefb08517fbe0a32c422",
-    "url": "/ectl/static/js/main.9fba305e.chunk.js"
+    "revision": "690ed0295dca89175d33",
+    "url": "/ectl/static/js/main.7abccff9.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -230,6 +230,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4c900b29ac36e1f59c69493a42ea35b9",
     "url": "/ectl/static/media/achillesshipyardicon.4c900b29.png"
+  },
+  {
+    "revision": "fc6eed4e910b28715d35d30257438d34",
+    "url": "/ectl/static/media/action_report_operation_af.fc6eed4e.png"
   },
   {
     "revision": "d08992ec4a55ce51c8df7614acc6fd63",
@@ -670,6 +674,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a8f046b7abf75ac3723374fa6b3b47ea",
     "url": "/ectl/static/media/arashioshipyardicon.a8f046b7.png"
+  },
+  {
+    "revision": "d05a0d28fbfab5a1a64eb203d751b8d4",
+    "url": "/ectl/static/media/archerfishbanner.d05a0d28.png"
+  },
+  {
+    "revision": "649a13c5f5f6c48bce2b5d05c85dd686",
+    "url": "/ectl/static/media/archerfishchibi.649a13c5.png"
+  },
+  {
+    "revision": "2ddf1325d44d47e1003249da24704248",
+    "url": "/ectl/static/media/archerfishicon.2ddf1325.png"
+  },
+  {
+    "revision": "44a34af372bc7689eb5fd50df8b626fc",
+    "url": "/ectl/static/media/archerfishshipyardicon.44a34af3.png"
   },
   {
     "revision": "bb29c85e15a289352e1f86e8c5688064",
@@ -1350,6 +1370,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9ca1900ee165d1c75519dfe647e370a0",
     "url": "/ectl/static/media/bogueshipyardicon.9ca1900e.png"
+  },
+  {
+    "revision": "af6bca56ee01969779ce48a777512951",
+    "url": "/ectl/static/media/boisebanner.af6bca56.png"
+  },
+  {
+    "revision": "409b32877f190eef1bc49b43250d156f",
+    "url": "/ectl/static/media/boisechibi.409b3287.png"
+  },
+  {
+    "revision": "da4b1813a2098b88d1b37d217cb2cfa6",
+    "url": "/ectl/static/media/boiseicon.da4b1813.png"
+  },
+  {
+    "revision": "355810455f35cb4e23daafbfe6ebf3fd",
+    "url": "/ectl/static/media/boiseshipyardicon.35581045.png"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
@@ -2496,8 +2532,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/essexshipyardicon.9b170423.png"
   },
   {
-    "revision": "c3c86f2f8386a0d8872ffffed0363d65",
-    "url": "/ectl/static/media/event_banner.c3c86f2f.jpg"
+    "revision": "694158695513008e961226992edefbf8",
+    "url": "/ectl/static/media/event_banner.69415869.webp"
   },
   {
     "revision": "8e23303b4806b5a470d33d9d7d362e02",
@@ -4232,6 +4268,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/independenceicon.da4ba553.png"
   },
   {
+    "revision": "71d9619edab7bd218472f659d13d56c8",
+    "url": "/ectl/static/media/independencekaibanner.71d9619e.png"
+  },
+  {
+    "revision": "24042ee8d2d93dd5bb130819781e142b",
+    "url": "/ectl/static/media/independencekaichibi.24042ee8.png"
+  },
+  {
+    "revision": "afb875f491acc8cc0939f315963fe466",
+    "url": "/ectl/static/media/independencekaiicon.afb875f4.png"
+  },
+  {
+    "revision": "2722a03f7535ef4ea68368861f44a866",
+    "url": "/ectl/static/media/independencekaishipyardicon.2722a03f.png"
+  },
+  {
     "revision": "7428e0c057568a911510380b5e1c74ca",
     "url": "/ectl/static/media/independenceshipyardicon.7428e0c0.png"
   },
@@ -5508,6 +5560,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/little belshipyardicon.aba20824.png"
   },
   {
+    "revision": "3d7727023ccc6057b338b626e1a36d47",
+    "url": "/ectl/static/media/little enterprisebanner.3d772702.png"
+  },
+  {
+    "revision": "ff5ec3502b717249d0c0f9e279a06937",
+    "url": "/ectl/static/media/little enterprisechibi.ff5ec350.png"
+  },
+  {
+    "revision": "3d9ed15d23161b558effc7514019f498",
+    "url": "/ectl/static/media/little enterpriseicon.3d9ed15d.png"
+  },
+  {
+    "revision": "ef451916acb6c70e1bb9a0526bab9a49",
+    "url": "/ectl/static/media/little enterpriseshipyardicon.ef451916.png"
+  },
+  {
     "revision": "ab87090ead4c2c76fae196152c7e2daf",
     "url": "/ectl/static/media/little illustriousbanner.ab87090e.png"
   },
@@ -6104,6 +6172,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/montpeliershipyardicon.d3712563.png"
   },
   {
+    "revision": "415f37ba517d57fe37a6f59d20279301",
+    "url": "/ectl/static/media/morrisonbanner.415f37ba.png"
+  },
+  {
+    "revision": "340ffec45e5152ae36981d7af3561cdf",
+    "url": "/ectl/static/media/morrisonchibi.340ffec4.png"
+  },
+  {
+    "revision": "ac2f61f9186ac36aef6f1f4b8e0774c6",
+    "url": "/ectl/static/media/morrisonicon.ac2f61f9.png"
+  },
+  {
+    "revision": "d4ba6d6355f509767cc9fc4ba599cc95",
+    "url": "/ectl/static/media/morrisonshipyardicon.d4ba6d63.png"
+  },
+  {
     "revision": "abb0a7f628c281bc662c7a0bb9f1783e",
     "url": "/ectl/static/media/mullanybanner.abb0a7f6.png"
   },
@@ -6450,6 +6534,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e123dd47d7dddeb0c73ad0f92d959cb7",
     "url": "/ectl/static/media/nevadashipyardicon.e123dd47.png"
+  },
+  {
+    "revision": "b02fa5ebc7e15239c53582e22aa2db96",
+    "url": "/ectl/static/media/new jerseybanner.b02fa5eb.png"
+  },
+  {
+    "revision": "efa3b4d65dcd15969fab827409a89863",
+    "url": "/ectl/static/media/new jerseychibi.efa3b4d6.png"
+  },
+  {
+    "revision": "aaf020f1cfa7e41cdce33442f17ade99",
+    "url": "/ectl/static/media/new jerseyicon.aaf020f1.png"
+  },
+  {
+    "revision": "e34d90a7cc80ec42f64283de765de983",
+    "url": "/ectl/static/media/new jerseyshipyardicon.e34d90a7.png"
   },
   {
     "revision": "b54997d3c77d3f98af2ef0a1e3690fdc",
@@ -7600,6 +7700,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/san diegoshipyardicon.b3d420d0.png"
   },
   {
+    "revision": "4bdeb974f4151101155bd0dd2c127120",
+    "url": "/ectl/static/media/san franciscobanner.4bdeb974.png"
+  },
+  {
+    "revision": "09216264b4a76ae9927e7d874e179c02",
+    "url": "/ectl/static/media/san franciscochibi.09216264.png"
+  },
+  {
+    "revision": "3397be6fe89589c36188a3df0d143f15",
+    "url": "/ectl/static/media/san franciscoicon.3397be6f.png"
+  },
+  {
+    "revision": "3182d79c4088926d53af71d35a07d44e",
+    "url": "/ectl/static/media/san franciscoshipyardicon.3182d79c.png"
+  },
+  {
     "revision": "aae437cec35635e1d9910f184a971168",
     "url": "/ectl/static/media/san juanbanner.aae437ce.png"
   },
@@ -8740,6 +8856,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/thatchershipyardicon.d2e2a2f8.png"
   },
   {
+    "revision": "c3c6f426687d3c4a44a70429e14136f6",
+    "url": "/ectl/static/media/ticonderogabanner.c3c6f426.png"
+  },
+  {
+    "revision": "700c18a6ac8d3ef5c30db59683224970",
+    "url": "/ectl/static/media/ticonderogachibi.700c18a6.png"
+  },
+  {
+    "revision": "0f40d7915fe7045b3f687fcff28ef7fc",
+    "url": "/ectl/static/media/ticonderogaicon.0f40d791.png"
+  },
+  {
+    "revision": "006abfa5c5d485f0efa3bb0e4d0d286b",
+    "url": "/ectl/static/media/ticonderogashipyardicon.006abfa5.png"
+  },
+  {
     "revision": "c020f5dc44aeabd65c1bf2060395be5f",
     "url": "/ectl/static/media/tirpitzbanner.c020f5dc.png"
   },
@@ -8902,6 +9034,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5fba0443bfcb64feaad32e5c5e7d2be0",
     "url": "/ectl/static/media/triple_406mm_16_45_mk_6.5fba0443.png"
+  },
+  {
+    "revision": "aa7a1936d31756a8ca0f952fca72ae78",
+    "url": "/ectl/static/media/triple_406mm_16_50_mark_7.aa7a1936.png"
   },
   {
     "revision": "d3267f6013d5f472767d4783c54c4a69",
