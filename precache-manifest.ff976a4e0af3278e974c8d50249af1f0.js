@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a56eadbe28161cfc92fa5c2bb40d29b6",
+    "revision": "d4b0749ec783b48c4a37d26812c9f99a",
     "url": "/ectl/index.html"
   },
   {
-    "revision": "9ae53bedb5d68857821e",
+    "revision": "f5d474a6a15e05f93ce8",
     "url": "/ectl/static/css/2.e1f1642b.chunk.css"
   },
   {
-    "revision": "972d436ef2bbe826d70c",
-    "url": "/ectl/static/css/main.5c735852.chunk.css"
+    "revision": "4795c1f400ef45449b89",
+    "url": "/ectl/static/css/main.ec892ff6.chunk.css"
   },
   {
-    "revision": "9ae53bedb5d68857821e",
-    "url": "/ectl/static/js/2.f898770d.chunk.js"
+    "revision": "f5d474a6a15e05f93ce8",
+    "url": "/ectl/static/js/2.a0517ab8.chunk.js"
   },
   {
     "revision": "511b00759df6cd2713ed1e082c0b4d12",
-    "url": "/ectl/static/js/2.f898770d.chunk.js.LICENSE.txt"
+    "url": "/ectl/static/js/2.a0517ab8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "972d436ef2bbe826d70c",
-    "url": "/ectl/static/js/main.a4d2ef43.chunk.js"
+    "revision": "4795c1f400ef45449b89",
+    "url": "/ectl/static/js/main.02fd5b14.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -3546,6 +3546,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d0e0115f67005feb42f4809346cb1bdd",
     "url": "/ectl/static/media/heinkel_he_50b.d0e0115f.png"
+  },
+  {
+    "revision": "d41f978b17c426c89acf068ec5722a97",
+    "url": "/ectl/static/media/helena metabanner.d41f978b.png"
+  },
+  {
+    "revision": "177a1e9e722ec5c60916bcf64d4cf8f5",
+    "url": "/ectl/static/media/helena metachibi.177a1e9e.png"
+  },
+  {
+    "revision": "2585a8d1927686e68797ff3276020176",
+    "url": "/ectl/static/media/helena metaicon.2585a8d1.png"
+  },
+  {
+    "revision": "0a45f87c29f568834c757836955ffa9d",
+    "url": "/ectl/static/media/helena metashipyardicon.0a45f87c.png"
   },
   {
     "revision": "3dfe72ac325dd8a13a99925bd4ef62e0",
