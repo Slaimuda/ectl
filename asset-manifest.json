@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.9f9e3f10.chunk.css",
-    "main.js": "/ectl/static/js/main.60d97a85.chunk.js",
-    "main.js.map": "/ectl/static/js/main.60d97a85.chunk.js.map",
+    "main.js": "/ectl/static/js/main.42511f27.chunk.js",
+    "main.js.map": "/ectl/static/js/main.42511f27.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.c359170f.chunk.css": "/ectl/static/css/2.c359170f.chunk.css",
     "static/js/2.82baa95d.chunk.js": "/ectl/static/js/2.82baa95d.chunk.js",
     "static/js/2.82baa95d.chunk.js.map": "/ectl/static/js/2.82baa95d.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.32ee3f16c3374282181be557b7c188ea.js": "/ectl/precache-manifest.32ee3f16c3374282181be557b7c188ea.js",
+    "precache-manifest.ff194dab43633b73de32515302b56add.js": "/ectl/precache-manifest.ff194dab43633b73de32515302b56add.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.c359170f.chunk.css.map": "/ectl/static/css/2.c359170f.chunk.css.map",
     "static/css/main.9f9e3f10.chunk.css.map": "/ectl/static/css/main.9f9e3f10.chunk.css.map",
@@ -2628,6 +2628,6 @@
     "static/css/2.c359170f.chunk.css",
     "static/js/2.82baa95d.chunk.js",
     "static/css/main.9f9e3f10.chunk.css",
-    "static/js/main.60d97a85.chunk.js"
+    "static/js/main.42511f27.chunk.js"
   ]
 }
