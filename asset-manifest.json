@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ectl/static/css/main.c4362ed2.chunk.css",
-    "main.js": "/ectl/static/js/main.1d657d8f.chunk.js",
-    "main.js.map": "/ectl/static/js/main.1d657d8f.chunk.js.map",
+    "main.css": "/ectl/static/css/main.116cae5f.chunk.css",
+    "main.js": "/ectl/static/js/main.7b6adc1c.chunk.js",
+    "main.js.map": "/ectl/static/js/main.7b6adc1c.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.f9541042.chunk.css": "/ectl/static/css/2.f9541042.chunk.css",
-    "static/js/2.3056ebc2.chunk.js": "/ectl/static/js/2.3056ebc2.chunk.js",
-    "static/js/2.3056ebc2.chunk.js.map": "/ectl/static/js/2.3056ebc2.chunk.js.map",
+    "static/js/2.3782edf0.chunk.js": "/ectl/static/js/2.3782edf0.chunk.js",
+    "static/js/2.3782edf0.chunk.js.map": "/ectl/static/js/2.3782edf0.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.c254f63edc5364b25e0cccc7c482a47d.js": "/ectl/precache-manifest.c254f63edc5364b25e0cccc7c482a47d.js",
+    "precache-manifest.236bd11222f5bd0a8a973ca753d6a973.js": "/ectl/precache-manifest.236bd11222f5bd0a8a973ca753d6a973.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.f9541042.chunk.css.map": "/ectl/static/css/2.f9541042.chunk.css.map",
-    "static/css/main.c4362ed2.chunk.css.map": "/ectl/static/css/main.c4362ed2.chunk.css.map",
-    "static/js/2.3056ebc2.chunk.js.LICENSE.txt": "/ectl/static/js/2.3056ebc2.chunk.js.LICENSE.txt",
+    "static/css/main.116cae5f.chunk.css.map": "/ectl/static/css/main.116cae5f.chunk.css.map",
+    "static/js/2.3782edf0.chunk.js.LICENSE.txt": "/ectl/static/js/2.3782edf0.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.82316982.png",
     "static/media/22banner.png": "/ectl/static/media/22banner.045e58cd.png",
     "static/media/22chibi.png": "/ectl/static/media/22chibi.3295b5c5.png",
@@ -2276,6 +2276,7 @@
     "static/media/triple_203mm_mle_1934_prototype.png": "/ectl/static/media/triple_203mm_mle_1934_prototype.2d652c6f.png",
     "static/media/triple_25mm_aa_type_96.png": "/ectl/static/media/triple_25mm_aa_type_96.6bad0f4f.png",
     "static/media/triple_25mm_aa_type_96_blast_shield.png": "/ectl/static/media/triple_25mm_aa_type_96_blast_shield.3ce99e74.png",
+    "static/media/triple_305mm_sk_c39_prototype.png": "/ectl/static/media/triple_305mm_sk_c39_prototype.9de5786b.png",
     "static/media/triple_305mm_sk_c39_prototype_bb.png": "/ectl/static/media/triple_305mm_sk_c39_prototype_bb.9de5786b.png",
     "static/media/triple_310mm_type_0_prototype.png": "/ectl/static/media/triple_310mm_type_0_prototype.98dce5c5.png",
     "static/media/triple_356mm_14_50_mk_11.png": "/ectl/static/media/triple_356mm_14_50_mk_11.33aaf691.png",
@@ -2658,8 +2659,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.f9541042.chunk.css",
-    "static/js/2.3056ebc2.chunk.js",
-    "static/css/main.c4362ed2.chunk.css",
-    "static/js/main.1d657d8f.chunk.js"
+    "static/js/2.3782edf0.chunk.js",
+    "static/css/main.116cae5f.chunk.css",
+    "static/js/main.7b6adc1c.chunk.js"
   ]
 }
