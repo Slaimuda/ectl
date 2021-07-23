@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eee09a995e49c4be1ac27244c7aedfc1",
+    "revision": "ac951da077f06d71a43e92597aaa929c",
     "url": "/ectl/index.html"
   },
   {
-    "revision": "630bc8db0894c064eee0",
+    "revision": "4d66e750ca34c152297a",
     "url": "/ectl/static/css/2.f9541042.chunk.css"
   },
   {
-    "revision": "dce80d1cad1a8f0c82cd",
-    "url": "/ectl/static/css/main.c4362ed2.chunk.css"
+    "revision": "ee7d90e35f2e63325a63",
+    "url": "/ectl/static/css/main.6f149ed7.chunk.css"
   },
   {
-    "revision": "630bc8db0894c064eee0",
-    "url": "/ectl/static/js/2.3056ebc2.chunk.js"
+    "revision": "4d66e750ca34c152297a",
+    "url": "/ectl/static/js/2.8e0c568e.chunk.js"
   },
   {
     "revision": "93b9e0d944e1602e6a03d59c00b1b632",
-    "url": "/ectl/static/js/2.3056ebc2.chunk.js.LICENSE.txt"
+    "url": "/ectl/static/js/2.8e0c568e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dce80d1cad1a8f0c82cd",
-    "url": "/ectl/static/js/main.d563c66d.chunk.js"
+    "revision": "ee7d90e35f2e63325a63",
+    "url": "/ectl/static/js/main.2e8900f4.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -580,6 +580,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/amazonshipyardicon.7c9e0241.png"
   },
   {
+    "revision": "9fded1f1b050c0a6267bfeddef8d04bb",
+    "url": "/ectl/static/media/ami futamibanner.9fded1f1.png"
+  },
+  {
+    "revision": "06581a84023691c1cc40a0fd76fbea50",
+    "url": "/ectl/static/media/ami futamichibi.06581a84.png"
+  },
+  {
+    "revision": "31b659b04b9c373336f720206d2704fe",
+    "url": "/ectl/static/media/ami futamiicon.31b659b0.png"
+  },
+  {
+    "revision": "3741b97cee48197387fa06e1e7938a70",
+    "url": "/ectl/static/media/ami futamishipyardicon.3741b97c.png"
+  },
+  {
     "revision": "d5b9590c9c6a90c4b81d36c8fe346ab6",
     "url": "/ectl/static/media/an shanbanner.d5b9590c.png"
   },
@@ -1050,6 +1066,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "68dca17e73412f8a5914e2bf37c03aa6",
     "url": "/ectl/static/media/azumashipyardicon.68dca17e.png"
+  },
+  {
+    "revision": "2ecf919b68bde22cd14c98c552977a8e",
+    "url": "/ectl/static/media/azusa miurabanner.2ecf919b.png"
+  },
+  {
+    "revision": "710e1d433ae0798109ae7414c7cc663e",
+    "url": "/ectl/static/media/azusa miurachibi.710e1d43.png"
+  },
+  {
+    "revision": "9e8c56dd176c8a871eae29d32ef06911",
+    "url": "/ectl/static/media/azusa miuraicon.9e8c56dd.png"
+  },
+  {
+    "revision": "b606b962584ce291399eeade9be19d94",
+    "url": "/ectl/static/media/azusa miurashipyardicon.b606b962.png"
   },
   {
     "revision": "f88e7fea7eee514a37fe50118dc205ae",
@@ -1802,6 +1834,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ace17adb72cbb85c9e4c59df28088b65",
     "url": "/ectl/static/media/chicagoshipyardicon.ace17adb.png"
+  },
+  {
+    "revision": "51576e5a7d163df822afbdf040a9d0cc",
+    "url": "/ectl/static/media/chihaya kisaragibanner.51576e5a.png"
+  },
+  {
+    "revision": "7b9eb1281b42f5cf9b5aef54aa2e37c8",
+    "url": "/ectl/static/media/chihaya kisaragichibi.7b9eb128.png"
+  },
+  {
+    "revision": "c0650535884c1a79b2a46477d07733c9",
+    "url": "/ectl/static/media/chihaya kisaragiicon.c0650535.png"
+  },
+  {
+    "revision": "bb83b90fdc20c5f02156b8438638bfb0",
+    "url": "/ectl/static/media/chihaya kisaragishipyardicon.bb83b90f.png"
   },
   {
     "revision": "e2138281a5038ca990c95b7f898d5206",
@@ -2564,8 +2612,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/essexshipyardicon.9b170423.png"
   },
   {
-    "revision": "a2c5560d88b81e134aab9784b7169f9b",
-    "url": "/ectl/static/media/event_banner.a2c5560d.webp"
+    "revision": "67300b5c3287f08b699db43813b5a955",
+    "url": "/ectl/static/media/event_banner.67300b5c.jpg"
   },
   {
     "revision": "8e23303b4806b5a470d33d9d7d362e02",
@@ -3434,6 +3482,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8502ddfcabc1097ba04d9d9a340a9395",
     "url": "/ectl/static/media/hardyshipyardicon.8502ddfc.png"
+  },
+  {
+    "revision": "c7e1eeeef007684bca40531fa9b4148e",
+    "url": "/ectl/static/media/haruka amamibanner.c7e1eeee.png"
+  },
+  {
+    "revision": "d496dd4a21ba0ed6141dcaf560bbd736",
+    "url": "/ectl/static/media/haruka amamichibi.d496dd4a.png"
+  },
+  {
+    "revision": "30f89102e4a46278405922d009f8514c",
+    "url": "/ectl/static/media/haruka amamiicon.30f89102.png"
+  },
+  {
+    "revision": "1a3484d81a6b0f7ca5d8a84d0130bc2f",
+    "url": "/ectl/static/media/haruka amamishipyardicon.1a3484d8.png"
   },
   {
     "revision": "8be9e765e0f33e1b3209a29eb64e55d3",
@@ -4360,6 +4424,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/intrepidshipyardicon.d9569874.png"
   },
   {
+    "revision": "c49e41cc3c1f01ff95c2f49e2f1acce1",
+    "url": "/ectl/static/media/iori minasebanner.c49e41cc.png"
+  },
+  {
+    "revision": "b1ce52b9e58af59cf5fe448510c42802",
+    "url": "/ectl/static/media/iori minasechibi.b1ce52b9.png"
+  },
+  {
+    "revision": "52f377e6349865d3051cdf5f08c3a711",
+    "url": "/ectl/static/media/iori minaseicon.52f377e6.png"
+  },
+  {
+    "revision": "6b2a2eff97e2c3ee41e32152d2c29be7",
+    "url": "/ectl/static/media/iori minaseshipyardicon.6b2a2eff.png"
+  },
+  {
     "revision": "2d278a0eee28b98ca4050534d47d4c3d",
     "url": "/ectl/static/media/isebanner.2d278a0e.png"
   },
@@ -4861,19 +4941,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "3e9687f39de53fdc1e93a44c07c6e31f",
-    "url": "/ectl/static/media/kasumi (doa)banner.3e9687f3.png"
+    "url": "/ectl/static/media/kasumi (venus vacation)banner.3e9687f3.png"
   },
   {
     "revision": "e312060762c900a209da39bf3e83bd92",
-    "url": "/ectl/static/media/kasumi (doa)chibi.e3120607.png"
+    "url": "/ectl/static/media/kasumi (venus vacation)chibi.e3120607.png"
   },
   {
     "revision": "209828a43c2131a581ed7bb2be20004a",
-    "url": "/ectl/static/media/kasumi (doa)icon.209828a4.png"
+    "url": "/ectl/static/media/kasumi (venus vacation)icon.209828a4.png"
   },
   {
     "revision": "ba8e3634a63a8e87fa2dbde069dbdad5",
-    "url": "/ectl/static/media/kasumi (doa)shipyardicon.ba8e3634.png"
+    "url": "/ectl/static/media/kasumi (venus vacation)shipyardicon.ba8e3634.png"
   },
   {
     "revision": "716787a463e3ae102b6e71721b7f25b5",
@@ -5804,6 +5884,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/makinamishipyardicon.713f8f00.png"
   },
   {
+    "revision": "2e8aeefee75d7eeb0012407c9cee5fc8",
+    "url": "/ectl/static/media/mami futamibanner.2e8aeefe.png"
+  },
+  {
+    "revision": "cd55efab20f7ac11ac27e6ec59c6f9ff",
+    "url": "/ectl/static/media/mami futamichibi.cd55efab.png"
+  },
+  {
+    "revision": "08acc6e79e9f527eac5946e5a72d2e8b",
+    "url": "/ectl/static/media/mami futamiicon.08acc6e7.png"
+  },
+  {
+    "revision": "6064b2c6c8f9135a85dcb9d3ae9602c7",
+    "url": "/ectl/static/media/mami futamishipyardicon.6064b2c6.png"
+  },
+  {
     "revision": "f03699b045c580aa12a4a9ddfe82e70a",
     "url": "/ectl/static/media/marbleheadbanner.f03699b0.png"
   },
@@ -6585,19 +6681,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "3d85944cd47912aa08fe980cf609e2a2",
-    "url": "/ectl/static/media/neptune (hdn)banner.3d85944c.png"
+    "url": "/ectl/static/media/neptune (neptunia)banner.3d85944c.png"
   },
   {
     "revision": "a43a8c83d0fb4a402c9dc7591255b591",
-    "url": "/ectl/static/media/neptune (hdn)chibi.a43a8c83.png"
+    "url": "/ectl/static/media/neptune (neptunia)chibi.a43a8c83.png"
   },
   {
     "revision": "5b48d3af551cd92b4d95ef7aae8c914d",
-    "url": "/ectl/static/media/neptune (hdn)icon.5b48d3af.png"
+    "url": "/ectl/static/media/neptune (neptunia)icon.5b48d3af.png"
   },
   {
     "revision": "9700acb266e74ca029afb1cfe1618057",
-    "url": "/ectl/static/media/neptune (hdn)shipyardicon.9700acb2.png"
+    "url": "/ectl/static/media/neptune (neptunia)shipyardicon.9700acb2.png"
   },
   {
     "revision": "084cab20e078a568b2d189b09b868456",
@@ -7650,6 +7746,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "96b6820848c356cc663684cb00b8165f",
     "url": "/ectl/static/media/richmondshipyardicon.96b68208.png"
+  },
+  {
+    "revision": "c5e4394c3b14348685f8d25452da288a",
+    "url": "/ectl/static/media/ritsuko akizukibanner.c5e4394c.png"
+  },
+  {
+    "revision": "f2ada27f096bfc9403c33e1ba5aa8f55",
+    "url": "/ectl/static/media/ritsuko akizukichibi.f2ada27f.png"
+  },
+  {
+    "revision": "1e1d6661453727a8ef20a728fd813a45",
+    "url": "/ectl/static/media/ritsuko akizukiicon.1e1d6661.png"
+  },
+  {
+    "revision": "9285d4ed87a8d382b6f3d749f28405e4",
+    "url": "/ectl/static/media/ritsuko akizukishipyardicon.9285d4ed.png"
   },
   {
     "revision": "031ddec7071541e1e537c810a0acda02",
