@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ectl/static/css/main.dafa87b3.chunk.css",
-    "main.js": "/ectl/static/js/main.26c19cbb.chunk.js",
-    "main.js.map": "/ectl/static/js/main.26c19cbb.chunk.js.map",
+    "main.css": "/ectl/static/css/main.9f0e688d.chunk.css",
+    "main.js": "/ectl/static/js/main.eeb6cf40.chunk.js",
+    "main.js.map": "/ectl/static/js/main.eeb6cf40.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.b2e259c0.chunk.css": "/ectl/static/css/2.b2e259c0.chunk.css",
-    "static/js/2.252e7037.chunk.js": "/ectl/static/js/2.252e7037.chunk.js",
-    "static/js/2.252e7037.chunk.js.map": "/ectl/static/js/2.252e7037.chunk.js.map",
+    "static/js/2.9e7cf91e.chunk.js": "/ectl/static/js/2.9e7cf91e.chunk.js",
+    "static/js/2.9e7cf91e.chunk.js.map": "/ectl/static/js/2.9e7cf91e.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.5754dbefed985dd1f0e0a6eb84e869ac.js": "/ectl/precache-manifest.5754dbefed985dd1f0e0a6eb84e869ac.js",
+    "precache-manifest.f1b060b4e1fb512a9874b8b7e867ec07.js": "/ectl/precache-manifest.f1b060b4e1fb512a9874b8b7e867ec07.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.b2e259c0.chunk.css.map": "/ectl/static/css/2.b2e259c0.chunk.css.map",
-    "static/css/main.dafa87b3.chunk.css.map": "/ectl/static/css/main.dafa87b3.chunk.css.map",
-    "static/js/2.252e7037.chunk.js.LICENSE.txt": "/ectl/static/js/2.252e7037.chunk.js.LICENSE.txt",
+    "static/css/main.9f0e688d.chunk.css.map": "/ectl/static/css/main.9f0e688d.chunk.css.map",
+    "static/js/2.9e7cf91e.chunk.js.LICENSE.txt": "/ectl/static/js/2.9e7cf91e.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.82316982.png",
     "static/media/22banner.png": "/ectl/static/media/22banner.045e58cd.png",
     "static/media/22chibi.png": "/ectl/static/media/22chibi.3295b5c5.png",
@@ -219,6 +219,10 @@
     "static/media/ark royalbanner.png": "/ectl/static/media/ark royalbanner.cd3c9c6e.png",
     "static/media/ark royalchibi.png": "/ectl/static/media/ark royalchibi.ae85222f.png",
     "static/media/ark royalicon.png": "/ectl/static/media/ark royalicon.dd5acce4.png",
+    "static/media/ark royalkaibanner.png": "/ectl/static/media/ark royalkaibanner.146c47d0.png",
+    "static/media/ark royalkaichibi.png": "/ectl/static/media/ark royalkaichibi.e41d3f09.png",
+    "static/media/ark royalkaiicon.png": "/ectl/static/media/ark royalkaiicon.0632352e.png",
+    "static/media/ark royalkaishipyardicon.png": "/ectl/static/media/ark royalkaishipyardicon.823fc997.png",
     "static/media/ark royalshipyardicon.png": "/ectl/static/media/ark royalshipyardicon.95a8a3cb.png",
     "static/media/asashiobanner.png": "/ectl/static/media/asashiobanner.e93f3233.png",
     "static/media/asashiochibi.png": "/ectl/static/media/asashiochibi.b5c48d25.png",
@@ -2686,8 +2690,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.b2e259c0.chunk.css",
-    "static/js/2.252e7037.chunk.js",
-    "static/css/main.dafa87b3.chunk.css",
-    "static/js/main.26c19cbb.chunk.js"
+    "static/js/2.9e7cf91e.chunk.js",
+    "static/css/main.9f0e688d.chunk.css",
+    "static/js/main.eeb6cf40.chunk.js"
   ]
 }
