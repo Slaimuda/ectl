@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8e1b19cb5197616f775ed6f01b45073",
+    "revision": "e4e4e0eb913bedacb626da2755f02b17",
     "url": "/ectl/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/css/2.36961e8a.chunk.css"
   },
   {
-    "revision": "8e3e617227496ecbd5cc",
+    "revision": "6cf354d4ccf98a424211",
     "url": "/ectl/static/css/main.d84807f0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/js/2.f7e9caed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e3e617227496ecbd5cc",
-    "url": "/ectl/static/js/main.2807658c.chunk.js"
+    "revision": "6cf354d4ccf98a424211",
+    "url": "/ectl/static/js/main.db6b8edd.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -2626,10 +2626,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9b170423f372e4978660d89d8d22798c",
     "url": "/ectl/static/media/essexshipyardicon.9b170423.png"
-  },
-  {
-    "revision": "00a415d08a0cfc11e37f6233b5aa348e",
-    "url": "/ectl/static/media/event_banner.00a415d0.png"
   },
   {
     "revision": "8e23303b4806b5a470d33d9d7d362e02",
@@ -8210,6 +8206,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e917ea991ac516f19b9fd912ba96ae45",
     "url": "/ectl/static/media/shigureshipyardicon.e917ea99.png"
+  },
+  {
+    "revision": "85db6093db645718a812a57813a10f1b",
+    "url": "/ectl/static/media/shimmering-blue-preview.85db6093.png"
   },
   {
     "revision": "1103b1c489d8eac8bce130d8310432ba",
