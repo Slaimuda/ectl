@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3e861bd2cf061b09595d14031738bed",
+    "revision": "252aa3f2f5bc0ea5468453482e22def6",
     "url": "/ectl/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/css/2.36961e8a.chunk.css"
   },
   {
-    "revision": "ba7a279d6c4ef65790c3",
+    "revision": "de42f923d99a056f94f9",
     "url": "/ectl/static/css/main.d84807f0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/js/2.f7e9caed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ba7a279d6c4ef65790c3",
-    "url": "/ectl/static/js/main.01b01d9b.chunk.js"
+    "revision": "de42f923d99a056f94f9",
+    "url": "/ectl/static/js/main.4142d0bf.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -8208,8 +8208,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/shigureshipyardicon.e917ea99.png"
   },
   {
-    "revision": "85db6093db645718a812a57813a10f1b",
-    "url": "/ectl/static/media/shimmering-blue-preview.85db6093.png"
+    "revision": "600b6e03a1a8975c9122ace7fad708b6",
+    "url": "/ectl/static/media/shimmering-blue.600b6e03.png"
   },
   {
     "revision": "1103b1c489d8eac8bce130d8310432ba",

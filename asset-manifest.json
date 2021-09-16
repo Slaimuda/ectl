@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.d84807f0.chunk.css",
-    "main.js": "/ectl/static/js/main.01b01d9b.chunk.js",
-    "main.js.map": "/ectl/static/js/main.01b01d9b.chunk.js.map",
+    "main.js": "/ectl/static/js/main.4142d0bf.chunk.js",
+    "main.js.map": "/ectl/static/js/main.4142d0bf.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.36961e8a.chunk.css": "/ectl/static/css/2.36961e8a.chunk.css",
     "static/js/2.f7e9caed.chunk.js": "/ectl/static/js/2.f7e9caed.chunk.js",
     "static/js/2.f7e9caed.chunk.js.map": "/ectl/static/js/2.f7e9caed.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.dc7f293f39ef07e35f5283a182acd864.js": "/ectl/precache-manifest.dc7f293f39ef07e35f5283a182acd864.js",
+    "precache-manifest.8d12e05baa83b91af5ebe3e91780d78f.js": "/ectl/precache-manifest.8d12e05baa83b91af5ebe3e91780d78f.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.36961e8a.chunk.css.map": "/ectl/static/css/2.36961e8a.chunk.css.map",
     "static/css/main.d84807f0.chunk.css.map": "/ectl/static/css/main.d84807f0.chunk.css.map",
@@ -2041,7 +2041,7 @@
     "static/media/shigurekaiicon.png": "/ectl/static/media/shigurekaiicon.9414003a.png",
     "static/media/shigurekaishipyardicon.png": "/ectl/static/media/shigurekaishipyardicon.69d74e06.png",
     "static/media/shigureshipyardicon.png": "/ectl/static/media/shigureshipyardicon.e917ea99.png",
-    "static/media/shimmering-blue-preview.png": "/ectl/static/media/shimmering-blue-preview.85db6093.png",
+    "static/media/shimmering-blue.png": "/ectl/static/media/shimmering-blue.600b6e03.png",
     "static/media/shinanobanner.png": "/ectl/static/media/shinanobanner.1103b1c4.png",
     "static/media/shinanochibi.png": "/ectl/static/media/shinanochibi.cbdede92.png",
     "static/media/shinanoicon.png": "/ectl/static/media/shinanoicon.05e793d9.png",
@@ -2701,6 +2701,6 @@
     "static/css/2.36961e8a.chunk.css",
     "static/js/2.f7e9caed.chunk.js",
     "static/css/main.d84807f0.chunk.css",
-    "static/js/main.01b01d9b.chunk.js"
+    "static/js/main.4142d0bf.chunk.js"
   ]
 }
