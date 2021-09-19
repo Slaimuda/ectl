@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "614c0d07910623e642eead01c1fc6cc2",
+    "revision": "e7f3203ff316b5393f946128291e01e1",
     "url": "/ectl/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/css/2.36961e8a.chunk.css"
   },
   {
-    "revision": "9dbf7ee3b9f0fbf146f4",
+    "revision": "152c46c2647a15159282",
     "url": "/ectl/static/css/main.d84807f0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/js/2.2ac3b7e2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9dbf7ee3b9f0fbf146f4",
-    "url": "/ectl/static/js/main.3fc86376.chunk.js"
+    "revision": "152c46c2647a15159282",
+    "url": "/ectl/static/js/main.f4c347b2.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -5014,6 +5014,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c8f898a46c9a4584ac26e1490da41ef7",
     "url": "/ectl/static/media/kasumishipyardicon.c8f898a4.png"
+  },
+  {
+    "revision": "047377fe7956057473884df83d74d3e1",
+    "url": "/ectl/static/media/katsuragibanner.047377fe.png"
+  },
+  {
+    "revision": "4f576d49cfe21f5bf2ea025a004806c2",
+    "url": "/ectl/static/media/katsuragichibi.4f576d49.png"
+  },
+  {
+    "revision": "30fc505c889656e1a83f1c3fc251d650",
+    "url": "/ectl/static/media/katsuragiicon.30fc505c.png"
+  },
+  {
+    "revision": "62955d3f0b0c5ae66e45689d584ce976",
+    "url": "/ectl/static/media/katsuragishipyardicon.62955d3f.png"
   },
   {
     "revision": "fc646b59bb0a5ce3a6759bff76859745",

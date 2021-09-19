@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.d84807f0.chunk.css",
-    "main.js": "/ectl/static/js/main.3fc86376.chunk.js",
-    "main.js.map": "/ectl/static/js/main.3fc86376.chunk.js.map",
+    "main.js": "/ectl/static/js/main.f4c347b2.chunk.js",
+    "main.js.map": "/ectl/static/js/main.f4c347b2.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.36961e8a.chunk.css": "/ectl/static/css/2.36961e8a.chunk.css",
     "static/js/2.2ac3b7e2.chunk.js": "/ectl/static/js/2.2ac3b7e2.chunk.js",
     "static/js/2.2ac3b7e2.chunk.js.map": "/ectl/static/js/2.2ac3b7e2.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.39fc6373ed07e7a399010f55c986f812.js": "/ectl/precache-manifest.39fc6373ed07e7a399010f55c986f812.js",
+    "precache-manifest.b30de3f7839ade5455c0b7edbdf13590.js": "/ectl/precache-manifest.b30de3f7839ade5455c0b7edbdf13590.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.36961e8a.chunk.css.map": "/ectl/static/css/2.36961e8a.chunk.css.map",
     "static/css/main.d84807f0.chunk.css.map": "/ectl/static/css/main.d84807f0.chunk.css.map",
@@ -1251,6 +1251,10 @@
     "static/media/kasumikaiicon.png": "/ectl/static/media/kasumikaiicon.b50856ca.png",
     "static/media/kasumikaishipyardicon.png": "/ectl/static/media/kasumikaishipyardicon.8d7b4996.png",
     "static/media/kasumishipyardicon.png": "/ectl/static/media/kasumishipyardicon.c8f898a4.png",
+    "static/media/katsuragibanner.png": "/ectl/static/media/katsuragibanner.047377fe.png",
+    "static/media/katsuragichibi.png": "/ectl/static/media/katsuragichibi.4f576d49.png",
+    "static/media/katsuragiicon.png": "/ectl/static/media/katsuragiicon.30fc505c.png",
+    "static/media/katsuragishipyardicon.png": "/ectl/static/media/katsuragishipyardicon.62955d3f.png",
     "static/media/kawakazebanner.png": "/ectl/static/media/kawakazebanner.fc646b59.png",
     "static/media/kawakazechibi.png": "/ectl/static/media/kawakazechibi.d9a4c24c.png",
     "static/media/kawakazeicon.png": "/ectl/static/media/kawakazeicon.8201e922.png",
@@ -2701,6 +2705,6 @@
     "static/css/2.36961e8a.chunk.css",
     "static/js/2.2ac3b7e2.chunk.js",
     "static/css/main.d84807f0.chunk.css",
-    "static/js/main.3fc86376.chunk.js"
+    "static/js/main.f4c347b2.chunk.js"
   ]
 }
