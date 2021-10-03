@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ectl/static/css/main.fe53631f.chunk.css",
-    "main.js": "/ectl/static/js/main.66661683.chunk.js",
-    "main.js.map": "/ectl/static/js/main.66661683.chunk.js.map",
+    "main.css": "/ectl/static/css/main.e205fb29.chunk.css",
+    "main.js": "/ectl/static/js/main.abe48b97.chunk.js",
+    "main.js.map": "/ectl/static/js/main.abe48b97.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.36961e8a.chunk.css": "/ectl/static/css/2.36961e8a.chunk.css",
-    "static/js/2.2ac3b7e2.chunk.js": "/ectl/static/js/2.2ac3b7e2.chunk.js",
-    "static/js/2.2ac3b7e2.chunk.js.map": "/ectl/static/js/2.2ac3b7e2.chunk.js.map",
+    "static/js/2.3d6c9dd0.chunk.js": "/ectl/static/js/2.3d6c9dd0.chunk.js",
+    "static/js/2.3d6c9dd0.chunk.js.map": "/ectl/static/js/2.3d6c9dd0.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.49f8b1f450efd4703b9b94a1e3fc8389.js": "/ectl/precache-manifest.49f8b1f450efd4703b9b94a1e3fc8389.js",
+    "precache-manifest.3787b509d55ebcc124d7a191c4ad701d.js": "/ectl/precache-manifest.3787b509d55ebcc124d7a191c4ad701d.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.36961e8a.chunk.css.map": "/ectl/static/css/2.36961e8a.chunk.css.map",
-    "static/css/main.fe53631f.chunk.css.map": "/ectl/static/css/main.fe53631f.chunk.css.map",
-    "static/js/2.2ac3b7e2.chunk.js.LICENSE.txt": "/ectl/static/js/2.2ac3b7e2.chunk.js.LICENSE.txt",
+    "static/css/main.e205fb29.chunk.css.map": "/ectl/static/css/main.e205fb29.chunk.css.map",
+    "static/js/2.3d6c9dd0.chunk.js.LICENSE.txt": "/ectl/static/js/2.3d6c9dd0.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.82316982.png",
     "static/media/22banner.png": "/ectl/static/media/22banner.045e58cd.png",
     "static/media/22chibi.png": "/ectl/static/media/22chibi.3295b5c5.png",
@@ -2626,6 +2626,10 @@
     "static/media/yuudachibanner.png": "/ectl/static/media/yuudachibanner.165aa962.png",
     "static/media/yuudachichibi.png": "/ectl/static/media/yuudachichibi.ea6a7b2b.png",
     "static/media/yuudachiicon.png": "/ectl/static/media/yuudachiicon.8367c648.png",
+    "static/media/yuudachikaibanner.png": "/ectl/static/media/yuudachikaibanner.19dddad7.png",
+    "static/media/yuudachikaichibi.png": "/ectl/static/media/yuudachikaichibi.7fc19957.png",
+    "static/media/yuudachikaiicon.png": "/ectl/static/media/yuudachikaiicon.3b641770.png",
+    "static/media/yuudachikaishipyardicon.png": "/ectl/static/media/yuudachikaishipyardicon.a35c7736.png",
     "static/media/yuudachishipyardicon.png": "/ectl/static/media/yuudachishipyardicon.bb4b2240.png",
     "static/media/yuugurebanner.png": "/ectl/static/media/yuugurebanner.e375e5d2.png",
     "static/media/yuugurechibi.png": "/ectl/static/media/yuugurechibi.0cbb46ce.png",
@@ -2728,8 +2732,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.36961e8a.chunk.css",
-    "static/js/2.2ac3b7e2.chunk.js",
-    "static/css/main.fe53631f.chunk.css",
-    "static/js/main.66661683.chunk.js"
+    "static/js/2.3d6c9dd0.chunk.js",
+    "static/css/main.e205fb29.chunk.css",
+    "static/js/main.abe48b97.chunk.js"
   ]
 }
