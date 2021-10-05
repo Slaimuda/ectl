@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ectl/static/css/main.e205fb29.chunk.css",
-    "main.js": "/ectl/static/js/main.acc03f31.chunk.js",
-    "main.js.map": "/ectl/static/js/main.acc03f31.chunk.js.map",
+    "main.css": "/ectl/static/css/main.36a064d2.chunk.css",
+    "main.js": "/ectl/static/js/main.e1faa0d2.chunk.js",
+    "main.js.map": "/ectl/static/js/main.e1faa0d2.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.36961e8a.chunk.css": "/ectl/static/css/2.36961e8a.chunk.css",
-    "static/js/2.3d6c9dd0.chunk.js": "/ectl/static/js/2.3d6c9dd0.chunk.js",
-    "static/js/2.3d6c9dd0.chunk.js.map": "/ectl/static/js/2.3d6c9dd0.chunk.js.map",
+    "static/js/2.af417590.chunk.js": "/ectl/static/js/2.af417590.chunk.js",
+    "static/js/2.af417590.chunk.js.map": "/ectl/static/js/2.af417590.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.f9f40f314103d33040ac3a2fa6f5171e.js": "/ectl/precache-manifest.f9f40f314103d33040ac3a2fa6f5171e.js",
+    "precache-manifest.e06c55c20fdd7b2db16bbf531929b500.js": "/ectl/precache-manifest.e06c55c20fdd7b2db16bbf531929b500.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.36961e8a.chunk.css.map": "/ectl/static/css/2.36961e8a.chunk.css.map",
-    "static/css/main.e205fb29.chunk.css.map": "/ectl/static/css/main.e205fb29.chunk.css.map",
-    "static/js/2.3d6c9dd0.chunk.js.LICENSE.txt": "/ectl/static/js/2.3d6c9dd0.chunk.js.LICENSE.txt",
+    "static/css/main.36a064d2.chunk.css.map": "/ectl/static/css/main.36a064d2.chunk.css.map",
+    "static/js/2.af417590.chunk.js.LICENSE.txt": "/ectl/static/js/2.af417590.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.82316982.png",
     "static/media/22banner.png": "/ectl/static/media/22banner.045e58cd.png",
     "static/media/22chibi.png": "/ectl/static/media/22chibi.3295b5c5.png",
@@ -757,6 +757,10 @@
     "static/media/furutakakaiicon.png": "/ectl/static/media/furutakakaiicon.40643027.png",
     "static/media/furutakakaishipyardicon.png": "/ectl/static/media/furutakakaishipyardicon.0bafab12.png",
     "static/media/furutakashipyardicon.png": "/ectl/static/media/furutakashipyardicon.d3559269.png",
+    "static/media/fusou metabanner.png": "/ectl/static/media/fusou metabanner.9f976072.png",
+    "static/media/fusou metachibi.png": "/ectl/static/media/fusou metachibi.596b5b95.png",
+    "static/media/fusou metaicon.png": "/ectl/static/media/fusou metaicon.30cab61c.png",
+    "static/media/fusou metashipyardicon.png": "/ectl/static/media/fusou metashipyardicon.20c8c856.png",
     "static/media/fusoubanner.png": "/ectl/static/media/fusoubanner.8a844fd6.png",
     "static/media/fusouchibi.png": "/ectl/static/media/fusouchibi.b37e8e14.png",
     "static/media/fusouicon.png": "/ectl/static/media/fusouicon.31df57f8.png",
@@ -2732,8 +2736,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.36961e8a.chunk.css",
-    "static/js/2.3d6c9dd0.chunk.js",
-    "static/css/main.e205fb29.chunk.css",
-    "static/js/main.acc03f31.chunk.js"
+    "static/js/2.af417590.chunk.js",
+    "static/css/main.36a064d2.chunk.css",
+    "static/js/main.e1faa0d2.chunk.js"
   ]
 }
