@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.4acec377.chunk.css",
-    "main.js": "/ectl/static/js/main.7809924b.chunk.js",
-    "main.js.map": "/ectl/static/js/main.7809924b.chunk.js.map",
+    "main.js": "/ectl/static/js/main.e73d3e62.chunk.js",
+    "main.js.map": "/ectl/static/js/main.e73d3e62.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.1c6c8e19.chunk.css": "/ectl/static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.b5107e50.chunk.js": "/ectl/static/js/2.b5107e50.chunk.js",
-    "static/js/2.b5107e50.chunk.js.map": "/ectl/static/js/2.b5107e50.chunk.js.map",
+    "static/js/2.96073012.chunk.js": "/ectl/static/js/2.96073012.chunk.js",
+    "static/js/2.96073012.chunk.js.map": "/ectl/static/js/2.96073012.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.a5c44518c57e6c3441fb1f82602226d7.js": "/ectl/precache-manifest.a5c44518c57e6c3441fb1f82602226d7.js",
+    "precache-manifest.25e60f7d854e1c6354b6f1a38ffac7ba.js": "/ectl/precache-manifest.25e60f7d854e1c6354b6f1a38ffac7ba.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.1c6c8e19.chunk.css.map": "/ectl/static/css/2.1c6c8e19.chunk.css.map",
     "static/css/main.4acec377.chunk.css.map": "/ectl/static/css/main.4acec377.chunk.css.map",
-    "static/js/2.b5107e50.chunk.js.LICENSE.txt": "/ectl/static/js/2.b5107e50.chunk.js.LICENSE.txt",
+    "static/js/2.96073012.chunk.js.LICENSE.txt": "/ectl/static/js/2.96073012.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.82316982.png",
     "static/media/22banner.png": "/ectl/static/media/22banner.045e58cd.png",
     "static/media/22chibi.png": "/ectl/static/media/22chibi.3295b5c5.png",
@@ -1710,6 +1710,10 @@
     "static/media/new jerseychibi.png": "/ectl/static/media/new jerseychibi.efa3b4d6.png",
     "static/media/new jerseyicon.png": "/ectl/static/media/new jerseyicon.aaf020f1.png",
     "static/media/new jerseyshipyardicon.png": "/ectl/static/media/new jerseyshipyardicon.e34d90a7.png",
+    "static/media/new orleansbanner.png": "/ectl/static/media/new orleansbanner.e819fe6a.png",
+    "static/media/new orleanschibi.png": "/ectl/static/media/new orleanschibi.67b14640.png",
+    "static/media/new orleansicon.png": "/ectl/static/media/new orleansicon.4b788a9d.png",
+    "static/media/new orleansshipyardicon.png": "/ectl/static/media/new orleansshipyardicon.166e1d68.png",
     "static/media/newcastlebanner.png": "/ectl/static/media/newcastlebanner.b54997d3.png",
     "static/media/newcastlechibi.png": "/ectl/static/media/newcastlechibi.1f84dd07.png",
     "static/media/newcastleicon.png": "/ectl/static/media/newcastleicon.482793c8.png",
@@ -2735,8 +2739,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.b5107e50.chunk.js",
+    "static/js/2.96073012.chunk.js",
     "static/css/main.4acec377.chunk.css",
-    "static/js/main.7809924b.chunk.js"
+    "static/js/main.e73d3e62.chunk.js"
   ]
 }
