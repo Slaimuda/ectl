@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "181a78442a1ae1fe639c4fcd01a2d439",
+    "revision": "be30dd0e6410341543f0fad05167851e",
     "url": "/ectl/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/css/2.1c6c8e19.chunk.css"
   },
   {
-    "revision": "725deefb9abc96055299",
+    "revision": "c84581aa1779be3add77",
     "url": "/ectl/static/css/main.4acec377.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/js/2.96073012.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "725deefb9abc96055299",
-    "url": "/ectl/static/js/main.20a19fe0.chunk.js"
+    "revision": "c84581aa1779be3add77",
+    "url": "/ectl/static/js/main.6cdc9f19.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -8228,10 +8228,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/shimakazeshipyardicon.91afa229.png"
   },
   {
-    "revision": "600b6e03a1a8975c9122ace7fad708b6",
-    "url": "/ectl/static/media/shimmering-blue.600b6e03.png"
-  },
-  {
     "revision": "1103b1c489d8eac8bce130d8310432ba",
     "url": "/ectl/static/media/shinanobanner.1103b1c4.png"
   },
@@ -8550,6 +8546,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9d875a5db9d1fec403d06073d6036d2c",
     "url": "/ectl/static/media/site_icon.9d875a5d.png"
+  },
+  {
+    "revision": "34a9b8a8a15d41a065a4bc2a290e6939",
+    "url": "/ectl/static/media/skybound-oratorio-rerun.34a9b8a8.png"
   },
   {
     "revision": "508c786c04dc55e816acbd59b91972ba",
