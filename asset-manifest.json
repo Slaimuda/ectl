@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.4acec377.chunk.css",
-    "main.js": "/ectl/static/js/main.4e027590.chunk.js",
-    "main.js.map": "/ectl/static/js/main.4e027590.chunk.js.map",
+    "main.js": "/ectl/static/js/main.1bc34434.chunk.js",
+    "main.js.map": "/ectl/static/js/main.1bc34434.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.1c6c8e19.chunk.css": "/ectl/static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.9e79a41c.chunk.js": "/ectl/static/js/2.9e79a41c.chunk.js",
-    "static/js/2.9e79a41c.chunk.js.map": "/ectl/static/js/2.9e79a41c.chunk.js.map",
+    "static/js/2.2a1b6876.chunk.js": "/ectl/static/js/2.2a1b6876.chunk.js",
+    "static/js/2.2a1b6876.chunk.js.map": "/ectl/static/js/2.2a1b6876.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.087e66bced85a01fca6022878c586ebb.js": "/ectl/precache-manifest.087e66bced85a01fca6022878c586ebb.js",
+    "precache-manifest.11e45fd3369730e99c57bc4abe01f1f7.js": "/ectl/precache-manifest.11e45fd3369730e99c57bc4abe01f1f7.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.1c6c8e19.chunk.css.map": "/ectl/static/css/2.1c6c8e19.chunk.css.map",
     "static/css/main.4acec377.chunk.css.map": "/ectl/static/css/main.4acec377.chunk.css.map",
-    "static/js/2.9e79a41c.chunk.js.LICENSE.txt": "/ectl/static/js/2.9e79a41c.chunk.js.LICENSE.txt",
+    "static/js/2.2a1b6876.chunk.js.LICENSE.txt": "/ectl/static/js/2.2a1b6876.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.82316982.png",
     "static/media/22banner.png": "/ectl/static/media/22banner.045e58cd.png",
     "static/media/22chibi.png": "/ectl/static/media/22chibi.3295b5c5.png",
@@ -1398,6 +1398,10 @@
     "static/media/le marskaiicon.png": "/ectl/static/media/le marskaiicon.08d9416a.png",
     "static/media/le marskaishipyardicon.png": "/ectl/static/media/le marskaishipyardicon.d1b03727.png",
     "static/media/le marsshipyardicon.png": "/ectl/static/media/le marsshipyardicon.9c46eed1.png",
+    "static/media/le terriblebanner.png": "/ectl/static/media/le terriblebanner.daaf690e.png",
+    "static/media/le terriblechibi.png": "/ectl/static/media/le terriblechibi.068b1b52.png",
+    "static/media/le terribleicon.png": "/ectl/static/media/le terribleicon.2fca8c5b.png",
+    "static/media/le terribleshipyardicon.png": "/ectl/static/media/le terribleshipyardicon.e693ac78.png",
     "static/media/le triomphantbanner.png": "/ectl/static/media/le triomphantbanner.43a48c5f.png",
     "static/media/le triomphantchibi.png": "/ectl/static/media/le triomphantchibi.180dc07e.png",
     "static/media/le triomphanticon.png": "/ectl/static/media/le triomphanticon.bf2afab3.png",
@@ -1479,6 +1483,10 @@
     "static/media/maestralechibi.png": "/ectl/static/media/maestralechibi.f1a5ad03.png",
     "static/media/maestraleicon.png": "/ectl/static/media/maestraleicon.465e9d0c.png",
     "static/media/maestraleshipyardicon.png": "/ectl/static/media/maestraleshipyardicon.8e7be0a9.png",
+    "static/media/maillé brézébanner.png": "/ectl/static/media/maillé brézébanner.f3b8f6b2.png",
+    "static/media/maillé brézéchibi.png": "/ectl/static/media/maillé brézéchibi.8d8981ec.png",
+    "static/media/maillé brézéicon.png": "/ectl/static/media/maillé brézéicon.ab8ba4e2.png",
+    "static/media/maillé brézéshipyardicon.png": "/ectl/static/media/maillé brézéshipyardicon.eaf2f22b.png",
     "static/media/mainzbanner.png": "/ectl/static/media/mainzbanner.2ff50859.png",
     "static/media/mainzchibi.png": "/ectl/static/media/mainzchibi.46472f3f.png",
     "static/media/mainzicon.png": "/ectl/static/media/mainzicon.a497fc81.png",
@@ -2739,8 +2747,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.9e79a41c.chunk.js",
+    "static/js/2.2a1b6876.chunk.js",
     "static/css/main.4acec377.chunk.css",
-    "static/js/main.4e027590.chunk.js"
+    "static/js/main.1bc34434.chunk.js"
   ]
 }
