@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae77c2e186eb70802935d2a4833b5ee0",
+    "revision": "70dd2a57d2d9f3a60ee252372bb08f97",
     "url": "/ectl/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/css/2.1c6c8e19.chunk.css"
   },
   {
-    "revision": "936b5abde2491da967bb",
+    "revision": "e1f087039b3f257830f2",
     "url": "/ectl/static/css/main.4acec377.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/js/2.76cb0079.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "936b5abde2491da967bb",
-    "url": "/ectl/static/js/main.8f21e7f7.chunk.js"
+    "revision": "e1f087039b3f257830f2",
+    "url": "/ectl/static/js/main.5b6bb87e.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -1182,6 +1182,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "00592e513beca3e011725dd82730bf16",
     "url": "/ectl/static/media/baltimoreshipyardicon.00592e51.png"
+  },
+  {
+    "revision": "37b56a4f69bc8a2aa897c59d4a728c27",
+    "url": "/ectl/static/media/banner.37b56a4f.png"
   },
   {
     "revision": "7479de36bc25738ea73d214ea9523098",
@@ -8594,10 +8598,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9d875a5db9d1fec403d06073d6036d2c",
     "url": "/ectl/static/media/site_icon.9d875a5d.png"
-  },
-  {
-    "revision": "34a9b8a8a15d41a065a4bc2a290e6939",
-    "url": "/ectl/static/media/skybound-oratorio-rerun.34a9b8a8.png"
   },
   {
     "revision": "508c786c04dc55e816acbd59b91972ba",

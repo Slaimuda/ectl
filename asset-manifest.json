@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.4acec377.chunk.css",
-    "main.js": "/ectl/static/js/main.8f21e7f7.chunk.js",
-    "main.js.map": "/ectl/static/js/main.8f21e7f7.chunk.js.map",
+    "main.js": "/ectl/static/js/main.5b6bb87e.chunk.js",
+    "main.js.map": "/ectl/static/js/main.5b6bb87e.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.1c6c8e19.chunk.css": "/ectl/static/css/2.1c6c8e19.chunk.css",
     "static/js/2.76cb0079.chunk.js": "/ectl/static/js/2.76cb0079.chunk.js",
     "static/js/2.76cb0079.chunk.js.map": "/ectl/static/js/2.76cb0079.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.c7d7765bb2e335e63d0267efee8062e1.js": "/ectl/precache-manifest.c7d7765bb2e335e63d0267efee8062e1.js",
+    "precache-manifest.0858b46be7962ee555cf52e7bbe6f7e6.js": "/ectl/precache-manifest.0858b46be7962ee555cf52e7bbe6f7e6.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.1c6c8e19.chunk.css.map": "/ectl/static/css/2.1c6c8e19.chunk.css.map",
     "static/css/main.4acec377.chunk.css.map": "/ectl/static/css/main.4acec377.chunk.css.map",
@@ -303,6 +303,7 @@
     "static/media/baltimorechibi.png": "/ectl/static/media/baltimorechibi.ed1663e6.png",
     "static/media/baltimoreicon.png": "/ectl/static/media/baltimoreicon.4031b607.png",
     "static/media/baltimoreshipyardicon.png": "/ectl/static/media/baltimoreshipyardicon.00592e51.png",
+    "static/media/banner.png": "/ectl/static/media/banner.37b56a4f.png",
     "static/media/basic_depth_charge.png": "/ectl/static/media/basic_depth_charge.7479de36.png",
     "static/media/basic_sonar.png": "/ectl/static/media/basic_sonar.db048c95.png",
     "static/media/bataanbanner.png": "/ectl/static/media/bataanbanner.93fb1218.png",
@@ -2153,7 +2154,6 @@
     "static/media/siriusicon.png": "/ectl/static/media/siriusicon.e45c953f.png",
     "static/media/siriusshipyardicon.png": "/ectl/static/media/siriusshipyardicon.24e23d3e.png",
     "static/media/site_icon.png": "/ectl/static/media/site_icon.9d875a5d.png",
-    "static/media/skybound-oratorio-rerun.png": "/ectl/static/media/skybound-oratorio-rerun.34a9b8a8.png",
     "static/media/smallcaliber_naval_gun_parts_cargo.png": "/ectl/static/media/smallcaliber_naval_gun_parts_cargo.508c786c.png",
     "static/media/smalleybanner.png": "/ectl/static/media/smalleybanner.a179eed1.png",
     "static/media/smalleychibi.png": "/ectl/static/media/smalleychibi.c06644d5.png",
@@ -2753,6 +2753,6 @@
     "static/css/2.1c6c8e19.chunk.css",
     "static/js/2.76cb0079.chunk.js",
     "static/css/main.4acec377.chunk.css",
-    "static/js/main.8f21e7f7.chunk.js"
+    "static/js/main.5b6bb87e.chunk.js"
   ]
 }
