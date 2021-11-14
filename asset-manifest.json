@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.4acec377.chunk.css",
-    "main.js": "/ectl/static/js/main.3a09cf0d.chunk.js",
-    "main.js.map": "/ectl/static/js/main.3a09cf0d.chunk.js.map",
+    "main.js": "/ectl/static/js/main.12d356fd.chunk.js",
+    "main.js.map": "/ectl/static/js/main.12d356fd.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.1c6c8e19.chunk.css": "/ectl/static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.5ec9c10f.chunk.js": "/ectl/static/js/2.5ec9c10f.chunk.js",
-    "static/js/2.5ec9c10f.chunk.js.map": "/ectl/static/js/2.5ec9c10f.chunk.js.map",
+    "static/js/2.76cb0079.chunk.js": "/ectl/static/js/2.76cb0079.chunk.js",
+    "static/js/2.76cb0079.chunk.js.map": "/ectl/static/js/2.76cb0079.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.1ee22891fd552588c611e9e69e207ba8.js": "/ectl/precache-manifest.1ee22891fd552588c611e9e69e207ba8.js",
+    "precache-manifest.8a35b08c233096d8c60c7ff0c47d240d.js": "/ectl/precache-manifest.8a35b08c233096d8c60c7ff0c47d240d.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.1c6c8e19.chunk.css.map": "/ectl/static/css/2.1c6c8e19.chunk.css.map",
     "static/css/main.4acec377.chunk.css.map": "/ectl/static/css/main.4acec377.chunk.css.map",
-    "static/js/2.5ec9c10f.chunk.js.LICENSE.txt": "/ectl/static/js/2.5ec9c10f.chunk.js.LICENSE.txt",
+    "static/js/2.76cb0079.chunk.js.LICENSE.txt": "/ectl/static/js/2.76cb0079.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.82316982.png",
     "static/media/22banner.png": "/ectl/static/media/22banner.045e58cd.png",
     "static/media/22chibi.png": "/ectl/static/media/22chibi.3295b5c5.png",
@@ -695,6 +695,10 @@
     "static/media/fletchericon.png": "/ectl/static/media/fletchericon.986fb251.png",
     "static/media/fletchershipyardicon.png": "/ectl/static/media/fletchershipyardicon.7930411d.png",
     "static/media/flettner_fl_282_kolibri.png": "/ectl/static/media/flettner_fl_282_kolibri.c7932600.png",
+    "static/media/fochbanner.png": "/ectl/static/media/fochbanner.00c25327.png",
+    "static/media/fochchibi.png": "/ectl/static/media/fochchibi.42f3e43c.png",
+    "static/media/fochicon.png": "/ectl/static/media/fochicon.4c45c5e6.png",
+    "static/media/fochshipyardicon.png": "/ectl/static/media/fochshipyardicon.37f52f22.png",
     "static/media/footebanner.png": "/ectl/static/media/footebanner.1b0bf720.png",
     "static/media/footechibi.png": "/ectl/static/media/footechibi.1e98979b.png",
     "static/media/footeicon.png": "/ectl/static/media/footeicon.fb1d05aa.png",
@@ -2389,8 +2393,8 @@
     "static/media/twin_203mm_3rd_year_type_no_2.png": "/ectl/static/media/twin_203mm_3rd_year_type_no_2.23f13eb5.png",
     "static/media/twin_203mm_3rd_year_type_no_3_prototype.png": "/ectl/static/media/twin_203mm_3rd_year_type_no_3_prototype.5160ad96.png",
     "static/media/twin_203mm_bl_8__mk_viii.png": "/ectl/static/media/twin_203mm_bl_8__mk_viii.b6a97871.png",
-    "static/media/twin_203mm_mle_1924.png": "/ectl/static/media/twin_203mm_mle_1924.45eec3d6.png",
     "static/media/twin_203mm_mle_1924_submarinemount.png": "/ectl/static/media/twin_203mm_mle_1924_submarinemount.ee27ce0b.png",
+    "static/media/twin_203mm_mle_1931.png": "/ectl/static/media/twin_203mm_mle_1931.45eec3d6.png",
     "static/media/twin_203mm_sk_c34.png": "/ectl/static/media/twin_203mm_sk_c34.86fc6205.png",
     "static/media/twin_20mm_oerlikon.png": "/ectl/static/media/twin_20mm_oerlikon.9ff935b9.png",
     "static/media/twin_25mm_aa_type_96.png": "/ectl/static/media/twin_25mm_aa_type_96.f0eeaf44.png",
@@ -2747,8 +2751,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.5ec9c10f.chunk.js",
+    "static/js/2.76cb0079.chunk.js",
     "static/css/main.4acec377.chunk.css",
-    "static/js/main.3a09cf0d.chunk.js"
+    "static/js/main.12d356fd.chunk.js"
   ]
 }
