@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.bed29a2f.chunk.css",
-    "main.js": "/ectl/static/js/main.35098e3f.chunk.js",
-    "main.js.map": "/ectl/static/js/main.35098e3f.chunk.js.map",
+    "main.js": "/ectl/static/js/main.95c0f657.chunk.js",
+    "main.js.map": "/ectl/static/js/main.95c0f657.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.23267526.chunk.css": "/ectl/static/css/2.23267526.chunk.css",
     "static/js/2.4b2c7aad.chunk.js": "/ectl/static/js/2.4b2c7aad.chunk.js",
     "static/js/2.4b2c7aad.chunk.js.map": "/ectl/static/js/2.4b2c7aad.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.c466ba97a8fe7f9d2a345233caf512a5.js": "/ectl/precache-manifest.c466ba97a8fe7f9d2a345233caf512a5.js",
+    "precache-manifest.b4855da87ad9fb4571c1e3e81d0a70d1.js": "/ectl/precache-manifest.b4855da87ad9fb4571c1e3e81d0a70d1.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.23267526.chunk.css.map": "/ectl/static/css/2.23267526.chunk.css.map",
     "static/css/main.bed29a2f.chunk.css.map": "/ectl/static/css/main.bed29a2f.chunk.css.map",
@@ -38,7 +38,6 @@
     "static/media/610mm_triple_torpedo_mount.png": "/ectl/static/media/610mm_triple_torpedo_mount.e2acf774.png",
     "static/media/610mm_twin_torpedo_mount.png": "/ectl/static/media/610mm_twin_torpedo_mount.9158ec9d.png",
     "static/media/6s.png": "/ectl/static/media/6s.85b8e791.png",
-    "static/media/Tower_of_Transcendence_Event_Banner_EN.jpg": "/ectl/static/media/Tower_of_Transcendence_Event_Banner_EN.66a793a2.jpg",
     "static/media/abercrombiebanner.png": "/ectl/static/media/abercrombiebanner.aab7c790.png",
     "static/media/abercrombiechibi.png": "/ectl/static/media/abercrombiechibi.316146bc.png",
     "static/media/abercrombieicon.png": "/ectl/static/media/abercrombieicon.c0a30921.png",
@@ -1215,6 +1214,7 @@
     "static/media/jintsuukaiicon.png": "/ectl/static/media/jintsuukaiicon.5cd4e817.png",
     "static/media/jintsuukaishipyardicon.png": "/ectl/static/media/jintsuukaishipyardicon.8283cc15.png",
     "static/media/jintsuushipyardicon.png": "/ectl/static/media/jintsuushipyardicon.515f7d64.png",
+    "static/media/joint-battle-mystery-investigation.png": "/ectl/static/media/joint-battle-mystery-investigation.4b287977.png",
     "static/media/juneaubanner.png": "/ectl/static/media/juneaubanner.491e7b7b.png",
     "static/media/juneauchibi.png": "/ectl/static/media/juneauchibi.871de9d3.png",
     "static/media/juneauicon.png": "/ectl/static/media/juneauicon.bbc898e0.png",
@@ -2814,6 +2814,6 @@
     "static/css/2.23267526.chunk.css",
     "static/js/2.4b2c7aad.chunk.js",
     "static/css/main.bed29a2f.chunk.css",
-    "static/js/main.35098e3f.chunk.js"
+    "static/js/main.95c0f657.chunk.js"
   ]
 }
