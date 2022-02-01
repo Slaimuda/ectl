@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c049ebba6018189e19580a6b88103980",
+    "revision": "c35941885ab0037611ac6d5392787596",
     "url": "/ectl/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/css/2.23267526.chunk.css"
   },
   {
-    "revision": "7860d15558cd42d0a3f9",
+    "revision": "3c0873cd2a2879b739d9",
     "url": "/ectl/static/css/main.bed29a2f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/js/2.d9c46771.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7860d15558cd42d0a3f9",
-    "url": "/ectl/static/js/main.9985e669.chunk.js"
+    "revision": "3c0873cd2a2879b739d9",
+    "url": "/ectl/static/js/main.4487cc51.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -122,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "85b8e7911fec20ddc4178423f3840979",
     "url": "/ectl/static/media/6s.85b8e791.png"
+  },
+  {
+    "revision": "b84391c97e7357e26afbd177a9343ff7",
+    "url": "/ectl/static/media/Joint_Battle_Mystery_Investigation_Event_Banner_EN.b84391c9.jpg"
   },
   {
     "revision": "aab7c7900cf241f4a80f3353691b899e",
@@ -4938,10 +4942,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "515f7d6464c1dc8564b0b8f0e191ef9d",
     "url": "/ectl/static/media/jintsuushipyardicon.515f7d64.png"
-  },
-  {
-    "revision": "4b287977867d62e04407ab4bca9bbc53",
-    "url": "/ectl/static/media/joint-battle-mystery-investigation.4b287977.png"
   },
   {
     "revision": "491e7b7bb32d100d3d2b3de30614d559",
