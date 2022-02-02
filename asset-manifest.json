@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.bed29a2f.chunk.css",
-    "main.js": "/ectl/static/js/main.9ebb5f8f.chunk.js",
-    "main.js.map": "/ectl/static/js/main.9ebb5f8f.chunk.js.map",
+    "main.js": "/ectl/static/js/main.6eca7279.chunk.js",
+    "main.js.map": "/ectl/static/js/main.6eca7279.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.23267526.chunk.css": "/ectl/static/css/2.23267526.chunk.css",
-    "static/js/2.d9c46771.chunk.js": "/ectl/static/js/2.d9c46771.chunk.js",
-    "static/js/2.d9c46771.chunk.js.map": "/ectl/static/js/2.d9c46771.chunk.js.map",
+    "static/js/2.25444965.chunk.js": "/ectl/static/js/2.25444965.chunk.js",
+    "static/js/2.25444965.chunk.js.map": "/ectl/static/js/2.25444965.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.451ca490cd188cf1af44b3fe5a75d125.js": "/ectl/precache-manifest.451ca490cd188cf1af44b3fe5a75d125.js",
+    "precache-manifest.d5034f98700a835629e6fbd9c391cab5.js": "/ectl/precache-manifest.d5034f98700a835629e6fbd9c391cab5.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.23267526.chunk.css.map": "/ectl/static/css/2.23267526.chunk.css.map",
     "static/css/main.bed29a2f.chunk.css.map": "/ectl/static/css/main.bed29a2f.chunk.css.map",
-    "static/js/2.d9c46771.chunk.js.LICENSE.txt": "/ectl/static/js/2.d9c46771.chunk.js.LICENSE.txt",
+    "static/js/2.25444965.chunk.js.LICENSE.txt": "/ectl/static/js/2.25444965.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.82316982.png",
     "static/media/22banner.png": "/ectl/static/media/22banner.045e58cd.png",
     "static/media/22chibi.png": "/ectl/static/media/22chibi.3295b5c5.png",
@@ -1252,6 +1252,10 @@
     "static/media/junochibi.png": "/ectl/static/media/junochibi.8322ffc5.png",
     "static/media/junoicon.png": "/ectl/static/media/junoicon.cd43bd65.png",
     "static/media/junoshipyardicon.png": "/ectl/static/media/junoshipyardicon.9f193ed3.png",
+    "static/media/junyou metabanner.png": "/ectl/static/media/junyou metabanner.3b569f4c.png",
+    "static/media/junyou metachibi.png": "/ectl/static/media/junyou metachibi.e5c5e9b9.png",
+    "static/media/junyou metaicon.png": "/ectl/static/media/junyou metaicon.df505de8.png",
+    "static/media/junyou metashipyardicon.png": "/ectl/static/media/junyou metashipyardicon.7892275f.png",
     "static/media/junyoubanner.png": "/ectl/static/media/junyoubanner.8ade7d91.png",
     "static/media/junyouchibi.png": "/ectl/static/media/junyouchibi.afa1db7f.png",
     "static/media/junyouicon.png": "/ectl/static/media/junyouicon.f067b799.png",
@@ -2840,8 +2844,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.23267526.chunk.css",
-    "static/js/2.d9c46771.chunk.js",
+    "static/js/2.25444965.chunk.js",
     "static/css/main.bed29a2f.chunk.css",
-    "static/js/main.9ebb5f8f.chunk.js"
+    "static/js/main.6eca7279.chunk.js"
   ]
 }
