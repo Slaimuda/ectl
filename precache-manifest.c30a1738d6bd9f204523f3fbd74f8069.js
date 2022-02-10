@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0068af51968616b63a8f74af985f833",
+    "revision": "70010a260504e723df841dd80b09aaa9",
     "url": "/ectl/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/css/2.23267526.chunk.css"
   },
   {
-    "revision": "e68603ab202e3e9086f7",
+    "revision": "cbc35f1543f57ff1646e",
     "url": "/ectl/static/css/main.bed29a2f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/js/2.25444965.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e68603ab202e3e9086f7",
-    "url": "/ectl/static/js/main.b76807b9.chunk.js"
+    "revision": "cbc35f1543f57ff1646e",
+    "url": "/ectl/static/js/main.dc161ada.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -124,8 +124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/6s.85b8e791.png"
   },
   {
-    "revision": "b84391c97e7357e26afbd177a9343ff7",
-    "url": "/ectl/static/media/Joint_Battle_Mystery_Investigation_Event_Banner_EN.b84391c9.jpg"
+    "revision": "b72cd0d9e15e98c899156906513d914e",
+    "url": "/ectl/static/media/Northern_Overture_Event_Banner_Rerun_EN.b72cd0d9.jpg"
   },
   {
     "revision": "aab7c7900cf241f4a80f3353691b899e",
