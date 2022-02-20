@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.bed29a2f.chunk.css",
-    "main.js": "/ectl/static/js/main.0d59e19f.chunk.js",
-    "main.js.map": "/ectl/static/js/main.0d59e19f.chunk.js.map",
+    "main.js": "/ectl/static/js/main.646c20f4.chunk.js",
+    "main.js.map": "/ectl/static/js/main.646c20f4.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.23267526.chunk.css": "/ectl/static/css/2.23267526.chunk.css",
-    "static/js/2.25444965.chunk.js": "/ectl/static/js/2.25444965.chunk.js",
-    "static/js/2.25444965.chunk.js.map": "/ectl/static/js/2.25444965.chunk.js.map",
+    "static/js/2.4d3ef5ea.chunk.js": "/ectl/static/js/2.4d3ef5ea.chunk.js",
+    "static/js/2.4d3ef5ea.chunk.js.map": "/ectl/static/js/2.4d3ef5ea.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.715b16e9cff0d6b8070d4a7065966132.js": "/ectl/precache-manifest.715b16e9cff0d6b8070d4a7065966132.js",
+    "precache-manifest.693d7838bb9dc77fe11dc31d2bea4466.js": "/ectl/precache-manifest.693d7838bb9dc77fe11dc31d2bea4466.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.23267526.chunk.css.map": "/ectl/static/css/2.23267526.chunk.css.map",
     "static/css/main.bed29a2f.chunk.css.map": "/ectl/static/css/main.bed29a2f.chunk.css.map",
-    "static/js/2.25444965.chunk.js.LICENSE.txt": "/ectl/static/js/2.25444965.chunk.js.LICENSE.txt",
+    "static/js/2.4d3ef5ea.chunk.js.LICENSE.txt": "/ectl/static/js/2.4d3ef5ea.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.82316982.png",
     "static/media/22banner.png": "/ectl/static/media/22banner.045e58cd.png",
     "static/media/22chibi.png": "/ectl/static/media/22chibi.3295b5c5.png",
@@ -1174,6 +1174,7 @@
     "static/media/ingrahamicon.png": "/ectl/static/media/ingrahamicon.e315e9e5.png",
     "static/media/ingrahamshipyardicon.png": "/ectl/static/media/ingrahamshipyardicon.2c7d4044.png",
     "static/media/intel_report__arctic_stronghold.png": "/ectl/static/media/intel_report__arctic_stronghold.af01fc72.png",
+    "static/media/intel_report__expedition_log.png": "/ectl/static/media/intel_report__expedition_log.3450b7f8.png",
     "static/media/intelligence_chip.png": "/ectl/static/media/intelligence_chip.1ef8022f.png",
     "static/media/intrepidbanner.png": "/ectl/static/media/intrepidbanner.e3314a83.png",
     "static/media/intrepidchibi.png": "/ectl/static/media/intrepidchibi.a5a39022.png",
@@ -2844,8 +2845,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.23267526.chunk.css",
-    "static/js/2.25444965.chunk.js",
+    "static/js/2.4d3ef5ea.chunk.js",
     "static/css/main.bed29a2f.chunk.css",
-    "static/js/main.0d59e19f.chunk.js"
+    "static/js/main.646c20f4.chunk.js"
   ]
 }
