@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.e7d2b9f8.chunk.css",
-    "main.js": "/ectl/static/js/main.440c40fa.chunk.js",
-    "main.js.map": "/ectl/static/js/main.440c40fa.chunk.js.map",
+    "main.js": "/ectl/static/js/main.76c01f69.chunk.js",
+    "main.js.map": "/ectl/static/js/main.76c01f69.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.23267526.chunk.css": "/ectl/static/css/2.23267526.chunk.css",
-    "static/js/2.1609eb84.chunk.js": "/ectl/static/js/2.1609eb84.chunk.js",
-    "static/js/2.1609eb84.chunk.js.map": "/ectl/static/js/2.1609eb84.chunk.js.map",
+    "static/js/2.fb39ff45.chunk.js": "/ectl/static/js/2.fb39ff45.chunk.js",
+    "static/js/2.fb39ff45.chunk.js.map": "/ectl/static/js/2.fb39ff45.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.225ab063a12d8a82c826287b80f33a23.js": "/ectl/precache-manifest.225ab063a12d8a82c826287b80f33a23.js",
+    "precache-manifest.dc926c3bf4959345de04c0de8184d54a.js": "/ectl/precache-manifest.dc926c3bf4959345de04c0de8184d54a.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.23267526.chunk.css.map": "/ectl/static/css/2.23267526.chunk.css.map",
     "static/css/main.e7d2b9f8.chunk.css.map": "/ectl/static/css/main.e7d2b9f8.chunk.css.map",
-    "static/js/2.1609eb84.chunk.js.LICENSE.txt": "/ectl/static/js/2.1609eb84.chunk.js.LICENSE.txt",
+    "static/js/2.fb39ff45.chunk.js.LICENSE.txt": "/ectl/static/js/2.fb39ff45.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.82316982.png",
     "static/media/22banner.png": "/ectl/static/media/22banner.045e58cd.png",
     "static/media/22chibi.png": "/ectl/static/media/22chibi.3295b5c5.png",
@@ -2649,6 +2649,7 @@
     "static/media/w14-gear-unicorn.jpg": "/ectl/static/media/w14-gear-unicorn.b36a78ca.jpg",
     "static/media/w14-sample-boss-2.jpg": "/ectl/static/media/w14-sample-boss-2.c0ec446f.jpg",
     "static/media/w14-sample-boss-3.jpg": "/ectl/static/media/w14-sample-boss-3.7e8daa7f.jpg",
+    "static/media/w14-sample-boss-4.jpg": "/ectl/static/media/w14-sample-boss-4.ba7932d8.jpg",
     "static/media/w14-sample-mob-1.jpg": "/ectl/static/media/w14-sample-mob-1.1b7a8370.jpg",
     "static/media/w14-sample-mob-2.jpg": "/ectl/static/media/w14-sample-mob-2.c9449128.jpg",
     "static/media/w14-sample-mob-3.jpg": "/ectl/static/media/w14-sample-mob-3.61de4fb2.jpg",
@@ -2863,8 +2864,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.23267526.chunk.css",
-    "static/js/2.1609eb84.chunk.js",
+    "static/js/2.fb39ff45.chunk.js",
     "static/css/main.e7d2b9f8.chunk.css",
-    "static/js/main.440c40fa.chunk.js"
+    "static/js/main.76c01f69.chunk.js"
   ]
 }
