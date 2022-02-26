@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.e7d2b9f8.chunk.css",
-    "main.js": "/ectl/static/js/main.82202e61.chunk.js",
-    "main.js.map": "/ectl/static/js/main.82202e61.chunk.js.map",
+    "main.js": "/ectl/static/js/main.41287653.chunk.js",
+    "main.js.map": "/ectl/static/js/main.41287653.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.23267526.chunk.css": "/ectl/static/css/2.23267526.chunk.css",
     "static/js/2.a3bcd234.chunk.js": "/ectl/static/js/2.a3bcd234.chunk.js",
     "static/js/2.a3bcd234.chunk.js.map": "/ectl/static/js/2.a3bcd234.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.f253dd541d8cc0aae2c49eb658858636.js": "/ectl/precache-manifest.f253dd541d8cc0aae2c49eb658858636.js",
+    "precache-manifest.f9fbf87934dc13ed7b7e1beff3ebe0aa.js": "/ectl/precache-manifest.f9fbf87934dc13ed7b7e1beff3ebe0aa.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.23267526.chunk.css.map": "/ectl/static/css/2.23267526.chunk.css.map",
     "static/css/main.e7d2b9f8.chunk.css.map": "/ectl/static/css/main.e7d2b9f8.chunk.css.map",
@@ -38,7 +38,7 @@
     "static/media/610mm_triple_torpedo_mount.png": "/ectl/static/media/610mm_triple_torpedo_mount.e2acf774.png",
     "static/media/610mm_twin_torpedo_mount.png": "/ectl/static/media/610mm_twin_torpedo_mount.9158ec9d.png",
     "static/media/6s.png": "/ectl/static/media/6s.85b8e791.png",
-    "static/media/Northern_Overture_Event_Banner_Rerun_EN.jpg": "/ectl/static/media/Northern_Overture_Event_Banner_Rerun_EN.b72cd0d9.jpg",
+    "static/media/Abyssal_Refrain_Event_Banner_EN.jpg": "/ectl/static/media/Abyssal_Refrain_Event_Banner_EN.bbf5f341.jpg",
     "static/media/abercrombiebanner.png": "/ectl/static/media/abercrombiebanner.aab7c790.png",
     "static/media/abercrombiechibi.png": "/ectl/static/media/abercrombiechibi.316146bc.png",
     "static/media/abercrombieicon.png": "/ectl/static/media/abercrombieicon.c0a30921.png",
@@ -2867,6 +2867,6 @@
     "static/css/2.23267526.chunk.css",
     "static/js/2.a3bcd234.chunk.js",
     "static/css/main.e7d2b9f8.chunk.css",
-    "static/js/main.82202e61.chunk.js"
+    "static/js/main.41287653.chunk.js"
   ]
 }

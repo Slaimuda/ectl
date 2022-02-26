@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f5ef229514cb937ba58b08915df7822f",
+    "revision": "883e061f08b8eb74f57e9e1778055fe7",
     "url": "/ectl/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/css/2.23267526.chunk.css"
   },
   {
-    "revision": "099be945439197041907",
+    "revision": "6392cf7d34a45cc969e3",
     "url": "/ectl/static/css/main.e7d2b9f8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/js/2.a3bcd234.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "099be945439197041907",
-    "url": "/ectl/static/js/main.82202e61.chunk.js"
+    "revision": "6392cf7d34a45cc969e3",
+    "url": "/ectl/static/js/main.41287653.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -124,8 +124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/media/6s.85b8e791.png"
   },
   {
-    "revision": "b72cd0d9e15e98c899156906513d914e",
-    "url": "/ectl/static/media/Northern_Overture_Event_Banner_Rerun_EN.b72cd0d9.jpg"
+    "revision": "bbf5f3415f307c5e2a4b80d404ff0160",
+    "url": "/ectl/static/media/Abyssal_Refrain_Event_Banner_EN.bbf5f341.jpg"
   },
   {
     "revision": "aab7c7900cf241f4a80f3353691b899e",
