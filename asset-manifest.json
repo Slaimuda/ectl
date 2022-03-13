@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.e7d2b9f8.chunk.css",
-    "main.js": "/ectl/static/js/main.810f9070.chunk.js",
-    "main.js.map": "/ectl/static/js/main.810f9070.chunk.js.map",
+    "main.js": "/ectl/static/js/main.da405054.chunk.js",
+    "main.js.map": "/ectl/static/js/main.da405054.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.23267526.chunk.css": "/ectl/static/css/2.23267526.chunk.css",
-    "static/js/2.a9e7bf8e.chunk.js": "/ectl/static/js/2.a9e7bf8e.chunk.js",
-    "static/js/2.a9e7bf8e.chunk.js.map": "/ectl/static/js/2.a9e7bf8e.chunk.js.map",
+    "static/js/2.bbc0c0f6.chunk.js": "/ectl/static/js/2.bbc0c0f6.chunk.js",
+    "static/js/2.bbc0c0f6.chunk.js.map": "/ectl/static/js/2.bbc0c0f6.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.1ccadea88971e6e8a260e12787cc1646.js": "/ectl/precache-manifest.1ccadea88971e6e8a260e12787cc1646.js",
+    "precache-manifest.d4fc16944b3fc54512a6c5d4df375580.js": "/ectl/precache-manifest.d4fc16944b3fc54512a6c5d4df375580.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.23267526.chunk.css.map": "/ectl/static/css/2.23267526.chunk.css.map",
     "static/css/main.e7d2b9f8.chunk.css.map": "/ectl/static/css/main.e7d2b9f8.chunk.css.map",
-    "static/js/2.a9e7bf8e.chunk.js.LICENSE.txt": "/ectl/static/js/2.a9e7bf8e.chunk.js.LICENSE.txt",
+    "static/js/2.bbc0c0f6.chunk.js.LICENSE.txt": "/ectl/static/js/2.bbc0c0f6.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.82316982.png",
     "static/media/22banner.png": "/ectl/static/media/22banner.045e58cd.png",
     "static/media/22chibi.png": "/ectl/static/media/22chibi.3295b5c5.png",
@@ -38,7 +38,7 @@
     "static/media/610mm_triple_torpedo_mount.png": "/ectl/static/media/610mm_triple_torpedo_mount.e2acf774.png",
     "static/media/610mm_twin_torpedo_mount.png": "/ectl/static/media/610mm_twin_torpedo_mount.9158ec9d.png",
     "static/media/6s.png": "/ectl/static/media/6s.85b8e791.png",
-    "static/media/Abyssal_Refrain_Event_Banner_EN.jpg": "/ectl/static/media/Abyssal_Refrain_Event_Banner_EN.bbf5f341.jpg",
+    "static/media/FNA7x3BXwAQoKie.png": "/ectl/static/media/FNA7x3BXwAQoKie.99bb33a5.png",
     "static/media/abercrombiebanner.png": "/ectl/static/media/abercrombiebanner.aab7c790.png",
     "static/media/abercrombiechibi.png": "/ectl/static/media/abercrombiechibi.316146bc.png",
     "static/media/abercrombieicon.png": "/ectl/static/media/abercrombieicon.c0a30921.png",
@@ -2124,6 +2124,10 @@
     "static/media/saratogakaiicon.png": "/ectl/static/media/saratogakaiicon.59814582.png",
     "static/media/saratogakaishipyardicon.png": "/ectl/static/media/saratogakaishipyardicon.bd73d1be.png",
     "static/media/saratogashipyardicon.png": "/ectl/static/media/saratogashipyardicon.3521c815.png",
+    "static/media/scharnhorst metabanner.png": "/ectl/static/media/scharnhorst metabanner.4180629c.png",
+    "static/media/scharnhorst metachibi.png": "/ectl/static/media/scharnhorst metachibi.d0b9ac20.png",
+    "static/media/scharnhorst metaicon.png": "/ectl/static/media/scharnhorst metaicon.33ab4597.png",
+    "static/media/scharnhorst metashipyardicon.png": "/ectl/static/media/scharnhorst metashipyardicon.a5a7ca3c.png",
     "static/media/scharnhorstbanner.png": "/ectl/static/media/scharnhorstbanner.925bd3af.png",
     "static/media/scharnhorstchibi.png": "/ectl/static/media/scharnhorstchibi.b37bba09.png",
     "static/media/scharnhorsticon.png": "/ectl/static/media/scharnhorsticon.c80f899a.png",
@@ -2886,8 +2890,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.23267526.chunk.css",
-    "static/js/2.a9e7bf8e.chunk.js",
+    "static/js/2.bbc0c0f6.chunk.js",
     "static/css/main.e7d2b9f8.chunk.css",
-    "static/js/main.810f9070.chunk.js"
+    "static/js/main.da405054.chunk.js"
   ]
 }
