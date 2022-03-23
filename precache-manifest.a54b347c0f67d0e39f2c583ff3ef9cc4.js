@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "484873e112a3b3c2241e41894626bdb1",
+    "revision": "c7540f68bb3013b2d094a8b9cd4f86f3",
     "url": "/ectl/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/css/2.23267526.chunk.css"
   },
   {
-    "revision": "4f572691d248c5708460",
+    "revision": "af51d1b326c8fe1afa36",
     "url": "/ectl/static/css/main.e7d2b9f8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ectl/static/js/2.3abb468c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4f572691d248c5708460",
-    "url": "/ectl/static/js/main.9aabe0c9.chunk.js"
+    "revision": "af51d1b326c8fe1afa36",
+    "url": "/ectl/static/js/main.a02f87d2.chunk.js"
   },
   {
     "revision": "3d0e9b8ba1ba5eb3cef1",
@@ -122,10 +122,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "85b8e7911fec20ddc4178423f3840979",
     "url": "/ectl/static/media/6s.85b8e791.png"
-  },
-  {
-    "revision": "99bb33a54bc0de9389bec43bda441594",
-    "url": "/ectl/static/media/FNA7x3BXwAQoKie.99bb33a5.png"
   },
   {
     "revision": "aab7c7900cf241f4a80f3353691b899e",
@@ -10558,6 +10554,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ed4d89734a73a2d49c73300eb74fba03",
     "url": "/ectl/static/media/vincenzo giobertishipyardicon.ed4d8973.png"
+  },
+  {
+    "revision": "7f51471ff0f91ed554d5f64d3be0c494",
+    "url": "/ectl/static/media/virtual-tower.7f51471f.jpg"
   },
   {
     "revision": "3fc173fce6484fa317eb6e4b78b16ee0",
