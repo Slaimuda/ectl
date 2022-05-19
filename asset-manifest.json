@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.e7d2b9f8.chunk.css",
-    "main.js": "/ectl/static/js/main.eb18f8da.chunk.js",
-    "main.js.map": "/ectl/static/js/main.eb18f8da.chunk.js.map",
+    "main.js": "/ectl/static/js/main.9dcecb37.chunk.js",
+    "main.js.map": "/ectl/static/js/main.9dcecb37.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.23267526.chunk.css": "/ectl/static/css/2.23267526.chunk.css",
     "static/js/2.bedd5bbf.chunk.js": "/ectl/static/js/2.bedd5bbf.chunk.js",
     "static/js/2.bedd5bbf.chunk.js.map": "/ectl/static/js/2.bedd5bbf.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.c57ea2d7a657a7adb167529946c26c13.js": "/ectl/precache-manifest.c57ea2d7a657a7adb167529946c26c13.js",
+    "precache-manifest.d1f2649e51e9ddce6c172101af0970e9.js": "/ectl/precache-manifest.d1f2649e51e9ddce6c172101af0970e9.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.23267526.chunk.css.map": "/ectl/static/css/2.23267526.chunk.css.map",
     "static/css/main.e7d2b9f8.chunk.css.map": "/ectl/static/css/main.e7d2b9f8.chunk.css.map",
@@ -426,6 +426,7 @@
     "static/media/californiachibi.png": "/ectl/static/media/californiachibi.a9ad50a9.png",
     "static/media/californiaicon.png": "/ectl/static/media/californiaicon.124c712f.png",
     "static/media/californiashipyardicon.png": "/ectl/static/media/californiashipyardicon.4c8a6f6b.png",
+    "static/media/call-to-arms-royal-navy.png": "/ectl/static/media/call-to-arms-royal-navy.5deb153c.png",
     "static/media/carabinierebanner.png": "/ectl/static/media/carabinierebanner.67a85357.png",
     "static/media/carabinierechibi.png": "/ectl/static/media/carabinierechibi.39c2be56.png",
     "static/media/carabiniereicon.png": "/ectl/static/media/carabiniereicon.65589d00.png",
@@ -2092,7 +2093,6 @@
     "static/media/rodneychibi.png": "/ectl/static/media/rodneychibi.b0232c52.png",
     "static/media/rodneyicon.png": "/ectl/static/media/rodneyicon.4a10d072.png",
     "static/media/rodneyshipyardicon.png": "/ectl/static/media/rodneyshipyardicon.a8d64d04.png",
-    "static/media/rondo-at-rainbows-end.jpg": "/ectl/static/media/rondo-at-rainbows-end.d2e765a9.jpg",
     "static/media/roon µbanner.png": "/ectl/static/media/roon µbanner.109fbc92.png",
     "static/media/roon µchibi.png": "/ectl/static/media/roon µchibi.8665b55a.png",
     "static/media/roon µicon.png": "/ectl/static/media/roon µicon.54ece136.png",
@@ -2938,6 +2938,6 @@
     "static/css/2.23267526.chunk.css",
     "static/js/2.bedd5bbf.chunk.js",
     "static/css/main.e7d2b9f8.chunk.css",
-    "static/js/main.eb18f8da.chunk.js"
+    "static/js/main.9dcecb37.chunk.js"
   ]
 }
