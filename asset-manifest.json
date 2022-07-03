@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.83292273.chunk.css",
-    "main.js": "/ectl/static/js/main.6259be02.chunk.js",
-    "main.js.map": "/ectl/static/js/main.6259be02.chunk.js.map",
+    "main.js": "/ectl/static/js/main.615c1f62.chunk.js",
+    "main.js.map": "/ectl/static/js/main.615c1f62.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.1c6c8e19.chunk.css": "/ectl/static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.08205265.chunk.js": "/ectl/static/js/2.08205265.chunk.js",
-    "static/js/2.08205265.chunk.js.map": "/ectl/static/js/2.08205265.chunk.js.map",
+    "static/js/2.9ded30a9.chunk.js": "/ectl/static/js/2.9ded30a9.chunk.js",
+    "static/js/2.9ded30a9.chunk.js.map": "/ectl/static/js/2.9ded30a9.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.50552d9afce80444bb9edb9e5cb437c2.js": "/ectl/precache-manifest.50552d9afce80444bb9edb9e5cb437c2.js",
+    "precache-manifest.3421aec784c81bb324aa5504fa1b4659.js": "/ectl/precache-manifest.3421aec784c81bb324aa5504fa1b4659.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.1c6c8e19.chunk.css.map": "/ectl/static/css/2.1c6c8e19.chunk.css.map",
     "static/css/main.83292273.chunk.css.map": "/ectl/static/css/main.83292273.chunk.css.map",
-    "static/js/2.08205265.chunk.js.LICENSE.txt": "/ectl/static/js/2.08205265.chunk.js.LICENSE.txt",
+    "static/js/2.9ded30a9.chunk.js.LICENSE.txt": "/ectl/static/js/2.9ded30a9.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.f525f4d1.png",
     "static/media/22banner.png": "/ectl/static/media/22banner.484ca7a8.png",
     "static/media/22chibi.png": "/ectl/static/media/22chibi.e627ff8a.png",
@@ -175,6 +175,7 @@
     "static/media/anchorageicon.png": "/ectl/static/media/anchorageicon.517a1453.png",
     "static/media/anchorageshipyardicon.png": "/ectl/static/media/anchorageshipyardicon.96fcc9a0.png",
     "static/media/angel-of-the-iris.png": "/ectl/static/media/angel-of-the-iris.6b71fdaf.png",
+    "static/media/angels_feather.png": "/ectl/static/media/angels_feather.f0876fb9.png",
     "static/media/ankimo.png": "/ectl/static/media/ankimo.0e84376c.png",
     "static/media/anniversary kizuna aibanner.png": "/ectl/static/media/anniversary kizuna aibanner.f379918f.png",
     "static/media/anniversary kizuna aichibi.png": "/ectl/static/media/anniversary kizuna aichibi.413c1e3b.png",
@@ -2950,8 +2951,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.08205265.chunk.js",
+    "static/js/2.9ded30a9.chunk.js",
     "static/css/main.83292273.chunk.css",
-    "static/js/main.6259be02.chunk.js"
+    "static/js/main.615c1f62.chunk.js"
   ]
 }
