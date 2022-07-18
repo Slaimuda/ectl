@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.83292273.chunk.css",
-    "main.js": "/ectl/static/js/main.3c592f93.chunk.js",
-    "main.js.map": "/ectl/static/js/main.3c592f93.chunk.js.map",
+    "main.js": "/ectl/static/js/main.7e7c0b9d.chunk.js",
+    "main.js.map": "/ectl/static/js/main.7e7c0b9d.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.1c6c8e19.chunk.css": "/ectl/static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.606e82fd.chunk.js": "/ectl/static/js/2.606e82fd.chunk.js",
-    "static/js/2.606e82fd.chunk.js.map": "/ectl/static/js/2.606e82fd.chunk.js.map",
+    "static/js/2.0839a909.chunk.js": "/ectl/static/js/2.0839a909.chunk.js",
+    "static/js/2.0839a909.chunk.js.map": "/ectl/static/js/2.0839a909.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.b17680a87a91b3f96c4357802f43f196.js": "/ectl/precache-manifest.b17680a87a91b3f96c4357802f43f196.js",
+    "precache-manifest.d5c395202ace7b89c2ac1c9743854192.js": "/ectl/precache-manifest.d5c395202ace7b89c2ac1c9743854192.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.1c6c8e19.chunk.css.map": "/ectl/static/css/2.1c6c8e19.chunk.css.map",
     "static/css/main.83292273.chunk.css.map": "/ectl/static/css/main.83292273.chunk.css.map",
-    "static/js/2.606e82fd.chunk.js.LICENSE.txt": "/ectl/static/js/2.606e82fd.chunk.js.LICENSE.txt",
+    "static/js/2.0839a909.chunk.js.LICENSE.txt": "/ectl/static/js/2.0839a909.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.f525f4d1.png",
     "static/media/22banner.png": "/ectl/static/media/22banner.484ca7a8.png",
     "static/media/22chibi.png": "/ectl/static/media/22chibi.e627ff8a.png",
@@ -2046,6 +2046,8 @@
     "static/media/prototype bulin mkiiicon.png": "/ectl/static/media/prototype bulin mkiiicon.8bbca587.png",
     "static/media/prototype bulin mkiishipyardicon.png": "/ectl/static/media/prototype bulin mkiishipyardicon.ef296aff.png",
     "static/media/prototype_quadruple_30mm_aa_gun_mount.png": "/ectl/static/media/prototype_quadruple_30mm_aa_gun_mount.2ccef43c.png",
+    "static/media/prototype_su2.png": "/ectl/static/media/prototype_su2.0a32afc8.png",
+    "static/media/prototype_vit2_vk107.png": "/ectl/static/media/prototype_vit2_vk107.1ef1761d.png",
     "static/media/punctual_glory.png": "/ectl/static/media/punctual_glory.bc47504d.png",
     "static/media/purple heartbanner.png": "/ectl/static/media/purple heartbanner.94488b54.png",
     "static/media/purple heartchibi.png": "/ectl/static/media/purple heartchibi.97b5c074.png",
@@ -2974,8 +2976,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.606e82fd.chunk.js",
+    "static/js/2.0839a909.chunk.js",
     "static/css/main.83292273.chunk.css",
-    "static/js/main.3c592f93.chunk.js"
+    "static/js/main.7e7c0b9d.chunk.js"
   ]
 }
