@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.83292273.chunk.css",
-    "main.js": "/ectl/static/js/main.81a22a98.chunk.js",
-    "main.js.map": "/ectl/static/js/main.81a22a98.chunk.js.map",
+    "main.js": "/ectl/static/js/main.0a9e8b83.chunk.js",
+    "main.js.map": "/ectl/static/js/main.0a9e8b83.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.1c6c8e19.chunk.css": "/ectl/static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.0839a909.chunk.js": "/ectl/static/js/2.0839a909.chunk.js",
-    "static/js/2.0839a909.chunk.js.map": "/ectl/static/js/2.0839a909.chunk.js.map",
+    "static/js/2.098cbfc4.chunk.js": "/ectl/static/js/2.098cbfc4.chunk.js",
+    "static/js/2.098cbfc4.chunk.js.map": "/ectl/static/js/2.098cbfc4.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.2636da35b6b4d080db695d6d2e44acfa.js": "/ectl/precache-manifest.2636da35b6b4d080db695d6d2e44acfa.js",
+    "precache-manifest.bef6c214f12997eef4f77a43d21aa5e3.js": "/ectl/precache-manifest.bef6c214f12997eef4f77a43d21aa5e3.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.1c6c8e19.chunk.css.map": "/ectl/static/css/2.1c6c8e19.chunk.css.map",
     "static/css/main.83292273.chunk.css.map": "/ectl/static/css/main.83292273.chunk.css.map",
-    "static/js/2.0839a909.chunk.js.LICENSE.txt": "/ectl/static/js/2.0839a909.chunk.js.LICENSE.txt",
+    "static/js/2.098cbfc4.chunk.js.LICENSE.txt": "/ectl/static/js/2.098cbfc4.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.f525f4d1.png",
     "static/media/22banner.png": "/ectl/static/media/22banner.484ca7a8.png",
     "static/media/22chibi.png": "/ectl/static/media/22chibi.e627ff8a.png",
@@ -612,6 +612,7 @@
     "static/media/daceicon.png": "/ectl/static/media/daceicon.2f22c4f9.png",
     "static/media/daceshipyardicon.png": "/ectl/static/media/daceshipyardicon.4732df85.png",
     "static/media/damaged_speech_manuscript.png": "/ectl/static/media/damaged_speech_manuscript.a98a48fd.png",
+    "static/media/ddg.png": "/ectl/static/media/ddg.eae6d32f.png",
     "static/media/denverbanner.png": "/ectl/static/media/denverbanner.499fccc5.png",
     "static/media/denverchibi.png": "/ectl/static/media/denverchibi.2fb4b5fe.png",
     "static/media/denvericon.png": "/ectl/static/media/denvericon.171da1b7.png",
@@ -2976,8 +2977,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.0839a909.chunk.js",
+    "static/js/2.098cbfc4.chunk.js",
     "static/css/main.83292273.chunk.css",
-    "static/js/main.81a22a98.chunk.js"
+    "static/js/main.0a9e8b83.chunk.js"
   ]
 }
