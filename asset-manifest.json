@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.83292273.chunk.css",
-    "main.js": "/ectl/static/js/main.dcc3e90d.chunk.js",
-    "main.js.map": "/ectl/static/js/main.dcc3e90d.chunk.js.map",
+    "main.js": "/ectl/static/js/main.589beb4c.chunk.js",
+    "main.js.map": "/ectl/static/js/main.589beb4c.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.1c6c8e19.chunk.css": "/ectl/static/css/2.1c6c8e19.chunk.css",
     "static/js/2.15786d58.chunk.js": "/ectl/static/js/2.15786d58.chunk.js",
     "static/js/2.15786d58.chunk.js.map": "/ectl/static/js/2.15786d58.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.b2e0120635dbf9095377d06804d6cfb6.js": "/ectl/precache-manifest.b2e0120635dbf9095377d06804d6cfb6.js",
+    "precache-manifest.b3c6b1b39b3450e50395bd39f0e358ad.js": "/ectl/precache-manifest.b3c6b1b39b3450e50395bd39f0e358ad.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.1c6c8e19.chunk.css.map": "/ectl/static/css/2.1c6c8e19.chunk.css.map",
     "static/css/main.83292273.chunk.css.map": "/ectl/static/css/main.83292273.chunk.css.map",
@@ -189,6 +189,7 @@
     "static/media/aquilachibi.png": "/ectl/static/media/aquilachibi.22e4ae68.png",
     "static/media/aquilaicon.png": "/ectl/static/media/aquilaicon.ecd177f1.png",
     "static/media/aquilashipyardicon.png": "/ectl/static/media/aquilashipyardicon.f38f82b8.png",
+    "static/media/aquilifers-ballad.png": "/ectl/static/media/aquilifers-ballad.b2b21a80.png",
     "static/media/arado_ar_197.png": "/ectl/static/media/arado_ar_197.54a64ddb.png",
     "static/media/arashiobanner.png": "/ectl/static/media/arashiobanner.5b50e33d.png",
     "static/media/arashiochibi.png": "/ectl/static/media/arashiochibi.54b165a9.png",
@@ -658,7 +659,6 @@
     "static/media/drakechibi.png": "/ectl/static/media/drakechibi.aea998b9.png",
     "static/media/drakeicon.png": "/ectl/static/media/drakeicon.bc1ad6fc.png",
     "static/media/drakeshipyardicon.png": "/ectl/static/media/drakeshipyardicon.80efe972.png",
-    "static/media/dreamwakers-butterfly-rerun.png": "/ectl/static/media/dreamwakers-butterfly-rerun.9f8701f2.png",
     "static/media/drop_tank.png": "/ectl/static/media/drop_tank.536369ab.png",
     "static/media/dual_swords.png": "/ectl/static/media/dual_swords.ea970c1e.png",
     "static/media/duca degli abruzzibanner.png": "/ectl/static/media/duca degli abruzzibanner.a40137ba.png",
@@ -2987,6 +2987,6 @@
     "static/css/2.1c6c8e19.chunk.css",
     "static/js/2.15786d58.chunk.js",
     "static/css/main.83292273.chunk.css",
-    "static/js/main.dcc3e90d.chunk.js"
+    "static/js/main.589beb4c.chunk.js"
   ]
 }
