@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.83292273.chunk.css",
-    "main.js": "/ectl/static/js/main.e5639312.chunk.js",
-    "main.js.map": "/ectl/static/js/main.e5639312.chunk.js.map",
+    "main.js": "/ectl/static/js/main.4232f849.chunk.js",
+    "main.js.map": "/ectl/static/js/main.4232f849.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.1c6c8e19.chunk.css": "/ectl/static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.ebafe58a.chunk.js": "/ectl/static/js/2.ebafe58a.chunk.js",
-    "static/js/2.ebafe58a.chunk.js.map": "/ectl/static/js/2.ebafe58a.chunk.js.map",
+    "static/js/2.f861249e.chunk.js": "/ectl/static/js/2.f861249e.chunk.js",
+    "static/js/2.f861249e.chunk.js.map": "/ectl/static/js/2.f861249e.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.ab96f29c4653f2aebae2537f66884c3b.js": "/ectl/precache-manifest.ab96f29c4653f2aebae2537f66884c3b.js",
+    "precache-manifest.d6afd7b9f13f573e0fff20e1901319b9.js": "/ectl/precache-manifest.d6afd7b9f13f573e0fff20e1901319b9.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.1c6c8e19.chunk.css.map": "/ectl/static/css/2.1c6c8e19.chunk.css.map",
     "static/css/main.83292273.chunk.css.map": "/ectl/static/css/main.83292273.chunk.css.map",
-    "static/js/2.ebafe58a.chunk.js.LICENSE.txt": "/ectl/static/js/2.ebafe58a.chunk.js.LICENSE.txt",
+    "static/js/2.f861249e.chunk.js.LICENSE.txt": "/ectl/static/js/2.f861249e.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.f525f4d1.png",
     "static/media/22banner.png": "/ectl/static/media/22banner.484ca7a8.png",
     "static/media/22chibi.png": "/ectl/static/media/22chibi.e627ff8a.png",
@@ -452,6 +452,7 @@
     "static/media/carabinierechibi.png": "/ectl/static/media/carabinierechibi.9b28c300.png",
     "static/media/carabiniereicon.png": "/ectl/static/media/carabiniereicon.2addedb0.png",
     "static/media/carabiniereshipyardicon.png": "/ectl/static/media/carabiniereshipyardicon.aba18017.png",
+    "static/media/carabiniers_honored_hallmark.png": "/ectl/static/media/carabiniers_honored_hallmark.0152b875.png",
     "static/media/casablancabanner.png": "/ectl/static/media/casablancabanner.9e60d1c4.png",
     "static/media/casablancachibi.png": "/ectl/static/media/casablancachibi.61c21867.png",
     "static/media/casablancaicon.png": "/ectl/static/media/casablancaicon.5a176d4e.png",
@@ -578,6 +579,7 @@
     "static/media/cometkaiicon.png": "/ectl/static/media/cometkaiicon.5e2417ad.png",
     "static/media/cometkaishipyardicon.png": "/ectl/static/media/cometkaishipyardicon.e2e38ce6.png",
     "static/media/cometshipyardicon.png": "/ectl/static/media/cometshipyardicon.e981f477.png",
+    "static/media/concentrated_beamtype_assault_rigging_nt.png": "/ectl/static/media/concentrated_beamtype_assault_rigging_nt.7ec3185c.png",
     "static/media/concordbanner.png": "/ectl/static/media/concordbanner.dc34bcbc.png",
     "static/media/concordchibi.png": "/ectl/static/media/concordchibi.c67028bd.png",
     "static/media/concordicon.png": "/ectl/static/media/concordicon.8441bc48.png",
@@ -3030,8 +3032,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.ebafe58a.chunk.js",
+    "static/js/2.f861249e.chunk.js",
     "static/css/main.83292273.chunk.css",
-    "static/js/main.e5639312.chunk.js"
+    "static/js/main.4232f849.chunk.js"
   ]
 }
