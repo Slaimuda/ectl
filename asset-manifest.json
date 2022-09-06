@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.83292273.chunk.css",
-    "main.js": "/ectl/static/js/main.6dbee5de.chunk.js",
-    "main.js.map": "/ectl/static/js/main.6dbee5de.chunk.js.map",
+    "main.js": "/ectl/static/js/main.a108d9a7.chunk.js",
+    "main.js.map": "/ectl/static/js/main.a108d9a7.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.1c6c8e19.chunk.css": "/ectl/static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.f861249e.chunk.js": "/ectl/static/js/2.f861249e.chunk.js",
-    "static/js/2.f861249e.chunk.js.map": "/ectl/static/js/2.f861249e.chunk.js.map",
+    "static/js/2.8e7ca5ba.chunk.js": "/ectl/static/js/2.8e7ca5ba.chunk.js",
+    "static/js/2.8e7ca5ba.chunk.js.map": "/ectl/static/js/2.8e7ca5ba.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.be451eec52262164428de725589e851f.js": "/ectl/precache-manifest.be451eec52262164428de725589e851f.js",
+    "precache-manifest.47c0a1b5a0c3cae0fc40a5f6937db2b4.js": "/ectl/precache-manifest.47c0a1b5a0c3cae0fc40a5f6937db2b4.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.1c6c8e19.chunk.css.map": "/ectl/static/css/2.1c6c8e19.chunk.css.map",
     "static/css/main.83292273.chunk.css.map": "/ectl/static/css/main.83292273.chunk.css.map",
-    "static/js/2.f861249e.chunk.js.LICENSE.txt": "/ectl/static/js/2.f861249e.chunk.js.LICENSE.txt",
+    "static/js/2.8e7ca5ba.chunk.js.LICENSE.txt": "/ectl/static/js/2.8e7ca5ba.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.f525f4d1.png",
     "static/media/22banner.png": "/ectl/static/media/22banner.484ca7a8.png",
     "static/media/22chibi.png": "/ectl/static/media/22chibi.e627ff8a.png",
@@ -2140,6 +2140,10 @@
     "static/media/renochibi.png": "/ectl/static/media/renochibi.63b7e13c.png",
     "static/media/renoicon.png": "/ectl/static/media/renoicon.c04407c6.png",
     "static/media/renoshipyardicon.png": "/ectl/static/media/renoshipyardicon.c5d0731c.png",
+    "static/media/renown metabanner.png": "/ectl/static/media/renown metabanner.15db0aef.png",
+    "static/media/renown metachibi.png": "/ectl/static/media/renown metachibi.e1eea279.png",
+    "static/media/renown metaicon.png": "/ectl/static/media/renown metaicon.ce5b72b1.png",
+    "static/media/renown metashipyardicon.png": "/ectl/static/media/renown metashipyardicon.3f758be0.png",
     "static/media/renownbanner.png": "/ectl/static/media/renownbanner.1e0e6173.png",
     "static/media/renownchibi.png": "/ectl/static/media/renownchibi.fc9529b2.png",
     "static/media/renownicon.png": "/ectl/static/media/renownicon.b02fa03e.png",
@@ -3032,8 +3036,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.f861249e.chunk.js",
+    "static/js/2.8e7ca5ba.chunk.js",
     "static/css/main.83292273.chunk.css",
-    "static/js/main.6dbee5de.chunk.js"
+    "static/js/main.a108d9a7.chunk.js"
   ]
 }
