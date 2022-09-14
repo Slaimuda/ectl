@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.83292273.chunk.css",
-    "main.js": "/ectl/static/js/main.5c29a80b.chunk.js",
-    "main.js.map": "/ectl/static/js/main.5c29a80b.chunk.js.map",
+    "main.js": "/ectl/static/js/main.74ad5d11.chunk.js",
+    "main.js.map": "/ectl/static/js/main.74ad5d11.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.1c6c8e19.chunk.css": "/ectl/static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.8e7ca5ba.chunk.js": "/ectl/static/js/2.8e7ca5ba.chunk.js",
-    "static/js/2.8e7ca5ba.chunk.js.map": "/ectl/static/js/2.8e7ca5ba.chunk.js.map",
+    "static/js/2.0873c02e.chunk.js": "/ectl/static/js/2.0873c02e.chunk.js",
+    "static/js/2.0873c02e.chunk.js.map": "/ectl/static/js/2.0873c02e.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.a6a6c0fe81f0e0344e34d6cdf715acbc.js": "/ectl/precache-manifest.a6a6c0fe81f0e0344e34d6cdf715acbc.js",
+    "precache-manifest.6c540d3492dd170207a7142dc70f67bb.js": "/ectl/precache-manifest.6c540d3492dd170207a7142dc70f67bb.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.1c6c8e19.chunk.css.map": "/ectl/static/css/2.1c6c8e19.chunk.css.map",
     "static/css/main.83292273.chunk.css.map": "/ectl/static/css/main.83292273.chunk.css.map",
-    "static/js/2.8e7ca5ba.chunk.js.LICENSE.txt": "/ectl/static/js/2.8e7ca5ba.chunk.js.LICENSE.txt",
+    "static/js/2.0873c02e.chunk.js.LICENSE.txt": "/ectl/static/js/2.0873c02e.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.f525f4d1.png",
     "static/media/22banner.png": "/ectl/static/media/22banner.484ca7a8.png",
     "static/media/22chibi.png": "/ectl/static/media/22chibi.e627ff8a.png",
@@ -402,6 +402,7 @@
     "static/media/bolzanochibi.png": "/ectl/static/media/bolzanochibi.dcfa7b09.png",
     "static/media/bolzanoicon.png": "/ectl/static/media/bolzanoicon.0dac9747.png",
     "static/media/bolzanoshipyardicon.png": "/ectl/static/media/bolzanoshipyardicon.bd3031c3.png",
+    "static/media/boundarycrossing_permit.png": "/ectl/static/media/boundarycrossing_permit.d1906cc2.png",
     "static/media/bowgun.png": "/ectl/static/media/bowgun.aaf7bd56.png",
     "static/media/bremertonbanner.png": "/ectl/static/media/bremertonbanner.4b11e023.png",
     "static/media/bremertonchibi.png": "/ectl/static/media/bremertonchibi.a091b581.png",
@@ -3036,8 +3037,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.8e7ca5ba.chunk.js",
+    "static/js/2.0873c02e.chunk.js",
     "static/css/main.83292273.chunk.css",
-    "static/js/main.5c29a80b.chunk.js"
+    "static/js/main.74ad5d11.chunk.js"
   ]
 }
