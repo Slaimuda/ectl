@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.83292273.chunk.css",
-    "main.js": "/ectl/static/js/main.74ad5d11.chunk.js",
-    "main.js.map": "/ectl/static/js/main.74ad5d11.chunk.js.map",
+    "main.js": "/ectl/static/js/main.a923235f.chunk.js",
+    "main.js.map": "/ectl/static/js/main.a923235f.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.1c6c8e19.chunk.css": "/ectl/static/css/2.1c6c8e19.chunk.css",
     "static/js/2.0873c02e.chunk.js": "/ectl/static/js/2.0873c02e.chunk.js",
     "static/js/2.0873c02e.chunk.js.map": "/ectl/static/js/2.0873c02e.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.6c540d3492dd170207a7142dc70f67bb.js": "/ectl/precache-manifest.6c540d3492dd170207a7142dc70f67bb.js",
+    "precache-manifest.c0f96a5f28cd77fc8706d6490ab9c0db.js": "/ectl/precache-manifest.c0f96a5f28cd77fc8706d6490ab9c0db.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.1c6c8e19.chunk.css.map": "/ectl/static/css/2.1c6c8e19.chunk.css.map",
     "static/css/main.83292273.chunk.css.map": "/ectl/static/css/main.83292273.chunk.css.map",
@@ -38,6 +38,7 @@
     "static/media/610mm_twin_torpedo_mount.png": "/ectl/static/media/610mm_twin_torpedo_mount.7901c079.png",
     "static/media/6crh_armor_piercing_shell.png": "/ectl/static/media/6crh_armor_piercing_shell.8a463523.png",
     "static/media/6s.png": "/ectl/static/media/6s.2ec4b9d7.png",
+    "static/media/Violet_Tempest_Blooming_Lycoris_Event_Banner_EN.jpg": "/ectl/static/media/Violet_Tempest_Blooming_Lycoris_Event_Banner_EN.ab17e3fb.jpg",
     "static/media/abercrombiebanner.png": "/ectl/static/media/abercrombiebanner.d8dbe1c3.png",
     "static/media/abercrombiechibi.png": "/ectl/static/media/abercrombiechibi.a0566cd1.png",
     "static/media/abercrombieicon.png": "/ectl/static/media/abercrombieicon.34d87009.png",
@@ -1995,7 +1996,6 @@
     "static/media/ooshiochibi.png": "/ectl/static/media/ooshiochibi.d6390ac6.png",
     "static/media/ooshioicon.png": "/ectl/static/media/ooshioicon.460698f4.png",
     "static/media/ooshioshipyardicon.png": "/ectl/static/media/ooshioshipyardicon.096ac688.png",
-    "static/media/operation-convergence.png": "/ectl/static/media/operation-convergence.28ed41b9.png",
     "static/media/oyashiobanner.png": "/ectl/static/media/oyashiobanner.0908f64a.png",
     "static/media/oyashiochibi.png": "/ectl/static/media/oyashiochibi.36856f87.png",
     "static/media/oyashioicon.png": "/ectl/static/media/oyashioicon.72be7543.png",
@@ -3039,6 +3039,6 @@
     "static/css/2.1c6c8e19.chunk.css",
     "static/js/2.0873c02e.chunk.js",
     "static/css/main.83292273.chunk.css",
-    "static/js/main.74ad5d11.chunk.js"
+    "static/js/main.a923235f.chunk.js"
   ]
 }
