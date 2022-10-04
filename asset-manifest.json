@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.83292273.chunk.css",
-    "main.js": "/ectl/static/js/main.ff9a412e.chunk.js",
-    "main.js.map": "/ectl/static/js/main.ff9a412e.chunk.js.map",
+    "main.js": "/ectl/static/js/main.dfdf987a.chunk.js",
+    "main.js.map": "/ectl/static/js/main.dfdf987a.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.1c6c8e19.chunk.css": "/ectl/static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.7d47c8a0.chunk.js": "/ectl/static/js/2.7d47c8a0.chunk.js",
-    "static/js/2.7d47c8a0.chunk.js.map": "/ectl/static/js/2.7d47c8a0.chunk.js.map",
+    "static/js/2.ec8f3a22.chunk.js": "/ectl/static/js/2.ec8f3a22.chunk.js",
+    "static/js/2.ec8f3a22.chunk.js.map": "/ectl/static/js/2.ec8f3a22.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.411b9cee7602d7c7d0d98cb80ce97b6f.js": "/ectl/precache-manifest.411b9cee7602d7c7d0d98cb80ce97b6f.js",
+    "precache-manifest.21c4fb211febb6130db136cbe577395b.js": "/ectl/precache-manifest.21c4fb211febb6130db136cbe577395b.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.1c6c8e19.chunk.css.map": "/ectl/static/css/2.1c6c8e19.chunk.css.map",
     "static/css/main.83292273.chunk.css.map": "/ectl/static/css/main.83292273.chunk.css.map",
-    "static/js/2.7d47c8a0.chunk.js.LICENSE.txt": "/ectl/static/js/2.7d47c8a0.chunk.js.LICENSE.txt",
+    "static/js/2.ec8f3a22.chunk.js.LICENSE.txt": "/ectl/static/js/2.ec8f3a22.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.f525f4d1.png",
     "static/media/22banner.png": "/ectl/static/media/22banner.484ca7a8.png",
     "static/media/22chibi.png": "/ectl/static/media/22chibi.e627ff8a.png",
@@ -1138,6 +1138,10 @@
     "static/media/howeicon.png": "/ectl/static/media/howeicon.f43bd920.png",
     "static/media/howeshipyardicon.png": "/ectl/static/media/howeshipyardicon.f763a768.png",
     "static/media/huggy_pillow_of_bravery.png": "/ectl/static/media/huggy_pillow_of_bravery.d8bf7946.png",
+    "static/media/hunter metabanner.png": "/ectl/static/media/hunter metabanner.13a67bcd.png",
+    "static/media/hunter metachibi.png": "/ectl/static/media/hunter metachibi.348277dd.png",
+    "static/media/hunter metaicon.png": "/ectl/static/media/hunter metaicon.d08f1b56.png",
+    "static/media/hunter metashipyardicon.png": "/ectl/static/media/hunter metashipyardicon.7a4363b0.png",
     "static/media/hunterbanner.png": "/ectl/static/media/hunterbanner.a362f5c0.png",
     "static/media/hunterchibi.png": "/ectl/static/media/hunterchibi.456025fb.png",
     "static/media/huntericon.png": "/ectl/static/media/huntericon.2ef6c759.png",
@@ -3071,8 +3075,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.7d47c8a0.chunk.js",
+    "static/js/2.ec8f3a22.chunk.js",
     "static/css/main.83292273.chunk.css",
-    "static/js/main.ff9a412e.chunk.js"
+    "static/js/main.dfdf987a.chunk.js"
   ]
 }
