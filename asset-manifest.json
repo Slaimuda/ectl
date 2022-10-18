@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.83292273.chunk.css",
-    "main.js": "/ectl/static/js/main.09262a95.chunk.js",
-    "main.js.map": "/ectl/static/js/main.09262a95.chunk.js.map",
+    "main.js": "/ectl/static/js/main.811cd45b.chunk.js",
+    "main.js.map": "/ectl/static/js/main.811cd45b.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.1c6c8e19.chunk.css": "/ectl/static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.bb85749b.chunk.js": "/ectl/static/js/2.bb85749b.chunk.js",
-    "static/js/2.bb85749b.chunk.js.map": "/ectl/static/js/2.bb85749b.chunk.js.map",
+    "static/js/2.5c4525c5.chunk.js": "/ectl/static/js/2.5c4525c5.chunk.js",
+    "static/js/2.5c4525c5.chunk.js.map": "/ectl/static/js/2.5c4525c5.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.599ac4085db4fa049e7eaecba5c616b8.js": "/ectl/precache-manifest.599ac4085db4fa049e7eaecba5c616b8.js",
+    "precache-manifest.f8af5d6d348b67671b215fac3f024cd6.js": "/ectl/precache-manifest.f8af5d6d348b67671b215fac3f024cd6.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.1c6c8e19.chunk.css.map": "/ectl/static/css/2.1c6c8e19.chunk.css.map",
     "static/css/main.83292273.chunk.css.map": "/ectl/static/css/main.83292273.chunk.css.map",
-    "static/js/2.bb85749b.chunk.js.LICENSE.txt": "/ectl/static/js/2.bb85749b.chunk.js.LICENSE.txt",
+    "static/js/2.5c4525c5.chunk.js.LICENSE.txt": "/ectl/static/js/2.5c4525c5.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.f525f4d1.png",
+    "static/media/1cent_coins.png": "/ectl/static/media/1cent_coins.e9c51498.png",
     "static/media/22banner.png": "/ectl/static/media/22banner.484ca7a8.png",
     "static/media/22chibi.png": "/ectl/static/media/22chibi.e627ff8a.png",
     "static/media/22icon.png": "/ectl/static/media/22icon.bf3879c3.png",
@@ -1627,6 +1628,10 @@
     "static/media/little renownchibi.png": "/ectl/static/media/little renownchibi.2f8c068d.png",
     "static/media/little renownicon.png": "/ectl/static/media/little renownicon.6e328a1c.png",
     "static/media/little renownshipyardicon.png": "/ectl/static/media/little renownshipyardicon.c16e46cb.png",
+    "static/media/little speebanner.png": "/ectl/static/media/little speebanner.e71c6dea.png",
+    "static/media/little speechibi.png": "/ectl/static/media/little speechibi.3f561d5d.png",
+    "static/media/little speeicon.png": "/ectl/static/media/little speeicon.cbbecd77.png",
+    "static/media/little speeshipyardicon.png": "/ectl/static/media/little speeshipyardicon.d1523b85.png",
     "static/media/little_beaver_squadron_tag.png": "/ectl/static/media/little_beaver_squadron_tag.5fb38fcb.png",
     "static/media/littoriobanner.png": "/ectl/static/media/littoriobanner.0b46fd91.png",
     "static/media/littoriochibi.png": "/ectl/static/media/littoriochibi.81ed4627.png",
@@ -2064,6 +2069,7 @@
     "static/media/ping haikaiicon.png": "/ectl/static/media/ping haikaiicon.717befe1.png",
     "static/media/ping haikaishipyardicon.png": "/ectl/static/media/ping haikaishipyardicon.25996481.png",
     "static/media/ping haishipyardicon.png": "/ectl/static/media/ping haishipyardicon.e5014b68.png",
+    "static/media/pirozhki.png": "/ectl/static/media/pirozhki.eabe62fb.png",
     "static/media/plymouthbanner.png": "/ectl/static/media/plymouthbanner.d5c231dd.png",
     "static/media/plymouthchibi.png": "/ectl/static/media/plymouthchibi.24ce0059.png",
     "static/media/plymouthicon.png": "/ectl/static/media/plymouthicon.3f9603ec.png",
@@ -3075,8 +3081,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.bb85749b.chunk.js",
+    "static/js/2.5c4525c5.chunk.js",
     "static/css/main.83292273.chunk.css",
-    "static/js/main.09262a95.chunk.js"
+    "static/js/main.811cd45b.chunk.js"
   ]
 }
