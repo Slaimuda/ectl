@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.83292273.chunk.css",
-    "main.js": "/ectl/static/js/main.e4f1b1e5.chunk.js",
-    "main.js.map": "/ectl/static/js/main.e4f1b1e5.chunk.js.map",
+    "main.js": "/ectl/static/js/main.04bf5c47.chunk.js",
+    "main.js.map": "/ectl/static/js/main.04bf5c47.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.1c6c8e19.chunk.css": "/ectl/static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.08a2391a.chunk.js": "/ectl/static/js/2.08a2391a.chunk.js",
-    "static/js/2.08a2391a.chunk.js.map": "/ectl/static/js/2.08a2391a.chunk.js.map",
+    "static/js/2.7721108c.chunk.js": "/ectl/static/js/2.7721108c.chunk.js",
+    "static/js/2.7721108c.chunk.js.map": "/ectl/static/js/2.7721108c.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.9b06df71e561a941673146c75f6236cb.js": "/ectl/precache-manifest.9b06df71e561a941673146c75f6236cb.js",
+    "precache-manifest.2509fd5fd58a0baee7040a4d99dcd9b5.js": "/ectl/precache-manifest.2509fd5fd58a0baee7040a4d99dcd9b5.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.1c6c8e19.chunk.css.map": "/ectl/static/css/2.1c6c8e19.chunk.css.map",
     "static/css/main.83292273.chunk.css.map": "/ectl/static/css/main.83292273.chunk.css.map",
-    "static/js/2.08a2391a.chunk.js.LICENSE.txt": "/ectl/static/js/2.08a2391a.chunk.js.LICENSE.txt",
+    "static/js/2.7721108c.chunk.js.LICENSE.txt": "/ectl/static/js/2.7721108c.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.f525f4d1.png",
     "static/media/12pounder_long_guns.png": "/ectl/static/media/12pounder_long_guns.e31f670b.png",
     "static/media/1cent_coins.png": "/ectl/static/media/1cent_coins.e9c51498.png",
@@ -1276,6 +1276,7 @@
     "static/media/isuzukaiicon.png": "/ectl/static/media/isuzukaiicon.5140e584.png",
     "static/media/isuzukaishipyardicon.png": "/ectl/static/media/isuzukaishipyardicon.d01558ad.png",
     "static/media/isuzushipyardicon.png": "/ectl/static/media/isuzushipyardicon.d261a463.png",
+    "static/media/ix.png": "/ectl/static/media/ix.adc0a23b.png",
     "static/media/izumobanner.png": "/ectl/static/media/izumobanner.de36ca2f.png",
     "static/media/izumochibi.png": "/ectl/static/media/izumochibi.79235d51.png",
     "static/media/izumoicon.png": "/ectl/static/media/izumoicon.05677e91.png",
@@ -3102,8 +3103,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.08a2391a.chunk.js",
+    "static/js/2.7721108c.chunk.js",
     "static/css/main.83292273.chunk.css",
-    "static/js/main.e4f1b1e5.chunk.js"
+    "static/js/main.04bf5c47.chunk.js"
   ]
 }
