@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.83292273.chunk.css",
-    "main.js": "/ectl/static/js/main.e02773ae.chunk.js",
-    "main.js.map": "/ectl/static/js/main.e02773ae.chunk.js.map",
+    "main.js": "/ectl/static/js/main.30c62398.chunk.js",
+    "main.js.map": "/ectl/static/js/main.30c62398.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.1c6c8e19.chunk.css": "/ectl/static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.1a2640b3.chunk.js": "/ectl/static/js/2.1a2640b3.chunk.js",
-    "static/js/2.1a2640b3.chunk.js.map": "/ectl/static/js/2.1a2640b3.chunk.js.map",
+    "static/js/2.ac75b26c.chunk.js": "/ectl/static/js/2.ac75b26c.chunk.js",
+    "static/js/2.ac75b26c.chunk.js.map": "/ectl/static/js/2.ac75b26c.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.5aff18b92e1ac45c0e01203c3fcb733f.js": "/ectl/precache-manifest.5aff18b92e1ac45c0e01203c3fcb733f.js",
+    "precache-manifest.caba12a75e5e8f8709d0c6486b95c658.js": "/ectl/precache-manifest.caba12a75e5e8f8709d0c6486b95c658.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.1c6c8e19.chunk.css.map": "/ectl/static/css/2.1c6c8e19.chunk.css.map",
     "static/css/main.83292273.chunk.css.map": "/ectl/static/css/main.83292273.chunk.css.map",
-    "static/js/2.1a2640b3.chunk.js.LICENSE.txt": "/ectl/static/js/2.1a2640b3.chunk.js.LICENSE.txt",
+    "static/js/2.ac75b26c.chunk.js.LICENSE.txt": "/ectl/static/js/2.ac75b26c.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.f525f4d1.png",
     "static/media/12pounder_long_guns.png": "/ectl/static/media/12pounder_long_guns.e31f670b.png",
     "static/media/1cent_coins.png": "/ectl/static/media/1cent_coins.e9c51498.png",
@@ -1686,6 +1686,7 @@
     "static/media/mainzchibi.png": "/ectl/static/media/mainzchibi.50953550.png",
     "static/media/mainzicon.png": "/ectl/static/media/mainzicon.4bce5d6a.png",
     "static/media/mainzshipyardicon.png": "/ectl/static/media/mainzshipyardicon.dab3a796.png",
+    "static/media/majestic_phoenix.png": "/ectl/static/media/majestic_phoenix.4cb7389e.png",
     "static/media/makinamibanner.png": "/ectl/static/media/makinamibanner.1817ef68.png",
     "static/media/makinamichibi.png": "/ectl/static/media/makinamichibi.97ca943d.png",
     "static/media/makinamiicon.png": "/ectl/static/media/makinamiicon.db11e87b.png",
@@ -3104,8 +3105,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.1a2640b3.chunk.js",
+    "static/js/2.ac75b26c.chunk.js",
     "static/css/main.83292273.chunk.css",
-    "static/js/main.e02773ae.chunk.js"
+    "static/js/main.30c62398.chunk.js"
   ]
 }
