@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.83292273.chunk.css",
-    "main.js": "/ectl/static/js/main.04bf5c47.chunk.js",
-    "main.js.map": "/ectl/static/js/main.04bf5c47.chunk.js.map",
+    "main.js": "/ectl/static/js/main.e02773ae.chunk.js",
+    "main.js.map": "/ectl/static/js/main.e02773ae.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.1c6c8e19.chunk.css": "/ectl/static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.7721108c.chunk.js": "/ectl/static/js/2.7721108c.chunk.js",
-    "static/js/2.7721108c.chunk.js.map": "/ectl/static/js/2.7721108c.chunk.js.map",
+    "static/js/2.1a2640b3.chunk.js": "/ectl/static/js/2.1a2640b3.chunk.js",
+    "static/js/2.1a2640b3.chunk.js.map": "/ectl/static/js/2.1a2640b3.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.2509fd5fd58a0baee7040a4d99dcd9b5.js": "/ectl/precache-manifest.2509fd5fd58a0baee7040a4d99dcd9b5.js",
+    "precache-manifest.5aff18b92e1ac45c0e01203c3fcb733f.js": "/ectl/precache-manifest.5aff18b92e1ac45c0e01203c3fcb733f.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.1c6c8e19.chunk.css.map": "/ectl/static/css/2.1c6c8e19.chunk.css.map",
     "static/css/main.83292273.chunk.css.map": "/ectl/static/css/main.83292273.chunk.css.map",
-    "static/js/2.7721108c.chunk.js.LICENSE.txt": "/ectl/static/js/2.7721108c.chunk.js.LICENSE.txt",
+    "static/js/2.1a2640b3.chunk.js.LICENSE.txt": "/ectl/static/js/2.1a2640b3.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.f525f4d1.png",
     "static/media/12pounder_long_guns.png": "/ectl/static/media/12pounder_long_guns.e31f670b.png",
     "static/media/1cent_coins.png": "/ectl/static/media/1cent_coins.e9c51498.png",
@@ -2580,6 +2580,7 @@
     "static/media/tashkentshipyardicon.png": "/ectl/static/media/tashkentshipyardicon.7a20f384.png",
     "static/media/tbm_avenger_vt18_squadron.png": "/ectl/static/media/tbm_avenger_vt18_squadron.d43944ac.png",
     "static/media/team_emblem.png": "/ectl/static/media/team_emblem.1a9c14e5.png",
+    "static/media/tem_and_opie.png": "/ectl/static/media/tem_and_opie.17d8fa67.png",
     "static/media/templar_knights_battle_standard.png": "/ectl/static/media/templar_knights_battle_standard.b24be0b9.png",
     "static/media/tennesseebanner.png": "/ectl/static/media/tennesseebanner.2a7fa313.png",
     "static/media/tennesseechibi.png": "/ectl/static/media/tennesseechibi.ca801f86.png",
@@ -3103,8 +3104,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.7721108c.chunk.js",
+    "static/js/2.1a2640b3.chunk.js",
     "static/css/main.83292273.chunk.css",
-    "static/js/main.04bf5c47.chunk.js"
+    "static/js/main.e02773ae.chunk.js"
   ]
 }
