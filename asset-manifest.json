@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.83292273.chunk.css",
-    "main.js": "/ectl/static/js/main.e75ffe6c.chunk.js",
-    "main.js.map": "/ectl/static/js/main.e75ffe6c.chunk.js.map",
+    "main.js": "/ectl/static/js/main.260d1715.chunk.js",
+    "main.js.map": "/ectl/static/js/main.260d1715.chunk.js.map",
     "runtime-main.js": "/ectl/static/js/runtime-main.6a31884d.js",
     "runtime-main.js.map": "/ectl/static/js/runtime-main.6a31884d.js.map",
     "static/css/2.1c6c8e19.chunk.css": "/ectl/static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.d27e9c89.chunk.js": "/ectl/static/js/2.d27e9c89.chunk.js",
-    "static/js/2.d27e9c89.chunk.js.map": "/ectl/static/js/2.d27e9c89.chunk.js.map",
+    "static/js/2.c15a464c.chunk.js": "/ectl/static/js/2.c15a464c.chunk.js",
+    "static/js/2.c15a464c.chunk.js.map": "/ectl/static/js/2.c15a464c.chunk.js.map",
     "index.html": "/ectl/index.html",
-    "precache-manifest.ef54c423f59eceff81910c8011a0a830.js": "/ectl/precache-manifest.ef54c423f59eceff81910c8011a0a830.js",
+    "precache-manifest.f486b775ada2686beb76eff3402fbd9c.js": "/ectl/precache-manifest.f486b775ada2686beb76eff3402fbd9c.js",
     "service-worker.js": "/ectl/service-worker.js",
     "static/css/2.1c6c8e19.chunk.css.map": "/ectl/static/css/2.1c6c8e19.chunk.css.map",
     "static/css/main.83292273.chunk.css.map": "/ectl/static/css/main.83292273.chunk.css.map",
-    "static/js/2.d27e9c89.chunk.js.LICENSE.txt": "/ectl/static/js/2.d27e9c89.chunk.js.LICENSE.txt",
+    "static/js/2.c15a464c.chunk.js.LICENSE.txt": "/ectl/static/js/2.c15a464c.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.f525f4d1.png",
     "static/media/12pounder_long_guns.png": "/ectl/static/media/12pounder_long_guns.e31f670b.png",
     "static/media/1cent_coins.png": "/ectl/static/media/1cent_coins.e9c51498.png",
@@ -40,7 +40,7 @@
     "static/media/610mm_twin_torpedo_mount.png": "/ectl/static/media/610mm_twin_torpedo_mount.7901c079.png",
     "static/media/6crh_armor_piercing_shell.png": "/ectl/static/media/6crh_armor_piercing_shell.8a463523.png",
     "static/media/6s.png": "/ectl/static/media/6s.2ec4b9d7.png",
-    "static/media/Parallel_Superimposition_Event_Banner_EN.jpg": "/ectl/static/media/Parallel_Superimposition_Event_Banner_EN.ca0d19eb.jpg",
+    "static/media/Flim3jLaUAUlvF8.jpg": "/ectl/static/media/Flim3jLaUAUlvF8.7fa25c54.jpg",
     "static/media/abercrombiebanner.png": "/ectl/static/media/abercrombiebanner.d8dbe1c3.png",
     "static/media/abercrombiechibi.png": "/ectl/static/media/abercrombiechibi.a0566cd1.png",
     "static/media/abercrombieicon.png": "/ectl/static/media/abercrombieicon.34d87009.png",
@@ -782,6 +782,7 @@
     "static/media/exeterkaishipyardicon.png": "/ectl/static/media/exeterkaishipyardicon.104f063f.png",
     "static/media/exetershipyardicon.png": "/ectl/static/media/exetershipyardicon.372aaaa7.png",
     "static/media/f6f_hellcat_hvar_equipped.png": "/ectl/static/media/f6f_hellcat_hvar_equipped.e57bdc19.png",
+    "static/media/f6f_hellcat_hvarmounted.png": "/ectl/static/media/f6f_hellcat_hvarmounted.e57bdc19.png",
     "static/media/fairey_albacore.png": "/ectl/static/media/fairey_albacore.4343511f.png",
     "static/media/fairey_barracuda.png": "/ectl/static/media/fairey_barracuda.983417dc.png",
     "static/media/fairey_firefly.png": "/ectl/static/media/fairey_firefly.9ae6f4ad.png",
@@ -3182,8 +3183,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a31884d.js",
     "static/css/2.1c6c8e19.chunk.css",
-    "static/js/2.d27e9c89.chunk.js",
+    "static/js/2.c15a464c.chunk.js",
     "static/css/main.83292273.chunk.css",
-    "static/js/main.e75ffe6c.chunk.js"
+    "static/js/main.260d1715.chunk.js"
   ]
 }
