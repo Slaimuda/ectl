@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.2b68711c.css",
-    "main.js": "/ectl/static/js/main.77506b06.js",
+    "main.js": "/ectl/static/js/main.fb7d33db.js",
     "static/media/w12_2.png": "/ectl/static/media/w12_2.94644f657b3e9513978a.png",
     "static/media/w14-gear-anchorage.jpg": "/ectl/static/media/w14-gear-anchorage.f04d24a67ecff990fec4.jpg",
     "static/media/w14-gear-mainz.jpg": "/ectl/static/media/w14-gear-mainz.a9c32343179cc8f5a6da.jpg",
@@ -54,6 +54,7 @@
     "static/media/rb_1.png": "/ectl/static/media/rb_1.dd5c6dacb8d5b2497d90.png",
     "static/media/alm.jpg": "/ectl/static/media/alm.61c3bdeb0a65f9261cc4.jpg",
     "static/media/bf_6.jpg": "/ectl/static/media/bf_6.25df85608c9350e9923c.jpg",
+    "static/media/banner.png": "/ectl/static/media/banner.f1050437cc803767c127.png",
     "static/media/bg.jpg": "/ectl/static/media/bg.6dd2af15f0bc3a1a7ed9.jpg",
     "static/media/king george vshipyardicon.png": "/ectl/static/media/king george vshipyardicon.0e45d1d5c67a1030e651.png",
     "static/media/sub_gears.png": "/ectl/static/media/sub_gears.aa645cf65fa4c78762dd.png",
@@ -806,7 +807,6 @@
     "static/media/azusa miurashipyardicon.png": "/ectl/static/media/azusa miurashipyardicon.d69fcb8408fbf5aadb74.png",
     "static/media/triple_203mm_8_55_mk_9.png": "/ectl/static/media/triple_203mm_8_55_mk_9.76c73d8cabd4637c4d0f.png",
     "static/media/langley iichibi.png": "/ectl/static/media/langley iichibi.4cf0c8ccc8938e43b351.png",
-    "static/media/Revelations_of_Dust_Event_Banner_EN.jpg": "/ectl/static/media/Revelations_of_Dust_Event_Banner_EN.4153730ea5328a91620e.jpg",
     "static/media/sendaibanner.png": "/ectl/static/media/sendaibanner.9e333bb80036c5563237.png",
     "static/media/miyukishipyardicon.png": "/ectl/static/media/miyukishipyardicon.5a05208b72f977cf7a24.png",
     "static/media/fairey_swordfish.png": "/ectl/static/media/fairey_swordfish.2c7b741ad87ac4b5286e.png",
@@ -3226,10 +3226,10 @@
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
     "main.2b68711c.css.map": "/ectl/static/css/main.2b68711c.css.map",
-    "main.77506b06.js.map": "/ectl/static/js/main.77506b06.js.map"
+    "main.fb7d33db.js.map": "/ectl/static/js/main.fb7d33db.js.map"
   },
   "entrypoints": [
     "static/css/main.2b68711c.css",
-    "static/js/main.77506b06.js"
+    "static/js/main.fb7d33db.js"
   ]
 }
