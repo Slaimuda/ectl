@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.2b68711c.css",
-    "main.js": "/ectl/static/js/main.cfa90086.js",
+    "main.js": "/ectl/static/js/main.1a570492.js",
     "static/media/w12_2.png": "/ectl/static/media/w12_2.94644f657b3e9513978a.png",
     "static/media/w14-gear-anchorage.jpg": "/ectl/static/media/w14-gear-anchorage.f04d24a67ecff990fec4.jpg",
     "static/media/w14-gear-mainz.jpg": "/ectl/static/media/w14-gear-mainz.a9c32343179cc8f5a6da.jpg",
@@ -52,9 +52,9 @@
     "static/media/fb_1.png": "/ectl/static/media/fb_1.944c527ee6c372cec10c.png",
     "static/media/rb_2.png": "/ectl/static/media/rb_2.b39bfa0a8e09a737c6ab.png",
     "static/media/rb_1.png": "/ectl/static/media/rb_1.dd5c6dacb8d5b2497d90.png",
+    "static/media/banner.png": "/ectl/static/media/banner.1e45197c4d1d335845b6.png",
     "static/media/alm.jpg": "/ectl/static/media/alm.61c3bdeb0a65f9261cc4.jpg",
     "static/media/bf_6.jpg": "/ectl/static/media/bf_6.25df85608c9350e9923c.jpg",
-    "static/media/banner.png": "/ectl/static/media/banner.f1050437cc803767c127.png",
     "static/media/bg.jpg": "/ectl/static/media/bg.6dd2af15f0bc3a1a7ed9.jpg",
     "static/media/king george vshipyardicon.png": "/ectl/static/media/king george vshipyardicon.0e45d1d5c67a1030e651.png",
     "static/media/sub_gears.png": "/ectl/static/media/sub_gears.aa645cf65fa4c78762dd.png",
@@ -432,6 +432,7 @@
     "static/media/gloriousshipyardicon.png": "/ectl/static/media/gloriousshipyardicon.def9812732ccb9c7a6b8.png",
     "static/media/gascogneshipyardicon.png": "/ectl/static/media/gascogneshipyardicon.749b48d4421b42d769ba.png",
     "static/media/kasumi (venus vacation)shipyardicon.png": "/ectl/static/media/kasumi (venus vacation)shipyardicon.9d3b200c2a3ac10524f5.png",
+    "static/media/queen elizabeth metashipyardicon.png": "/ectl/static/media/queen elizabeth metashipyardicon.1e95c57228cdcc80c2b9.png",
     "static/media/memphisshipyardicon.png": "/ectl/static/media/memphisshipyardicon.2969d558015be7f0c4ab.png",
     "static/media/kakokaishipyardicon.png": "/ectl/static/media/kakokaishipyardicon.0b918643427ffee7b750.png",
     "static/media/odinshipyardicon.png": "/ectl/static/media/odinshipyardicon.bd7050e4461b2077fb34.png",
@@ -1030,6 +1031,7 @@
     "static/media/shirayukichibi.png": "/ectl/static/media/shirayukichibi.8a20f0d73478a6f826c4.png",
     "static/media/mainzchibi.png": "/ectl/static/media/mainzchibi.fdc5d8df326656e88060.png",
     "static/media/albionchibi.png": "/ectl/static/media/albionchibi.9d8cb5d89b55e1c16b24.png",
+    "static/media/queen elizabeth metachibi.png": "/ectl/static/media/queen elizabeth metachibi.abfce075a70cacd2e6a6.png",
     "static/media/miyukichibi.png": "/ectl/static/media/miyukichibi.673bacd52d667b09ef9d.png",
     "static/media/nicholaskaichibi.png": "/ectl/static/media/nicholaskaichibi.6ab674806758ce255ee1.png",
     "static/media/kirishimachibi.png": "/ectl/static/media/kirishimachibi.aa6c642bddcd34c2a186.png",
@@ -1487,6 +1489,7 @@
     "static/media/urakazechibi.png": "/ectl/static/media/urakazechibi.c5d25451120710a4ac97.png",
     "static/media/mami futamichibi.png": "/ectl/static/media/mami futamichibi.2e4ffd7cb531047fe9ac.png",
     "static/media/yuugurechibi.png": "/ectl/static/media/yuugurechibi.4179a752587232f97035.png",
+    "static/media/queen elizabeth metabanner.png": "/ectl/static/media/queen elizabeth metabanner.62d99aa363d0afd31622.png",
     "static/media/hwah jahchibi.png": "/ectl/static/media/hwah jahchibi.ec3928d2fca8cc9dce90.png",
     "static/media/newcastlekaichibi.png": "/ectl/static/media/newcastlekaichibi.da6b6a13d2a76e2ae9ad.png",
     "static/media/cravenchibi.png": "/ectl/static/media/cravenchibi.1a4d326ef529f8220bc2.png",
@@ -2987,6 +2990,7 @@
     "static/media/cooperchibi.png": "/ectl/static/media/cooperchibi.be7fb8c7eb1b8e91aa35.png",
     "static/media/yamashirokaiicon.png": "/ectl/static/media/yamashirokaiicon.32ce0adff9caaf861d93.png",
     "static/media/gascogne µicon.png": "/ectl/static/media/gascogne µicon.058ac7fd52e387f76c88.png",
+    "static/media/queen elizabeth metaicon.png": "/ectl/static/media/queen elizabeth metaicon.8d75b417d62430093344.png",
     "static/media/namikoicon.png": "/ectl/static/media/namikoicon.5d626c788c4953b78076.png",
     "static/media/mogamiicon.png": "/ectl/static/media/mogamiicon.d0dd07ed063b55553881.png",
     "static/media/high_performance_fire_control_radar.png": "/ectl/static/media/high_performance_fire_control_radar.cbca8a2e4967bb378d95.png",
@@ -3226,10 +3230,10 @@
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
     "main.2b68711c.css.map": "/ectl/static/css/main.2b68711c.css.map",
-    "main.cfa90086.js.map": "/ectl/static/js/main.cfa90086.js.map"
+    "main.1a570492.js.map": "/ectl/static/js/main.1a570492.js.map"
   },
   "entrypoints": [
     "static/css/main.2b68711c.css",
-    "static/js/main.cfa90086.js"
+    "static/js/main.1a570492.js"
   ]
 }
