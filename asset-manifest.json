@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.2b68711c.css",
-    "main.js": "/ectl/static/js/main.1a570492.js",
+    "main.js": "/ectl/static/js/main.ae0752ee.js",
     "static/media/w12_2.png": "/ectl/static/media/w12_2.94644f657b3e9513978a.png",
     "static/media/w14-gear-anchorage.jpg": "/ectl/static/media/w14-gear-anchorage.f04d24a67ecff990fec4.jpg",
     "static/media/w14-gear-mainz.jpg": "/ectl/static/media/w14-gear-mainz.a9c32343179cc8f5a6da.jpg",
@@ -3126,6 +3126,7 @@
     "static/media/realm_of_oneiric_snow.png": "/ectl/static/media/realm_of_oneiric_snow.65b037192ade8f21a506.png",
     "static/media/twin_40mm_bofors_hazemeyer.png": "/ectl/static/media/twin_40mm_bofors_hazemeyer.62815c54dec68dd12bb9.png",
     "static/media/type_1_armor_piercing_shell.png": "/ectl/static/media/type_1_armor_piercing_shell.b9e246eb474fb7876a44.png",
+    "static/media/hunters_insignia.png": "/ectl/static/media/hunters_insignia.049c7a40c536284a4627.png",
     "static/media/fairey_swordfish_mk_iiasv_asw.png": "/ectl/static/media/fairey_swordfish_mk_iiasv_asw.a017126d42a2dc132147.png",
     "static/media/gamers_mark.png": "/ectl/static/media/gamers_mark.9495c8c4f2324a113820.png",
     "static/media/fairey_albacore.png": "/ectl/static/media/fairey_albacore.feafc84d381e7c682a3e.png",
@@ -3217,6 +3218,7 @@
     "static/media/twin_406mm_16_45_mk_1.png": "/ectl/static/media/twin_406mm_16_45_mk_1.fef157012a682e9d6f2f.png",
     "static/media/twin_203mm_3rd_year_type_no_3_prototype.png": "/ectl/static/media/twin_203mm_3rd_year_type_no_3_prototype.41c7c213257ceb966f20.png",
     "static/media/twin_152mm_6_53_mk_15.png": "/ectl/static/media/twin_152mm_6_53_mk_15.2d52819988669310ff24.png",
+    "static/media/the_complete_old_lady_kit.png": "/ectl/static/media/the_complete_old_lady_kit.315a8d9f44186e5b0ede.png",
     "static/media/triple_152mm_6_47_mk_16_mod_1.png": "/ectl/static/media/triple_152mm_6_47_mk_16_mod_1.9ed025c76f3f53c97f18.png",
     "static/media/triple_305mm_sk_c39_prototype_44300.png": "/ectl/static/media/triple_305mm_sk_c39_prototype_44300.f1ee36e8c2832937c59b.png",
     "static/media/type35__ayanami__antiship_armament.png": "/ectl/static/media/type35__ayanami__antiship_armament.c231e27cfd71886b98ff.png",
@@ -3230,10 +3232,10 @@
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
     "main.2b68711c.css.map": "/ectl/static/css/main.2b68711c.css.map",
-    "main.1a570492.js.map": "/ectl/static/js/main.1a570492.js.map"
+    "main.ae0752ee.js.map": "/ectl/static/js/main.ae0752ee.js.map"
   },
   "entrypoints": [
     "static/css/main.2b68711c.css",
-    "static/js/main.1a570492.js"
+    "static/js/main.ae0752ee.js"
   ]
 }
