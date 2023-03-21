@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ectl/static/css/main.2b68711c.css",
-    "main.js": "/ectl/static/js/main.ae0752ee.js",
+    "main.css": "/ectl/static/css/main.c0bd67e8.css",
+    "main.js": "/ectl/static/js/main.fabf599d.js",
     "static/media/w12_2.png": "/ectl/static/media/w12_2.94644f657b3e9513978a.png",
     "static/media/w14-gear-anchorage.jpg": "/ectl/static/media/w14-gear-anchorage.f04d24a67ecff990fec4.jpg",
     "static/media/w14-gear-mainz.jpg": "/ectl/static/media/w14-gear-mainz.a9c32343179cc8f5a6da.jpg",
@@ -3231,11 +3231,11 @@
     "static/media/533mm_quintuple_homing_torpedo_mount.png": "/ectl/static/media/533mm_quintuple_homing_torpedo_mount.e70ddf2d2bd95e1ff354.png",
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
-    "main.2b68711c.css.map": "/ectl/static/css/main.2b68711c.css.map",
-    "main.ae0752ee.js.map": "/ectl/static/js/main.ae0752ee.js.map"
+    "main.c0bd67e8.css.map": "/ectl/static/css/main.c0bd67e8.css.map",
+    "main.fabf599d.js.map": "/ectl/static/js/main.fabf599d.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b68711c.css",
-    "static/js/main.ae0752ee.js"
+    "static/css/main.c0bd67e8.css",
+    "static/js/main.fabf599d.js"
   ]
 }
