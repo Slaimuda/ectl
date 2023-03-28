@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.c0bd67e8.css",
-    "main.js": "/ectl/static/js/main.43440b40.js",
+    "main.js": "/ectl/static/js/main.e8b3491e.js",
     "static/media/w12_2.png": "/ectl/static/media/w12_2.94644f657b3e9513978a.png",
     "static/media/w14-gear-anchorage.jpg": "/ectl/static/media/w14-gear-anchorage.f04d24a67ecff990fec4.jpg",
     "static/media/w14-gear-mainz.jpg": "/ectl/static/media/w14-gear-mainz.a9c32343179cc8f5a6da.jpg",
@@ -3125,6 +3125,7 @@
     "static/media/miyukiicon.png": "/ectl/static/media/miyukiicon.0c4d1d9bfd39b3950d3f.png",
     "static/media/hiryuu metaicon.png": "/ectl/static/media/hiryuu metaicon.99b4a5452d2ae2a524c9.png",
     "static/media/dual_swords.png": "/ectl/static/media/dual_swords.1e6d9ffe7097b0899312.png",
+    "static/media/action_report_frostfall.png": "/ectl/static/media/action_report_frostfall.df52ca85c5f1a1670d27.png",
     "static/media/kawakazeicon.png": "/ectl/static/media/kawakazeicon.015c963a650b8e87e903.png",
     "static/media/twin_380mm_sk_c34.png": "/ectl/static/media/twin_380mm_sk_c34.c5f2575a37a23b5c3153.png",
     "static/media/twin_37mm_aa_model_1932.png": "/ectl/static/media/twin_37mm_aa_model_1932.63ef2154e92d2d9bf7c9.png",
@@ -3249,10 +3250,10 @@
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
     "main.c0bd67e8.css.map": "/ectl/static/css/main.c0bd67e8.css.map",
-    "main.43440b40.js.map": "/ectl/static/js/main.43440b40.js.map"
+    "main.e8b3491e.js.map": "/ectl/static/js/main.e8b3491e.js.map"
   },
   "entrypoints": [
     "static/css/main.c0bd67e8.css",
-    "static/js/main.43440b40.js"
+    "static/js/main.e8b3491e.js"
   ]
 }
