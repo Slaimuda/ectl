@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.c0bd67e8.css",
-    "main.js": "/ectl/static/js/main.e8b3491e.js",
+    "main.js": "/ectl/static/js/main.7e3f901e.js",
     "static/media/w12_2.png": "/ectl/static/media/w12_2.94644f657b3e9513978a.png",
     "static/media/w14-gear-anchorage.jpg": "/ectl/static/media/w14-gear-anchorage.f04d24a67ecff990fec4.jpg",
     "static/media/w14-gear-mainz.jpg": "/ectl/static/media/w14-gear-mainz.a9c32343179cc8f5a6da.jpg",
@@ -2879,6 +2879,7 @@
     "static/media/gneisenau metaicon.png": "/ectl/static/media/gneisenau metaicon.ed4808561a4fb6d5c32f.png",
     "static/media/mami futamiicon.png": "/ectl/static/media/mami futamiicon.3f10b08d50d32202a14a.png",
     "static/media/cassinkaiicon.png": "/ectl/static/media/cassinkaiicon.aceb7b8ae84523a5a9fb.png",
+    "static/media/ultra_rainbow_hammer.png": "/ectl/static/media/ultra_rainbow_hammer.556e9776d45c3127b9d3.png",
     "static/media/yuugurekaiicon.png": "/ectl/static/media/yuugurekaiicon.7650c0e5463609ab4890.png",
     "static/media/kagaicon.png": "/ectl/static/media/kagaicon.60ccbbfed92171edd710.png",
     "static/media/suzutsukiicon.png": "/ectl/static/media/suzutsukiicon.0b3a2a647b2dfaa56920.png",
@@ -3125,6 +3126,7 @@
     "static/media/miyukiicon.png": "/ectl/static/media/miyukiicon.0c4d1d9bfd39b3950d3f.png",
     "static/media/hiryuu metaicon.png": "/ectl/static/media/hiryuu metaicon.99b4a5452d2ae2a524c9.png",
     "static/media/dual_swords.png": "/ectl/static/media/dual_swords.1e6d9ffe7097b0899312.png",
+    "static/media/action_report__frostfall.png": "/ectl/static/media/action_report__frostfall.df52ca85c5f1a1670d27.png",
     "static/media/action_report_frostfall.png": "/ectl/static/media/action_report_frostfall.df52ca85c5f1a1670d27.png",
     "static/media/kawakazeicon.png": "/ectl/static/media/kawakazeicon.015c963a650b8e87e903.png",
     "static/media/twin_380mm_sk_c34.png": "/ectl/static/media/twin_380mm_sk_c34.c5f2575a37a23b5c3153.png",
@@ -3250,10 +3252,10 @@
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
     "main.c0bd67e8.css.map": "/ectl/static/css/main.c0bd67e8.css.map",
-    "main.e8b3491e.js.map": "/ectl/static/js/main.e8b3491e.js.map"
+    "main.7e3f901e.js.map": "/ectl/static/js/main.7e3f901e.js.map"
   },
   "entrypoints": [
     "static/css/main.c0bd67e8.css",
-    "static/js/main.e8b3491e.js"
+    "static/js/main.7e3f901e.js"
   ]
 }
