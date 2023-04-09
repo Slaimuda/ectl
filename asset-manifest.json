@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.c0bd67e8.css",
-    "main.js": "/ectl/static/js/main.7e3f901e.js",
+    "main.js": "/ectl/static/js/main.4a783edf.js",
     "static/media/w12_2.png": "/ectl/static/media/w12_2.94644f657b3e9513978a.png",
     "static/media/w14-gear-anchorage.jpg": "/ectl/static/media/w14-gear-anchorage.f04d24a67ecff990fec4.jpg",
     "static/media/w14-gear-mainz.jpg": "/ectl/static/media/w14-gear-mainz.a9c32343179cc8f5a6da.jpg",
@@ -52,8 +52,8 @@
     "static/media/fb_1.png": "/ectl/static/media/fb_1.944c527ee6c372cec10c.png",
     "static/media/rb_2.png": "/ectl/static/media/rb_2.b39bfa0a8e09a737c6ab.png",
     "static/media/rb_1.png": "/ectl/static/media/rb_1.dd5c6dacb8d5b2497d90.png",
-    "static/media/banner.png": "/ectl/static/media/banner.ce285748ee176b68858e.png",
     "static/media/alm.jpg": "/ectl/static/media/alm.61c3bdeb0a65f9261cc4.jpg",
+    "static/media/banner.png": "/ectl/static/media/banner.5433107ab5292a5f81da.png",
     "static/media/bf_6.jpg": "/ectl/static/media/bf_6.25df85608c9350e9923c.jpg",
     "static/media/bg.jpg": "/ectl/static/media/bg.6dd2af15f0bc3a1a7ed9.jpg",
     "static/media/king george vshipyardicon.png": "/ectl/static/media/king george vshipyardicon.0e45d1d5c67a1030e651.png",
@@ -3252,10 +3252,10 @@
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
     "main.c0bd67e8.css.map": "/ectl/static/css/main.c0bd67e8.css.map",
-    "main.7e3f901e.js.map": "/ectl/static/js/main.7e3f901e.js.map"
+    "main.4a783edf.js.map": "/ectl/static/js/main.4a783edf.js.map"
   },
   "entrypoints": [
     "static/css/main.c0bd67e8.css",
-    "static/js/main.7e3f901e.js"
+    "static/js/main.4a783edf.js"
   ]
 }
