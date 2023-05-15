@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.c0bd67e8.css",
-    "main.js": "/ectl/static/js/main.1917f345.js",
+    "main.js": "/ectl/static/js/main.204a037d.js",
     "static/media/w12_2.png": "/ectl/static/media/w12_2.94644f657b3e9513978a.png",
     "static/media/w14-gear-anchorage.jpg": "/ectl/static/media/w14-gear-anchorage.f04d24a67ecff990fec4.jpg",
     "static/media/w14-gear-mainz.jpg": "/ectl/static/media/w14-gear-mainz.a9c32343179cc8f5a6da.jpg",
@@ -53,8 +53,8 @@
     "static/media/rb_2.png": "/ectl/static/media/rb_2.b39bfa0a8e09a737c6ab.png",
     "static/media/rb_1.png": "/ectl/static/media/rb_1.dd5c6dacb8d5b2497d90.png",
     "static/media/alm.jpg": "/ectl/static/media/alm.61c3bdeb0a65f9261cc4.jpg",
-    "static/media/banner.png": "/ectl/static/media/banner.43ede1a8e34e240453de.png",
     "static/media/bf_6.jpg": "/ectl/static/media/bf_6.25df85608c9350e9923c.jpg",
+    "static/media/banner.png": "/ectl/static/media/banner.46aa2ab9ac6313b3b376.png",
     "static/media/bg.jpg": "/ectl/static/media/bg.6dd2af15f0bc3a1a7ed9.jpg",
     "static/media/king george vshipyardicon.png": "/ectl/static/media/king george vshipyardicon.0e45d1d5c67a1030e651.png",
     "static/media/sub_gears.png": "/ectl/static/media/sub_gears.aa645cf65fa4c78762dd.png",
@@ -2529,6 +2529,7 @@
     "static/media/le marskaiicon.png": "/ectl/static/media/le marskaiicon.3a8653aee10bd7bd388c.png",
     "static/media/shouhoukaibanner.png": "/ectl/static/media/shouhoukaibanner.f0b0b0584cc4a3b60952.png",
     "static/media/howeicon.png": "/ectl/static/media/howeicon.aa90e3cb7d4894e7f90d.png",
+    "static/media/strawberry_millefeuille.png": "/ectl/static/media/strawberry_millefeuille.61fdb6df55d1b9cfdecc.png",
     "static/media/bushicon.png": "/ectl/static/media/bushicon.baf9bd135113eecc4a98.png",
     "static/media/33icon.png": "/ectl/static/media/33icon.93a36f06378071003eaf.png",
     "static/media/z21chibi.png": "/ectl/static/media/z21chibi.466fb30e7c7bfc01d354.png",
@@ -3018,6 +3019,7 @@
     "static/media/deweybanner.png": "/ectl/static/media/deweybanner.69c6b700e82ffe491b5d.png",
     "static/media/juneaukaiicon.png": "/ectl/static/media/juneaukaiicon.d0eaa6b1ae2bb5b56dde.png",
     "static/media/kölnicon.png": "/ectl/static/media/kölnicon.7f507d0eb8795c5eb7f7.png",
+    "static/media/mango_vanilla_crepe.png": "/ectl/static/media/mango_vanilla_crepe.6c74ef85a9b8c4b318a8.png",
     "static/media/lunaicon.png": "/ectl/static/media/lunaicon.2fd4ff674b8bab1c89ae.png",
     "static/media/sheffield metaicon.png": "/ectl/static/media/sheffield metaicon.636ad99bc410ab959061.png",
     "static/media/chen haiicon.png": "/ectl/static/media/chen haiicon.41a6f735ecc5abca90aa.png",
@@ -3048,6 +3050,7 @@
     "static/media/august von parsevalicon.png": "/ectl/static/media/august von parsevalicon.d1108103af7374d55969.png",
     "static/media/kasumikaiicon.png": "/ectl/static/media/kasumikaiicon.14b736a4d0be0d1744c7.png",
     "static/media/indomitableicon.png": "/ectl/static/media/indomitableicon.8eb6dee51d6f3b99f6b6.png",
+    "static/media/cream_puff.png": "/ectl/static/media/cream_puff.ab1d15104cd0c1e2f41f.png",
     "static/media/deutschlandicon.png": "/ectl/static/media/deutschlandicon.f1815c1ade7808318e6a.png",
     "static/media/implacableicon.png": "/ectl/static/media/implacableicon.6f433b134c0aa4a440f0.png",
     "static/media/gloster_sea_gladiator.png": "/ectl/static/media/gloster_sea_gladiator.02dfa444134535288c93.png",
@@ -3074,6 +3077,7 @@
     "static/media/eskimoicon.png": "/ectl/static/media/eskimoicon.5bcaafc23d182c5228ed.png",
     "static/media/londonkaiicon.png": "/ectl/static/media/londonkaiicon.5465cd67c32a793a7350.png",
     "static/media/u-557chibi.png": "/ectl/static/media/u-557chibi.33cf7ff3ced2dbff02fe.png",
+    "static/media/manjuu_bun.png": "/ectl/static/media/manjuu_bun.9a7271a2f5120bde3675.png",
     "static/media/intel_report__expedition_log.png": "/ectl/static/media/intel_report__expedition_log.c1d857af479054b577e7.png",
     "static/media/shiranuiicon.png": "/ectl/static/media/shiranuiicon.732147df29af612dd5bc.png",
     "static/media/gneisenauicon.png": "/ectl/static/media/gneisenauicon.c5e590499cab7ee46666.png",
@@ -3106,6 +3110,8 @@
     "static/media/hassicon.png": "/ectl/static/media/hassicon.8e40ef96a1e83dc1ced4.png",
     "static/media/nowakiicon.png": "/ectl/static/media/nowakiicon.8362d93e30f13a8e669d.png",
     "static/media/hunter metaicon.png": "/ectl/static/media/hunter metaicon.64142fcd5faa407a059b.png",
+    "static/media/souffle_pancake.png": "/ectl/static/media/souffle_pancake.1d16ac8e9d278a2be8d5.png",
+    "static/media/macaroon.png": "/ectl/static/media/macaroon.c91c530e5201536f4dc2.png",
     "static/media/dewoitine_d790.png": "/ectl/static/media/dewoitine_d790.ee96f1b2594b92d954f2.png",
     "static/media/u-110icon.png": "/ectl/static/media/u-110icon.c9cb5547eb1829868b51.png",
     "static/media/tem_and_opie.png": "/ectl/static/media/tem_and_opie.34b7a8f4dff2b4ca2ed8.png",
@@ -3150,6 +3156,7 @@
     "static/media/friedrich der großeicon.png": "/ectl/static/media/friedrich der großeicon.8f93abc29bc9fbfef251.png",
     "static/media/miyukiicon.png": "/ectl/static/media/miyukiicon.0c4d1d9bfd39b3950d3f.png",
     "static/media/hiryuu metaicon.png": "/ectl/static/media/hiryuu metaicon.99b4a5452d2ae2a524c9.png",
+    "static/media/prinsesstårta.png": "/ectl/static/media/prinsesstårta.6cc72814d31d84ed5e85.png",
     "static/media/dual_swords.png": "/ectl/static/media/dual_swords.1e6d9ffe7097b0899312.png",
     "static/media/action_report__frostfall.png": "/ectl/static/media/action_report__frostfall.df52ca85c5f1a1670d27.png",
     "static/media/action_report_frostfall.png": "/ectl/static/media/action_report_frostfall.df52ca85c5f1a1670d27.png",
@@ -3159,6 +3166,7 @@
     "static/media/twin_37mm_aa_mle_1933.png": "/ectl/static/media/twin_37mm_aa_mle_1933.583f90a4c24cb4fcd23d.png",
     "static/media/another_precious_thing.png": "/ectl/static/media/another_precious_thing.08c4ede30700e8fdd5dc.png",
     "static/media/single_76mm_aa_mk_26_mount.png": "/ectl/static/media/single_76mm_aa_mk_26_mount.bc31238372f032146166.png",
+    "static/media/papanasi.png": "/ectl/static/media/papanasi.c6adff8cb4aefdcc033c.png",
     "static/media/apocalypse.png": "/ectl/static/media/apocalypse.1d25b0ed74ffd8c97cf2.png",
     "static/media/torpedo_materials_cargo.png": "/ectl/static/media/torpedo_materials_cargo.61a0a65ec5ff117b274c.png",
     "static/media/triple_25mm_aa_type_96_blast_shield.png": "/ectl/static/media/triple_25mm_aa_type_96_blast_shield.3cbfecd3088300744f95.png",
@@ -3197,6 +3205,7 @@
     "static/media/533mm_triple_homing_torpedo_mount.png": "/ectl/static/media/533mm_triple_homing_torpedo_mount.686ffd8359620fdeeb5b.png",
     "static/media/single_1386mm_mle_1927.png": "/ectl/static/media/single_1386mm_mle_1927.06f42b67d0427402eb50.png",
     "static/media/twin_152mm_pattern_1892.png": "/ectl/static/media/twin_152mm_pattern_1892.dbd73ee81f154fa5bb05.png",
+    "static/media/roasted_sweet_potato.png": "/ectl/static/media/roasted_sweet_potato.85603a5af614e67a0ffb.png",
     "static/media/twin_100mm_aa_type_98.png": "/ectl/static/media/twin_100mm_aa_type_98.7b0ccc3fb33f867db51b.png",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.41e3e60961625cfaabb5.png",
     "static/media/twin_76mm_aa_mk_27_mount.png": "/ectl/static/media/twin_76mm_aa_mk_27_mount.d3610b9aa87fd9e71525.png",
@@ -3279,10 +3288,10 @@
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
     "main.c0bd67e8.css.map": "/ectl/static/css/main.c0bd67e8.css.map",
-    "main.1917f345.js.map": "/ectl/static/js/main.1917f345.js.map"
+    "main.204a037d.js.map": "/ectl/static/js/main.204a037d.js.map"
   },
   "entrypoints": [
     "static/css/main.c0bd67e8.css",
-    "static/js/main.1917f345.js"
+    "static/js/main.204a037d.js"
   ]
 }
