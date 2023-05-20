@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.c0bd67e8.css",
-    "main.js": "/ectl/static/js/main.4a3d339f.js",
+    "main.js": "/ectl/static/js/main.c59c72f8.js",
     "static/media/w12_2.png": "/ectl/static/media/w12_2.94644f657b3e9513978a.png",
     "static/media/w14-gear-anchorage.jpg": "/ectl/static/media/w14-gear-anchorage.f04d24a67ecff990fec4.jpg",
     "static/media/w14-gear-mainz.jpg": "/ectl/static/media/w14-gear-mainz.a9c32343179cc8f5a6da.jpg",
@@ -3173,6 +3173,8 @@
     "static/media/unicornicon.png": "/ectl/static/media/unicornicon.bedd2abe5e621e38c80e.png",
     "static/media/twin_135mm_model_1938.png": "/ectl/static/media/twin_135mm_model_1938.a7470dfcd517c4606d95.png",
     "static/media/prototype_vit2_vk107.png": "/ectl/static/media/prototype_vit2_vk107.8ccc7b7522bf0c5b1740.png",
+    "static/media/watatsumi_research_notes.png": "/ectl/static/media/watatsumi_research_notes.d43dfa73c5a3e1005f4c.png",
+    "static/media/calculations_complete.png": "/ectl/static/media/calculations_complete.48f8e11f564f2ccfc58b.png",
     "static/media/single_130mm_b13_pattern_1936.png": "/ectl/static/media/single_130mm_b13_pattern_1936.c186d1de40cafd0f9522.png",
     "static/media/basic_sonar.png": "/ectl/static/media/basic_sonar.55e8479d377fec2780ca.png",
     "static/media/round_shot.png": "/ectl/static/media/round_shot.0e1d7066f0b2d931af4f.png",
@@ -3288,10 +3290,10 @@
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
     "main.c0bd67e8.css.map": "/ectl/static/css/main.c0bd67e8.css.map",
-    "main.4a3d339f.js.map": "/ectl/static/js/main.4a3d339f.js.map"
+    "main.c59c72f8.js.map": "/ectl/static/js/main.c59c72f8.js.map"
   },
   "entrypoints": [
     "static/css/main.c0bd67e8.css",
-    "static/js/main.4a3d339f.js"
+    "static/js/main.c59c72f8.js"
   ]
 }
