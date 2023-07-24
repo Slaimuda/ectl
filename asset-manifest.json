@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.c0bd67e8.css",
-    "main.js": "/ectl/static/js/main.7a9cd88b.js",
+    "main.js": "/ectl/static/js/main.171222df.js",
     "static/media/w12_2.png": "/ectl/static/media/w12_2.94644f657b3e9513978a.png",
     "static/media/w14-gear-anchorage.jpg": "/ectl/static/media/w14-gear-anchorage.f04d24a67ecff990fec4.jpg",
     "static/media/w14-gear-mainz.jpg": "/ectl/static/media/w14-gear-mainz.a9c32343179cc8f5a6da.jpg",
@@ -52,7 +52,7 @@
     "static/media/fb_1.png": "/ectl/static/media/fb_1.944c527ee6c372cec10c.png",
     "static/media/rb_2.png": "/ectl/static/media/rb_2.b39bfa0a8e09a737c6ab.png",
     "static/media/rb_1.png": "/ectl/static/media/rb_1.dd5c6dacb8d5b2497d90.png",
-    "static/media/event banner.png": "/ectl/static/media/event banner.c86b1c2adb69d7cc3152.png",
+    "static/media/event banner.png": "/ectl/static/media/event banner.cd9cdc0a5df172f327b7.png",
     "static/media/alm.jpg": "/ectl/static/media/alm.61c3bdeb0a65f9261cc4.jpg",
     "static/media/bf_6.jpg": "/ectl/static/media/bf_6.25df85608c9350e9923c.jpg",
     "static/media/bg.jpg": "/ectl/static/media/bg.6dd2af15f0bc3a1a7ed9.jpg",
@@ -66,6 +66,7 @@
     "static/media/shimantochibi.png": "/ectl/static/media/shimantochibi.9dd1740c91db38584607.png",
     "static/media/grenvilleshipyardicon.png": "/ectl/static/media/grenvilleshipyardicon.7c2468d7f1629c813c63.png",
     "static/media/revengeshipyardicon.png": "/ectl/static/media/revengeshipyardicon.2fd9e68abfaf83353774.png",
+    "static/media/hatakaze metachibi.png": "/ectl/static/media/hatakaze metachibi.920f3a4db2b4f6d0e679.png",
     "static/media/vincenzo giobertichibi.png": "/ectl/static/media/vincenzo giobertichibi.f025db541c31e010c66a.png",
     "static/media/soobrazitelnyshipyardicon.png": "/ectl/static/media/soobrazitelnyshipyardicon.8741028b19f2266e4cef.png",
     "static/media/hamakazeshipyardicon.png": "/ectl/static/media/hamakazeshipyardicon.1d1c55fd7ccfcca91f80.png",
@@ -418,6 +419,7 @@
     "static/media/abukumakaishipyardicon.png": "/ectl/static/media/abukumakaishipyardicon.c620aec0046ddeac1481.png",
     "static/media/vincenzo giobertishipyardicon.png": "/ectl/static/media/vincenzo giobertishipyardicon.ecdc2106b5f82b238830.png",
     "static/media/u-81shipyardicon.png": "/ectl/static/media/u-81shipyardicon.a1427641b3f93c4e5b75.png",
+    "static/media/hatakaze metashipyardicon.png": "/ectl/static/media/hatakaze metashipyardicon.703a07e09651d36c434c.png",
     "static/media/mogamikaishipyardicon.png": "/ectl/static/media/mogamikaishipyardicon.5a381e4dba9436d4c2de.png",
     "static/media/bushshipyardicon.png": "/ectl/static/media/bushshipyardicon.b7a6e1d3394d88d48273.png",
     "static/media/i-56shipyardicon.png": "/ectl/static/media/i-56shipyardicon.adc27278b956cc4c3ed8.png",
@@ -1963,6 +1965,7 @@
     "static/media/patricia abelheimbanner.png": "/ectl/static/media/patricia abelheimbanner.d85c62a58cb70ac09b91.png",
     "static/media/fijibanner.png": "/ectl/static/media/fijibanner.b95be0b35330b349f1f8.png",
     "static/media/acastachibi.png": "/ectl/static/media/acastachibi.8f327f46c42d7488135c.png",
+    "static/media/hatakaze metabanner.png": "/ectl/static/media/hatakaze metabanner.a5392bcb97dacd2a5324.png",
     "static/media/amazonbanner.png": "/ectl/static/media/amazonbanner.6ca0700e8566f9171482.png",
     "static/media/foxhoundchibi.png": "/ectl/static/media/foxhoundchibi.3a93619301b03e490fb9.png",
     "static/media/twin_203mm_bl_8__mk_viii.png": "/ectl/static/media/twin_203mm_bl_8__mk_viii.26f385c2634ac6befa55.png",
@@ -2550,6 +2553,7 @@
     "static/media/kirishimaicon.png": "/ectl/static/media/kirishimaicon.1fc55082f6fde7e38d91.png",
     "static/media/kinuicon.png": "/ectl/static/media/kinuicon.eb30c8282acd268b4540.png",
     "static/media/little illustriousicon.png": "/ectl/static/media/little illustriousicon.76c06e85ff5a997abed2.png",
+    "static/media/crab_with_receipt.png": "/ectl/static/media/crab_with_receipt.e424ca8e9804909a7f6f.png",
     "static/media/radfordicon.png": "/ectl/static/media/radfordicon.d57175f6ba729faf03d0.png",
     "static/media/fubukiicon.png": "/ectl/static/media/fubukiicon.145ac8f5a0dbef8cce98.png",
     "static/media/independencekaiicon.png": "/ectl/static/media/independencekaiicon.ad288f3f077e44ba531b.png",
@@ -2760,6 +2764,7 @@
     "static/media/mujinaicon.png": "/ectl/static/media/mujinaicon.061769d04ceea1d0ddaf.png",
     "static/media/dido µicon.png": "/ectl/static/media/dido µicon.d8f75631337afe0d6d6f.png",
     "static/media/trentobanner.png": "/ectl/static/media/trentobanner.6f5bc3cc325171c667c9.png",
+    "static/media/hatakaze metaicon.png": "/ectl/static/media/hatakaze metaicon.0bc7ebcb7c1cec1af40e.png",
     "static/media/northampton iiicon.png": "/ectl/static/media/northampton iiicon.22cc59d19e7e6d384598.png",
     "static/media/centauricon.png": "/ectl/static/media/centauricon.174b4b876512557188f9.png",
     "static/media/duke of yorkicon.png": "/ectl/static/media/duke of yorkicon.5788a62d700406e83d47.png",
@@ -3152,6 +3157,7 @@
     "static/media/fusouicon.png": "/ectl/static/media/fusouicon.cf1958a390a30b565c23.png",
     "static/media/shirayukiicon.png": "/ectl/static/media/shirayukiicon.d1d96830971485ba3732.png",
     "static/media/vestal metaicon.png": "/ectl/static/media/vestal metaicon.870a7feb06d029012be4.png",
+    "static/media/dragon_figurine.png": "/ectl/static/media/dragon_figurine.5aed693b0fed9657570a.png",
     "static/media/improved_storage_battery.png": "/ectl/static/media/improved_storage_battery.8f3c06d7bcfa0969ac01.png",
     "static/media/eskimoicon.png": "/ectl/static/media/eskimoicon.5bcaafc23d182c5228ed.png",
     "static/media/elite_aviation_maintenance_manjuu.png": "/ectl/static/media/elite_aviation_maintenance_manjuu.5ead720c6de82b3aef1e.png",
@@ -3386,10 +3392,10 @@
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
     "main.c0bd67e8.css.map": "/ectl/static/css/main.c0bd67e8.css.map",
-    "main.7a9cd88b.js.map": "/ectl/static/js/main.7a9cd88b.js.map"
+    "main.171222df.js.map": "/ectl/static/js/main.171222df.js.map"
   },
   "entrypoints": [
     "static/css/main.c0bd67e8.css",
-    "static/js/main.7a9cd88b.js"
+    "static/js/main.171222df.js"
   ]
 }
