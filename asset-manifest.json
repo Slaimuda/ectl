@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.438b699b.css",
-    "main.js": "/ectl/static/js/main.81729f5e.js",
+    "main.js": "/ectl/static/js/main.a303b178.js",
     "static/media/w12_2.png": "/ectl/static/media/w12_2.94644f657b3e9513978a.png",
     "static/media/w14-gear-anchorage.jpg": "/ectl/static/media/w14-gear-anchorage.f04d24a67ecff990fec4.jpg",
     "static/media/w14-gear-mainz.jpg": "/ectl/static/media/w14-gear-mainz.a9c32343179cc8f5a6da.jpg",
@@ -110,6 +110,7 @@
     "static/media/yorkshipyardicon.png": "/ectl/static/media/yorkshipyardicon.037c2b2650e21081e484.png",
     "static/media/hazelwoodshipyardicon.png": "/ectl/static/media/hazelwoodshipyardicon.1f0f1f6ecff4b58da760.png",
     "static/media/neptuneshipyardicon.png": "/ectl/static/media/neptuneshipyardicon.41f96d2505cfc3e75699.png",
+    "static/media/jintsuu metashipyardicon.png": "/ectl/static/media/jintsuu metashipyardicon.cba31b75b744311cad0c.png",
     "static/media/yorkkaishipyardicon.png": "/ectl/static/media/yorkkaishipyardicon.eaf312206bb857c76b39.png",
     "static/media/pompeo magnoshipyardicon.png": "/ectl/static/media/pompeo magnoshipyardicon.94a3d69784f74b862488.png",
     "static/media/exeterkaishipyardicon.png": "/ectl/static/media/exeterkaishipyardicon.5f24b9cb3014a86e0fb0.png",
@@ -867,6 +868,7 @@
     "static/media/akane shinjoshipyardicon.png": "/ectl/static/media/akane shinjoshipyardicon.22527117e633092a33a3.png",
     "static/media/hwah jahshipyardicon.png": "/ectl/static/media/hwah jahshipyardicon.260fe5d27e9d84f72910.png",
     "static/media/twin_140mm_3rd_year_type.png": "/ectl/static/media/twin_140mm_3rd_year_type.4ae6593349b1bbf5421c.png",
+    "static/media/jintsuu metabanner.png": "/ectl/static/media/jintsuu metabanner.f13461d1bafb3cd47241.png",
     "static/media/single_120mm_type_3.png": "/ectl/static/media/single_120mm_type_3.83fe231798f78a6bbac9.png",
     "static/media/scyllashipyardicon.png": "/ectl/static/media/scyllashipyardicon.962b6f090f30f6becad0.png",
     "static/media/prinz rupprechtchibi.png": "/ectl/static/media/prinz rupprechtchibi.fd91ccc2e0eb64472427.png",
@@ -892,6 +894,7 @@
     "static/media/fire_control_radar.png": "/ectl/static/media/fire_control_radar.6b9d96518e488c5ceac1.png",
     "static/media/hassshipyardicon.png": "/ectl/static/media/hassshipyardicon.cd0a8f6b45a9019ec8f5.png",
     "static/media/champagneshipyardicon.png": "/ectl/static/media/champagneshipyardicon.afa7fc4de167bfd06d8c.png",
+    "static/media/jintsuu metachibi.png": "/ectl/static/media/jintsuu metachibi.9b2130318094aacd3b8b.png",
     "static/media/pearl_tears.png": "/ectl/static/media/pearl_tears.b038144b49f10eb0be3c.png",
     "static/media/jintsuubanner.png": "/ectl/static/media/jintsuubanner.c79d1bfde7942f86a631.png",
     "static/media/tashkentchibi.png": "/ectl/static/media/tashkentchibi.9a0637b3a6de9085ff1d.png",
@@ -2332,6 +2335,7 @@
     "static/media/jervisicon.png": "/ectl/static/media/jervisicon.01253a0bbcb2f16da8e9.png",
     "static/media/saratogaicon.png": "/ectl/static/media/saratogaicon.79ae7dca8a906c45c067.png",
     "static/media/warspitekaiicon.png": "/ectl/static/media/warspitekaiicon.7fc55b70c867fe565feb.png",
+    "static/media/jintsuu metaicon.png": "/ectl/static/media/jintsuu metaicon.f4ba9c4f87f3a8fc0e10.png",
     "static/media/jintsuuicon.png": "/ectl/static/media/jintsuuicon.e903f01f276fcff4060f.png",
     "static/media/isuzubanner.png": "/ectl/static/media/isuzubanner.e60b7649eaf2c880f876.png",
     "static/media/omahaicon.png": "/ectl/static/media/omahaicon.7c5aea585850a72b99ed.png",
@@ -3092,6 +3096,7 @@
     "static/media/icarusicon.png": "/ectl/static/media/icarusicon.41319d5512898db73a06.png",
     "static/media/maestraleicon.png": "/ectl/static/media/maestraleicon.0ceff20466f55a7305b7.png",
     "static/media/junyou metaicon.png": "/ectl/static/media/junyou metaicon.f54056b2f6df21175adb.png",
+    "static/media/antiem_commands.png": "/ectl/static/media/antiem_commands.63847049dc75d36af3aa.png",
     "static/media/serri glausicon.png": "/ectl/static/media/serri glausicon.4af6856853d198b26f91.png",
     "static/media/renown metaicon.png": "/ectl/static/media/renown metaicon.6c4136fd269cf6d658f4.png",
     "static/media/hieiicon.png": "/ectl/static/media/hieiicon.2dbcaabc9b8a09ddb71d.png",
@@ -3430,10 +3435,10 @@
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
     "main.438b699b.css.map": "/ectl/static/css/main.438b699b.css.map",
-    "main.81729f5e.js.map": "/ectl/static/js/main.81729f5e.js.map"
+    "main.a303b178.js.map": "/ectl/static/js/main.a303b178.js.map"
   },
   "entrypoints": [
     "static/css/main.438b699b.css",
-    "static/js/main.81729f5e.js"
+    "static/js/main.a303b178.js"
   ]
 }
