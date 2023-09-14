@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.438b699b.css",
-    "main.js": "/ectl/static/js/main.9f3bfdd3.js",
+    "main.js": "/ectl/static/js/main.d8a993f4.js",
     "static/media/w12_2.png": "/ectl/static/media/w12_2.94644f657b3e9513978a.png",
     "static/media/w14-gear-anchorage.jpg": "/ectl/static/media/w14-gear-anchorage.f04d24a67ecff990fec4.jpg",
     "static/media/w14-gear-mainz.jpg": "/ectl/static/media/w14-gear-mainz.a9c32343179cc8f5a6da.jpg",
@@ -2539,6 +2539,7 @@
     "static/media/repulseicon.png": "/ectl/static/media/repulseicon.9a6fccdeeb83cf26c33c.png",
     "static/media/rurutieicon.png": "/ectl/static/media/rurutieicon.3b8d83c22dfa6f631b59.png",
     "static/media/fochicon.png": "/ectl/static/media/fochicon.0a9a2fd4a25b7e5c666f.png",
+    "static/media/embroidered_charm_pouch.png": "/ectl/static/media/embroidered_charm_pouch.743a5b22d008ac6c08d0.png",
     "static/media/inazumaicon.png": "/ectl/static/media/inazumaicon.b7f7ecca99a24a5719aa.png",
     "static/media/eskimochibi.png": "/ectl/static/media/eskimochibi.ba72490060516c22e86f.png",
     "static/media/newcastlechibi.png": "/ectl/static/media/newcastlechibi.521c0cb742bbf16b50fc.png",
@@ -3227,9 +3228,11 @@
     "static/media/twin_40mm_bofors_type_5.png": "/ectl/static/media/twin_40mm_bofors_type_5.f4227c505bb8835e5305.png",
     "static/media/royal fortuneicon.png": "/ectl/static/media/royal fortuneicon.1f47d8221f6d9e9f8027.png",
     "static/media/torricelliicon.png": "/ectl/static/media/torricelliicon.a396228376ea8fe47cf2.png",
+    "static/media/mini_lebe.png": "/ectl/static/media/mini_lebe.351bec340c212e810db4.png",
     "static/media/ix.png": "/ectl/static/media/ix.1d4c1836a36191907977.png",
     "static/media/pirozhki.png": "/ectl/static/media/pirozhki.bbd44f4c9482e504ec8c.png",
     "static/media/taihou µicon.png": "/ectl/static/media/taihou µicon.f02791b93282e5866480.png",
+    "static/media/the_sweetness_of_cloudwatching.png": "/ectl/static/media/the_sweetness_of_cloudwatching.59d8a64e4bc91a6a6595.png",
     "static/media/yuugureicon.png": "/ectl/static/media/yuugureicon.51de2c62deedabd66fcd.png",
     "static/media/knightprincess039s_gauntlets.png": "/ectl/static/media/knightprincess039s_gauntlets.94afa752e0192f685d1a.png",
     "static/media/knightprincesss_gauntlets.png": "/ectl/static/media/knightprincesss_gauntlets.94afa752e0192f685d1a.png",
@@ -3266,6 +3269,7 @@
     "static/media/prinz heinrichicon.png": "/ectl/static/media/prinz heinrichicon.8df88e4bdbffaab5b060.png",
     "static/media/goldburn.png": "/ectl/static/media/goldburn.d8daedd5ab291f28a41d.png",
     "static/media/z19icon.png": "/ectl/static/media/z19icon.0317c2189b0929f62066.png",
+    "static/media/the_sturdiest_strongest_shield.png": "/ectl/static/media/the_sturdiest_strongest_shield.6151b794be6b6cf523b7.png",
     "static/media/f6f_hellcat_hvar_equipped.png": "/ectl/static/media/f6f_hellcat_hvar_equipped.8b9a3920d63fbee6be1e.png",
     "static/media/f6f_hellcat_hvarmounted.png": "/ectl/static/media/f6f_hellcat_hvarmounted.8b9a3920d63fbee6be1e.png",
     "static/media/grumman_f6f_hellcat_hvarmounted.png": "/ectl/static/media/grumman_f6f_hellcat_hvarmounted.8b9a3920d63fbee6be1e.png",
@@ -3409,6 +3413,7 @@
     "static/media/buster_borr_upgrade.png": "/ectl/static/media/buster_borr_upgrade.581b4674cbb41c2259b1.png",
     "static/media/triple_152mm_mle_1930.png": "/ectl/static/media/triple_152mm_mle_1930.e339f3a3b279e4073a58.png",
     "static/media/twin_127mm_type_3_mod_b.png": "/ectl/static/media/twin_127mm_type_3_mod_b.a3b212b4ad20b53c6ecd.png",
+    "static/media/sisters_care_package.png": "/ectl/static/media/sisters_care_package.6a1f69cfb967286f48a8.png",
     "static/media/twin_203mm_skc_improved.png": "/ectl/static/media/twin_203mm_skc_improved.76bc5fd379a9e8c916d3.png",
     "static/media/single_1386mm_mle_1929.png": "/ectl/static/media/single_1386mm_mle_1929.99a56ef985502c8fcff9.png",
     "static/media/twin_155mm_mle_1920.png": "/ectl/static/media/twin_155mm_mle_1920.154c7042068eab85aebc.png",
@@ -3432,13 +3437,14 @@
     "static/media/triple_203mm_bl_mk_ix_prototype.png": "/ectl/static/media/triple_203mm_bl_mk_ix_prototype.6d3cf399a95cb5f821f4.png",
     "static/media/grumman_f7f_tigercat.png": "/ectl/static/media/grumman_f7f_tigercat.515db0dcd6155b37d2b2.png",
     "static/media/533mm_quintuple_homing_torpedo_mount.png": "/ectl/static/media/533mm_quintuple_homing_torpedo_mount.e70ddf2d2bd95e1ff354.png",
+    "static/media/emotionconcealing_garb.png": "/ectl/static/media/emotionconcealing_garb.6f359ccc52a986e85a8e.png",
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
     "main.438b699b.css.map": "/ectl/static/css/main.438b699b.css.map",
-    "main.9f3bfdd3.js.map": "/ectl/static/js/main.9f3bfdd3.js.map"
+    "main.d8a993f4.js.map": "/ectl/static/js/main.d8a993f4.js.map"
   },
   "entrypoints": [
     "static/css/main.438b699b.css",
-    "static/js/main.9f3bfdd3.js"
+    "static/js/main.d8a993f4.js"
   ]
 }
