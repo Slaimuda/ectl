@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.438b699b.css",
-    "main.js": "/ectl/static/js/main.1e8b8ee8.js",
+    "main.js": "/ectl/static/js/main.366daf3c.js",
     "static/media/w12_2.png": "/ectl/static/media/w12_2.94644f657b3e9513978a.png",
     "static/media/w14-gear-anchorage.jpg": "/ectl/static/media/w14-gear-anchorage.f04d24a67ecff990fec4.jpg",
     "static/media/w14-gear-mainz.jpg": "/ectl/static/media/w14-gear-mainz.a9c32343179cc8f5a6da.jpg",
@@ -3436,6 +3436,7 @@
     "static/media/prototype_su2.png": "/ectl/static/media/prototype_su2.7ee587783f55a7fa498b.png",
     "static/media/buster_borr_upgrade.png": "/ectl/static/media/buster_borr_upgrade.581b4674cbb41c2259b1.png",
     "static/media/triple_152mm_mle_1930.png": "/ectl/static/media/triple_152mm_mle_1930.e339f3a3b279e4073a58.png",
+    "static/media/prototype_triple_203mm55_main_gun_mount.png": "/ectl/static/media/prototype_triple_203mm55_main_gun_mount.31fa461fa96957eae171.png",
     "static/media/twin_127mm_type_3_mod_b.png": "/ectl/static/media/twin_127mm_type_3_mod_b.a3b212b4ad20b53c6ecd.png",
     "static/media/sisters_care_package.png": "/ectl/static/media/sisters_care_package.6a1f69cfb967286f48a8.png",
     "static/media/twin_203mm_skc_improved.png": "/ectl/static/media/twin_203mm_skc_improved.76bc5fd379a9e8c916d3.png",
@@ -3465,10 +3466,10 @@
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
     "main.438b699b.css.map": "/ectl/static/css/main.438b699b.css.map",
-    "main.1e8b8ee8.js.map": "/ectl/static/js/main.1e8b8ee8.js.map"
+    "main.366daf3c.js.map": "/ectl/static/js/main.366daf3c.js.map"
   },
   "entrypoints": [
     "static/css/main.438b699b.css",
-    "static/js/main.1e8b8ee8.js"
+    "static/js/main.366daf3c.js"
   ]
 }
