@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.438b699b.css",
-    "main.js": "/ectl/static/js/main.de2f8a99.js",
+    "main.js": "/ectl/static/js/main.37272f25.js",
     "static/media/w12_2.png": "/ectl/static/media/w12_2.94644f657b3e9513978a.png",
     "static/media/w14-gear-anchorage.jpg": "/ectl/static/media/w14-gear-anchorage.f04d24a67ecff990fec4.jpg",
     "static/media/w14-gear-mainz.jpg": "/ectl/static/media/w14-gear-mainz.a9c32343179cc8f5a6da.jpg",
@@ -726,6 +726,7 @@
     "static/media/lunashipyardicon.png": "/ectl/static/media/lunashipyardicon.23e258f1ba5261b7fa89.png",
     "static/media/suzuyashipyardicon.png": "/ectl/static/media/suzuyashipyardicon.046d43a83c30fd1ebbfd.png",
     "static/media/chkalovshipyardicon.png": "/ectl/static/media/chkalovshipyardicon.d6a3c36ef5d23dd8bd53.png",
+    "static/media/princeton metashipyardicon.png": "/ectl/static/media/princeton metashipyardicon.6c42c0e355a6bc4275d6.png",
     "static/media/raleighshipyardicon.png": "/ectl/static/media/raleighshipyardicon.7611c9b1a6ddaa61347a.png",
     "static/media/torricellishipyardicon.png": "/ectl/static/media/torricellishipyardicon.c9d6f4dfab115ece3774.png",
     "static/media/akagishipyardicon.png": "/ectl/static/media/akagishipyardicon.adfcaf23b4d57323e5eb.png",
@@ -891,6 +892,7 @@
     "static/media/twin_127mm_type_3.png": "/ectl/static/media/twin_127mm_type_3.a6c81fa79552387cf41c.png",
     "static/media/quadruple_20mm_flakvierling.png": "/ectl/static/media/quadruple_20mm_flakvierling.c74b025bd39cb37b2cda.png",
     "static/media/memphis metabanner.png": "/ectl/static/media/memphis metabanner.4f740897a67918832fda.png",
+    "static/media/princeton metachibi.png": "/ectl/static/media/princeton metachibi.74214dedd8eefabedc03.png",
     "static/media/victoriouschibi.png": "/ectl/static/media/victoriouschibi.08c7554ff89717ad0d8a.png",
     "static/media/douglas_sbd_dauntless_mcclusky.png": "/ectl/static/media/douglas_sbd_dauntless_mcclusky.ce6ebc4727b0618f643a.png",
     "static/media/douglas_tbd_devastator.png": "/ectl/static/media/douglas_tbd_devastator.2eae407cbf34c678d40b.png",
@@ -1986,6 +1988,7 @@
     "static/media/hiryuu metachibi.png": "/ectl/static/media/hiryuu metachibi.0983c2b2103dc9a8a1bc.png",
     "static/media/indianapolisbanner.png": "/ectl/static/media/indianapolisbanner.09501c26701a4652ee22.png",
     "static/media/rangerkaibanner.png": "/ectl/static/media/rangerkaibanner.219442504bf097a3438b.png",
+    "static/media/princeton metabanner.png": "/ectl/static/media/princeton metabanner.15c0827ea30140b47dfb.png",
     "static/media/z1banner.png": "/ectl/static/media/z1banner.09356129aaf3e08dc78c.png",
     "static/media/émile bertinchibi.png": "/ectl/static/media/émile bertinchibi.6f2847a96bf8558f387f.png",
     "static/media/chang chunbanner.png": "/ectl/static/media/chang chunbanner.7101135ca6520d2a65e2.png",
@@ -3136,6 +3139,7 @@
     "static/media/fumizukiicon.png": "/ectl/static/media/fumizukiicon.49cf5112a3e99d9f40dc.png",
     "static/media/prince of walesicon.png": "/ectl/static/media/prince of walesicon.1007c361e173271da3fd.png",
     "static/media/yoizukiicon.png": "/ectl/static/media/yoizukiicon.c1289ec1c84fbe6cc415.png",
+    "static/media/princeton metaicon.png": "/ectl/static/media/princeton metaicon.f9d4bae5a1990d77bb56.png",
     "static/media/maestralebanner.png": "/ectl/static/media/maestralebanner.b03e67bc8856b668586f.png",
     "static/media/yurabanner.png": "/ectl/static/media/yurabanner.add4a4613d601fecb6eb.png",
     "static/media/intrepidicon.png": "/ectl/static/media/intrepidicon.1e651f4c0456fca420e9.png",
@@ -3249,6 +3253,7 @@
     "static/media/crossbow.png": "/ectl/static/media/crossbow.5ec698f35f6bae9915dd.png",
     "static/media/yat senicon.png": "/ectl/static/media/yat senicon.5fcd8325b897511fae50.png",
     "static/media/yamashiroicon.png": "/ectl/static/media/yamashiroicon.5868cedd92c7c1d9cc9b.png",
+    "static/media/shichigosan_exorcism_bells.png": "/ectl/static/media/shichigosan_exorcism_bells.283a282857e975a2a9cb.png",
     "static/media/twin_40mm_bofors_type_5.png": "/ectl/static/media/twin_40mm_bofors_type_5.f4227c505bb8835e5305.png",
     "static/media/royal fortuneicon.png": "/ectl/static/media/royal fortuneicon.1f47d8221f6d9e9f8027.png",
     "static/media/torricelliicon.png": "/ectl/static/media/torricelliicon.a396228376ea8fe47cf2.png",
@@ -3285,6 +3290,7 @@
     "static/media/seal_of_the_four_gods.png": "/ectl/static/media/seal_of_the_four_gods.828953728d39c97d4635.png",
     "static/media/magie_de_lamitié.png": "/ectl/static/media/magie_de_lamitié.2c500d41ab4585fba876.png",
     "static/media/ddg.png": "/ectl/static/media/ddg.f76b640a037a11c3e1bf.png",
+    "static/media/splendid_as_sky_and_sea.png": "/ectl/static/media/splendid_as_sky_and_sea.51d545aa4643a9f795b0.png",
     "static/media/twin_20mm_oerlikon_mark_v.png": "/ectl/static/media/twin_20mm_oerlikon_mark_v.69f524e5455bae03330e.png",
     "static/media/night_princess039_caprice.png": "/ectl/static/media/night_princess039_caprice.4074bc08ff57d06117be.png",
     "static/media/night_princess_caprice.png": "/ectl/static/media/night_princess_caprice.4074bc08ff57d06117be.png",
@@ -3466,10 +3472,10 @@
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
     "main.438b699b.css.map": "/ectl/static/css/main.438b699b.css.map",
-    "main.de2f8a99.js.map": "/ectl/static/js/main.de2f8a99.js.map"
+    "main.37272f25.js.map": "/ectl/static/js/main.37272f25.js.map"
   },
   "entrypoints": [
     "static/css/main.438b699b.css",
-    "static/js/main.de2f8a99.js"
+    "static/js/main.37272f25.js"
   ]
 }
