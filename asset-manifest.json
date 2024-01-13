@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ectl/static/css/main.d98037f0.css",
-    "main.js": "/ectl/static/js/main.699aad9a.js",
+    "main.css": "/ectl/static/css/main.8d236362.css",
+    "main.js": "/ectl/static/js/main.0a4e8f38.js",
     "static/media/w12_2.png": "/ectl/static/media/w12_2.94644f657b3e9513978a.png",
     "static/media/w14-gear-anchorage.jpg": "/ectl/static/media/w14-gear-anchorage.f04d24a67ecff990fec4.jpg",
     "static/media/w14-gear-mainz.jpg": "/ectl/static/media/w14-gear-mainz.a9c32343179cc8f5a6da.jpg",
@@ -3544,11 +3544,11 @@
     "static/media/emotionconcealing_garb.png": "/ectl/static/media/emotionconcealing_garb.6f359ccc52a986e85a8e.png",
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
-    "main.d98037f0.css.map": "/ectl/static/css/main.d98037f0.css.map",
-    "main.699aad9a.js.map": "/ectl/static/js/main.699aad9a.js.map"
+    "main.8d236362.css.map": "/ectl/static/css/main.8d236362.css.map",
+    "main.0a4e8f38.js.map": "/ectl/static/js/main.0a4e8f38.js.map"
   },
   "entrypoints": [
-    "static/css/main.d98037f0.css",
-    "static/js/main.699aad9a.js"
+    "static/css/main.8d236362.css",
+    "static/js/main.0a4e8f38.js"
   ]
 }
