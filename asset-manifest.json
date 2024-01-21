@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.18581f1f.css",
-    "main.js": "/ectl/static/js/main.b3d5926f.js",
+    "main.js": "/ectl/static/js/main.34182a08.js",
     "static/media/baltimore µ.png": "/ectl/static/media/baltimore µ.0abd53d829207fec1b62.png",
     "static/media/pompeo magno.png": "/ectl/static/media/pompeo magno.571aff40040734a2cb66.png",
     "static/media/west virginiakai.png": "/ectl/static/media/west virginiakai.71a0a6933860164247cf.png",
@@ -3967,6 +3967,7 @@
     "static/media/yat senkaiicon.png": "/ectl/static/media/yat senkaiicon.950ed478776547ee5f58.png",
     "static/media/emdenicon.png": "/ectl/static/media/emdenicon.10e22724496b509a678f.png",
     "static/media/triple_305mm_b50.png": "/ectl/static/media/triple_305mm_b50.f269f373228efb92daff.png",
+    "static/media/550mm_quadruple_torpedo_mount_ammo_mod.png": "/ectl/static/media/550mm_quadruple_torpedo_mount_ammo_mod.24e13ec1749be038eafd.png",
     "static/media/kaga (battleship)icon.png": "/ectl/static/media/kaga (battleship)icon.c7ae4f0bcde88e1bdb2c.png",
     "static/media/ark royalicon.png": "/ectl/static/media/ark royalicon.e99627e1cd1a52ac0342.png",
     "static/media/shirakami fubukiicon.png": "/ectl/static/media/shirakami fubukiicon.43c53f888e479a137d53.png",
@@ -4033,12 +4034,15 @@
     "static/media/kölnicon.png": "/ectl/static/media/kölnicon.7f507d0eb8795c5eb7f7.png",
     "static/media/mango_vanilla_crepe.png": "/ectl/static/media/mango_vanilla_crepe.6c74ef85a9b8c4b318a8.png",
     "static/media/lunaicon.png": "/ectl/static/media/lunaicon.2fd4ff674b8bab1c89ae.png",
+    "static/media/550mm_quadruple_torpedo_mount_improved_ammo_mod.png": "/ectl/static/media/550mm_quadruple_torpedo_mount_improved_ammo_mod.5e53a69c0817e7126111.png",
     "static/media/sheffield metaicon.png": "/ectl/static/media/sheffield metaicon.636ad99bc410ab959061.png",
     "static/media/chen haiicon.png": "/ectl/static/media/chen haiicon.41a6f735ecc5abca90aa.png",
+    "static/media/knight_commanders_medal.png": "/ectl/static/media/knight_commanders_medal.aa14a801eb466947b736.png",
     "static/media/kazagumoicon.png": "/ectl/static/media/kazagumoicon.4d598e50dfed71a6bbd6.png",
     "static/media/universal bulinicon.png": "/ectl/static/media/universal bulinicon.1dc77f2c350c98ea74fd.png",
     "static/media/cooperchibi.png": "/ectl/static/media/cooperchibi.be7fb8c7eb1b8e91aa35.png",
     "static/media/yamashirokaiicon.png": "/ectl/static/media/yamashirokaiicon.32ce0adff9caaf861d93.png",
+    "static/media/kawanishi_n1k4a_shiden_kai_4.png": "/ectl/static/media/kawanishi_n1k4a_shiden_kai_4.4cd05b44cacdf530c7cd.png",
     "static/media/gascogne µicon.png": "/ectl/static/media/gascogne µicon.058ac7fd52e387f76c88.png",
     "static/media/queen elizabeth metaicon.png": "/ectl/static/media/queen elizabeth metaicon.8d75b417d62430093344.png",
     "static/media/namikoicon.png": "/ectl/static/media/namikoicon.5d626c788c4953b78076.png",
@@ -4083,6 +4087,7 @@
     "static/media/scyllaicon.png": "/ectl/static/media/scyllaicon.7768b617f5e6b4e2e1d0.png",
     "static/media/west virginiaicon.png": "/ectl/static/media/west virginiaicon.ce6681f9aad50be7a8ea.png",
     "static/media/charles ausburneicon.png": "/ectl/static/media/charles ausburneicon.4a14af16bb7e55c5ebf1.png",
+    "static/media/550mm_quadruple_torpedo_mount.png": "/ectl/static/media/550mm_quadruple_torpedo_mount.86064d81604107254985.png",
     "static/media/hedgehog.png": "/ectl/static/media/hedgehog.cbc12742449dce74e8f2.png",
     "static/media/yukikazeicon.png": "/ectl/static/media/yukikazeicon.f60d25f113b51d636d9c.png",
     "static/media/nucleo-outline.woff2": "/ectl/static/media/nucleo-outline.802141dd0dcc63b21cbb.woff2",
@@ -4184,6 +4189,7 @@
     "static/media/improved_depth_charge.png": "/ectl/static/media/improved_depth_charge.01df8eaaab6d26e59d3c.png",
     "static/media/fairey_firefly_1771_nas.png": "/ectl/static/media/fairey_firefly_1771_nas.e43bf373c7307b664f7b.png",
     "static/media/crystal_ice_bomb.png": "/ectl/static/media/crystal_ice_bomb.e075843742bea08e60f1.png",
+    "static/media/triple_380mm_skc_prototype.png": "/ectl/static/media/triple_380mm_skc_prototype.58e80031483387dffd8c.png",
     "static/media/single_130mm_mle_1924.png": "/ectl/static/media/single_130mm_mle_1924.a71b9403875b3206d6ad.png",
     "static/media/type_91_armor_piercing_shell.png": "/ectl/static/media/type_91_armor_piercing_shell.9ffa88b4b77f7b76e9e8.png",
     "static/media/quadruple_130mm_mle_1932.png": "/ectl/static/media/quadruple_130mm_mle_1932.8322b9db3702a5e5f914.png",
@@ -4192,6 +4198,7 @@
     "static/media/twin_127mm_5_38_mk_38_time_fuze.png": "/ectl/static/media/twin_127mm_5_38_mk_38_time_fuze.a7fbbb0883df755acb27.png",
     "static/media/miyukiicon.png": "/ectl/static/media/miyukiicon.0c4d1d9bfd39b3950d3f.png",
     "static/media/hiryuu metaicon.png": "/ectl/static/media/hiryuu metaicon.99b4a5452d2ae2a524c9.png",
+    "static/media/lil_smile.png": "/ectl/static/media/lil_smile.33d8bdfb705ea5ce1b3a.png",
     "static/media/prinsesstårta.png": "/ectl/static/media/prinsesstårta.6cc72814d31d84ed5e85.png",
     "static/media/general_motors_tbm_avenger_vt51_squadron.png": "/ectl/static/media/general_motors_tbm_avenger_vt51_squadron.8036d47c8391c497583c.png",
     "static/media/dual_swords.png": "/ectl/static/media/dual_swords.1e6d9ffe7097b0899312.png",
@@ -4226,6 +4233,7 @@
     "static/media/hunter039s_insignia.png": "/ectl/static/media/hunter039s_insignia.049c7a40c536284a4627.png",
     "static/media/hunters_insignia.png": "/ectl/static/media/hunters_insignia.049c7a40c536284a4627.png",
     "static/media/fairey_swordfish_mk_iiasv_asw.png": "/ectl/static/media/fairey_swordfish_mk_iiasv_asw.a017126d42a2dc132147.png",
+    "static/media/fairey_spearfish_prototype.png": "/ectl/static/media/fairey_spearfish_prototype.39a9dfa555c67180fce1.png",
     "static/media/gamers_mark.png": "/ectl/static/media/gamers_mark.9495c8c4f2324a113820.png",
     "static/media/fairey_albacore.png": "/ectl/static/media/fairey_albacore.feafc84d381e7c682a3e.png",
     "static/media/fabulous_fioretto.png": "/ectl/static/media/fabulous_fioretto.24c6410bb102c4887fc1.png",
@@ -4356,10 +4364,10 @@
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
     "main.18581f1f.css.map": "/ectl/static/css/main.18581f1f.css.map",
-    "main.b3d5926f.js.map": "/ectl/static/js/main.b3d5926f.js.map"
+    "main.34182a08.js.map": "/ectl/static/js/main.34182a08.js.map"
   },
   "entrypoints": [
     "static/css/main.18581f1f.css",
-    "static/js/main.b3d5926f.js"
+    "static/js/main.34182a08.js"
   ]
 }
