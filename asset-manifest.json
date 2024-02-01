@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ectl/static/css/main.2d2a7453.css",
-    "main.js": "/ectl/static/js/main.e1b5f79f.js",
+    "main.css": "/ectl/static/css/main.9f96fb86.css",
+    "main.js": "/ectl/static/js/main.3cd0f1d6.js",
     "static/media/baltimore µ.png": "/ectl/static/media/baltimore µ.0abd53d829207fec1b62.png",
     "static/media/pompeo magno.png": "/ectl/static/media/pompeo magno.571aff40040734a2cb66.png",
     "static/media/west virginiakai.png": "/ectl/static/media/west virginiakai.71a0a6933860164247cf.png",
@@ -4363,11 +4363,11 @@
     "static/media/emotionconcealing_garb.png": "/ectl/static/media/emotionconcealing_garb.6f359ccc52a986e85a8e.png",
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
-    "main.2d2a7453.css.map": "/ectl/static/css/main.2d2a7453.css.map",
-    "main.e1b5f79f.js.map": "/ectl/static/js/main.e1b5f79f.js.map"
+    "main.9f96fb86.css.map": "/ectl/static/css/main.9f96fb86.css.map",
+    "main.3cd0f1d6.js.map": "/ectl/static/js/main.3cd0f1d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d2a7453.css",
-    "static/js/main.e1b5f79f.js"
+    "static/css/main.9f96fb86.css",
+    "static/js/main.3cd0f1d6.js"
   ]
 }
