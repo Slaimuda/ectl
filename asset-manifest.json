@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ectl/static/css/main.9f96fb86.css",
-    "main.js": "/ectl/static/js/main.88e25c7c.js",
+    "main.css": "/ectl/static/css/main.e0e0c6db.css",
+    "main.js": "/ectl/static/js/main.159d1931.js",
     "static/media/kimberly meta.png": "/ectl/static/media/kimberly meta.44f1cccae6aa8e7d99ea.png",
     "static/media/baltimore µ.png": "/ectl/static/media/baltimore µ.0abd53d829207fec1b62.png",
     "static/media/pompeo magno.png": "/ectl/static/media/pompeo magno.571aff40040734a2cb66.png",
@@ -4444,11 +4444,11 @@
     "static/media/emotionconcealing_garb.png": "/ectl/static/media/emotionconcealing_garb.6f359ccc52a986e85a8e.png",
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
-    "main.9f96fb86.css.map": "/ectl/static/css/main.9f96fb86.css.map",
-    "main.88e25c7c.js.map": "/ectl/static/js/main.88e25c7c.js.map"
+    "main.e0e0c6db.css.map": "/ectl/static/css/main.e0e0c6db.css.map",
+    "main.159d1931.js.map": "/ectl/static/js/main.159d1931.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f96fb86.css",
-    "static/js/main.88e25c7c.js"
+    "static/css/main.e0e0c6db.css",
+    "static/js/main.159d1931.js"
   ]
 }
