@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.e0e0c6db.css",
-    "main.js": "/ectl/static/js/main.5f979aaf.js",
+    "main.js": "/ectl/static/js/main.687ec55e.js",
     "static/media/kimberly meta.png": "/ectl/static/media/kimberly meta.44f1cccae6aa8e7d99ea.png",
     "static/media/baltimore µ.png": "/ectl/static/media/baltimore µ.0abd53d829207fec1b62.png",
     "static/media/pompeo magno.png": "/ectl/static/media/pompeo magno.571aff40040734a2cb66.png",
@@ -1698,7 +1698,6 @@
     "static/media/murmanskshipyardicon.png": "/ectl/static/media/murmanskshipyardicon.a62e7a90539866df4bf8.png",
     "static/media/nyotengushipyardicon.png": "/ectl/static/media/nyotengushipyardicon.fc14228b6c48ed4a7e9f.png",
     "static/media/souryuu metashipyardicon.png": "/ectl/static/media/souryuu metashipyardicon.54cac0c0088404bf5e17.png",
-    "static/media/sovetsky soyuzbanner.png": "/ectl/static/media/sovetsky soyuzbanner.fdfd3f101f2699b142b2.png",
     "static/media/whydahshipyardicon.png": "/ectl/static/media/whydahshipyardicon.d12622fd7b30afcb4f8e.png",
     "static/media/ikarugachibi.png": "/ectl/static/media/ikarugachibi.a5214f190dee4304a902.png",
     "static/media/pamiat' merkuria metachibi.png": "/ectl/static/media/pamiat' merkuria metachibi.a4c8de30f0dc774039e6.png",
@@ -2883,6 +2882,7 @@
     "static/media/icarusbanner.png": "/ectl/static/media/icarusbanner.334df911781874464c5a.png",
     "static/media/mikazukichibi.png": "/ectl/static/media/mikazukichibi.89829dbb574825d4830c.png",
     "static/media/fusoukaibanner.png": "/ectl/static/media/fusoukaibanner.2075d454b3adf7d02f46.png",
+    "static/media/sovetsky soyuzbanner.png": "/ectl/static/media/sovetsky soyuzbanner.0ceb6fbf8afec58b96b4.png",
     "static/media/oklahomabanner.png": "/ectl/static/media/oklahomabanner.56b52b96bb3ae3660935.png",
     "static/media/raleighbanner.png": "/ectl/static/media/raleighbanner.6f5394399085cfe222f7.png",
     "static/media/footechibi.png": "/ectl/static/media/footechibi.af5953e90c30188a9bae.png",
@@ -4440,10 +4440,10 @@
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
     "main.e0e0c6db.css.map": "/ectl/static/css/main.e0e0c6db.css.map",
-    "main.5f979aaf.js.map": "/ectl/static/js/main.5f979aaf.js.map"
+    "main.687ec55e.js.map": "/ectl/static/js/main.687ec55e.js.map"
   },
   "entrypoints": [
     "static/css/main.e0e0c6db.css",
-    "static/js/main.5f979aaf.js"
+    "static/js/main.687ec55e.js"
   ]
 }
