@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.e0e0c6db.css",
-    "main.js": "/ectl/static/js/main.b190c6b9.js",
+    "main.js": "/ectl/static/js/main.3acf0dc2.js",
     "static/media/kimberly meta.png": "/ectl/static/media/kimberly meta.44f1cccae6aa8e7d99ea.png",
     "static/media/baltimore µ.png": "/ectl/static/media/baltimore µ.0abd53d829207fec1b62.png",
     "static/media/pompeo magno.png": "/ectl/static/media/pompeo magno.571aff40040734a2cb66.png",
@@ -3649,6 +3649,7 @@
     "static/media/yorckicon.png": "/ectl/static/media/yorckicon.74db053476920ae423a2.png",
     "static/media/rikka takaradabanner.png": "/ectl/static/media/rikka takaradabanner.cf0307d4e4d4853aabc1.png",
     "static/media/souryuukaiicon.png": "/ectl/static/media/souryuukaiicon.c3eed002f182a2263b49.png",
+    "static/media/grinding_day_and_night.png": "/ectl/static/media/grinding_day_and_night.9bb75f5288c9ad6adfc4.png",
     "static/media/le marsicon.png": "/ectl/static/media/le marsicon.8bb9a54e49d7b531566f.png",
     "static/media/kievicon.png": "/ectl/static/media/kievicon.f8c9bb0dddd9b9af5291.png",
     "static/media/hoodicon.png": "/ectl/static/media/hoodicon.28df90c820625b7bbea1.png",
@@ -4072,6 +4073,7 @@
     "static/media/prince of walesicon.png": "/ectl/static/media/prince of walesicon.1007c361e173271da3fd.png",
     "static/media/yoizukiicon.png": "/ectl/static/media/yoizukiicon.c1289ec1c84fbe6cc415.png",
     "static/media/princeton metaicon.png": "/ectl/static/media/princeton metaicon.f9d4bae5a1990d77bb56.png",
+    "static/media/dont_throw_me_away.png": "/ectl/static/media/dont_throw_me_away.2865a0f7d800c7beeee8.png",
     "static/media/maestralebanner.png": "/ectl/static/media/maestralebanner.b03e67bc8856b668586f.png",
     "static/media/yurabanner.png": "/ectl/static/media/yurabanner.add4a4613d601fecb6eb.png",
     "static/media/intrepidicon.png": "/ectl/static/media/intrepidicon.1e651f4c0456fca420e9.png",
@@ -4120,6 +4122,7 @@
     "static/media/high_performance_fire_control_radar.png": "/ectl/static/media/high_performance_fire_control_radar.cbca8a2e4967bb378d95.png",
     "static/media/erebusicon.png": "/ectl/static/media/erebusicon.ec6f4e3543819e291cdd.png",
     "static/media/graf zeppelinicon.png": "/ectl/static/media/graf zeppelinicon.7e75de22892f5554b024.png",
+    "static/media/flowering_courage.png": "/ectl/static/media/flowering_courage.8009875cfac967bd0469.png",
     "static/media/amagi-chanicon.png": "/ectl/static/media/amagi-chanicon.c328a9d58f954f8f830d.png",
     "static/media/sea_of_stars_area_b20_access_pass.png": "/ectl/static/media/sea_of_stars_area_b20_access_pass.e8dc49955cc305e10003.png",
     "static/media/patricia abelheimicon.png": "/ectl/static/media/patricia abelheimicon.e6c16b57337bfd4b294a.png",
@@ -4360,6 +4363,7 @@
     "static/media/quadruple_356mm_14_50_mark_b_prototype.png": "/ectl/static/media/quadruple_356mm_14_50_mark_b_prototype.b0263611ebff9c9f56bd.png",
     "static/media/twin_356mm_41st_year_type_kai.png": "/ectl/static/media/twin_356mm_41st_year_type_kai.d78bff4407401dec19f2.png",
     "static/media/triple_203mm_bl_8__mk_x_prototype.png": "/ectl/static/media/triple_203mm_bl_8__mk_x_prototype.3c2bedee58ddf3993b84.png",
+    "static/media/a_praiseworthy_weapon.png": "/ectl/static/media/a_praiseworthy_weapon.342a8554b734c9e17c6a.png",
     "static/media/site_icon.png": "/ectl/static/media/site_icon.12f66a9ae533eb3313b9.png",
     "static/media/twin_57mm_bofors_mle_1951.png": "/ectl/static/media/twin_57mm_bofors_mle_1951.56acf6fa33019ed9b833.png",
     "static/media/houstons_liftoff.png": "/ectl/static/media/houstons_liftoff.b66aaa10de70dd7d7b2e.png",
@@ -4440,10 +4444,10 @@
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
     "main.e0e0c6db.css.map": "/ectl/static/css/main.e0e0c6db.css.map",
-    "main.b190c6b9.js.map": "/ectl/static/js/main.b190c6b9.js.map"
+    "main.3acf0dc2.js.map": "/ectl/static/js/main.3acf0dc2.js.map"
   },
   "entrypoints": [
     "static/css/main.e0e0c6db.css",
-    "static/js/main.b190c6b9.js"
+    "static/js/main.3acf0dc2.js"
   ]
 }
