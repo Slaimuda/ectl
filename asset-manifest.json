@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.e0e0c6db.css",
-    "main.js": "/ectl/static/js/main.ee3c0ab9.js",
+    "main.js": "/ectl/static/js/main.8e289e9b.js",
     "static/media/kimberly meta.png": "/ectl/static/media/kimberly meta.44f1cccae6aa8e7d99ea.png",
     "static/media/baltimore µ.png": "/ectl/static/media/baltimore µ.0abd53d829207fec1b62.png",
     "static/media/pompeo magno.png": "/ectl/static/media/pompeo magno.571aff40040734a2cb66.png",
@@ -844,7 +844,7 @@
     "static/media/kölnkai.png": "/ectl/static/media/kölnkai.56283b4ee5d8fa8bd09d.png",
     "static/media/bulldog.png": "/ectl/static/media/bulldog.fc4b8fb60bd661ae646d.png",
     "static/media/benson.png": "/ectl/static/media/benson.a8edebdc4942f1f2cee1.png",
-    "static/media/event banner.png": "/ectl/static/media/event banner.b922979660981938c67e.png",
+    "static/media/event banner.png": "/ectl/static/media/event banner.e8c568884d8f939edafc.png",
     "static/media/alm.jpg": "/ectl/static/media/alm.61c3bdeb0a65f9261cc4.jpg",
     "static/media/bf_6.jpg": "/ectl/static/media/bf_6.25df85608c9350e9923c.jpg",
     "static/media/bg.jpg": "/ectl/static/media/bg.6dd2af15f0bc3a1a7ed9.jpg",
@@ -4470,10 +4470,10 @@
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
     "main.e0e0c6db.css.map": "/ectl/static/css/main.e0e0c6db.css.map",
-    "main.ee3c0ab9.js.map": "/ectl/static/js/main.ee3c0ab9.js.map"
+    "main.8e289e9b.js.map": "/ectl/static/js/main.8e289e9b.js.map"
   },
   "entrypoints": [
     "static/css/main.e0e0c6db.css",
-    "static/js/main.ee3c0ab9.js"
+    "static/js/main.8e289e9b.js"
   ]
 }
