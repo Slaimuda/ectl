@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ectl/static/css/main.e0e0c6db.css",
-    "main.js": "/ectl/static/js/main.8e289e9b.js",
+    "main.js": "/ectl/static/js/main.ccca1394.js",
     "static/media/kimberly meta.png": "/ectl/static/media/kimberly meta.44f1cccae6aa8e7d99ea.png",
     "static/media/baltimore µ.png": "/ectl/static/media/baltimore µ.0abd53d829207fec1b62.png",
     "static/media/pompeo magno.png": "/ectl/static/media/pompeo magno.571aff40040734a2cb66.png",
@@ -4115,6 +4115,7 @@
     "static/media/golden hindicon.png": "/ectl/static/media/golden hindicon.12f49dc07db0d28b5d14.png",
     "static/media/azusa miuraicon.png": "/ectl/static/media/azusa miuraicon.60063bd8182112a4cee7.png",
     "static/media/z20icon.png": "/ectl/static/media/z20icon.fcb17cb3ba3450ec82a4.png",
+    "static/media/the_white_cavaliers_reins.png": "/ectl/static/media/the_white_cavaliers_reins.1f64393fd2b8e6101148.png",
     "static/media/twin_blades__twosided_winding_flash.png": "/ectl/static/media/twin_blades__twosided_winding_flash.23cd5ee628a15823c020.png",
     "static/media/penelopeicon.png": "/ectl/static/media/penelopeicon.17b923ee245835a9cbeb.png",
     "static/media/feather_fan__purple_ice_linked_blossoms.png": "/ectl/static/media/feather_fan__purple_ice_linked_blossoms.f7d31a9a4396bf34b12a.png",
@@ -4323,6 +4324,7 @@
     "static/media/watatsumi_research_notes.png": "/ectl/static/media/watatsumi_research_notes.d43dfa73c5a3e1005f4c.png",
     "static/media/calculations_complete.png": "/ectl/static/media/calculations_complete.48f8e11f564f2ccfc58b.png",
     "static/media/single_130mm_b13_pattern_1936.png": "/ectl/static/media/single_130mm_b13_pattern_1936.c186d1de40cafd0f9522.png",
+    "static/media/echoes_of_relinquished_time.png": "/ectl/static/media/echoes_of_relinquished_time.2b89250b5c5400b7762f.png",
     "static/media/basic_sonar.png": "/ectl/static/media/basic_sonar.55e8479d377fec2780ca.png",
     "static/media/round_shot.png": "/ectl/static/media/round_shot.0e1d7066f0b2d931af4f.png",
     "static/media/realm_of_oneiric_snow.png": "/ectl/static/media/realm_of_oneiric_snow.65b037192ade8f21a506.png",
@@ -4368,6 +4370,7 @@
     "static/media/roasted_sweet_potato.png": "/ectl/static/media/roasted_sweet_potato.85603a5af614e67a0ffb.png",
     "static/media/twin_100mm_aa_type_98.png": "/ectl/static/media/twin_100mm_aa_type_98.7b0ccc3fb33f867db51b.png",
     "static/media/100150_aviation_gasoline.png": "/ectl/static/media/100150_aviation_gasoline.41e3e60961625cfaabb5.png",
+    "static/media/shining_comet.png": "/ectl/static/media/shining_comet.c51c24a26601da82da2c.png",
     "static/media/twin_76mm_aa_mk_27_mount.png": "/ectl/static/media/twin_76mm_aa_mk_27_mount.d3610b9aa87fd9e71525.png",
     "static/media/messerschmitt_bf109t.png": "/ectl/static/media/messerschmitt_bf109t.4852277c1d0b547a3cd6.png",
     "static/media/ankimo.png": "/ectl/static/media/ankimo.5e58f6649a40555c6b31.png",
@@ -4470,10 +4473,10 @@
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
     "main.e0e0c6db.css.map": "/ectl/static/css/main.e0e0c6db.css.map",
-    "main.8e289e9b.js.map": "/ectl/static/js/main.8e289e9b.js.map"
+    "main.ccca1394.js.map": "/ectl/static/js/main.ccca1394.js.map"
   },
   "entrypoints": [
     "static/css/main.e0e0c6db.css",
-    "static/js/main.8e289e9b.js"
+    "static/js/main.ccca1394.js"
   ]
 }
