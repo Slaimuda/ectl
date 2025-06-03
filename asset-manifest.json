@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/ectl/static/css/main.7c1aec5b.css",
-    "main.js": "/ectl/static/js/main.ee50d610.js",
+    "main.css": "/ectl/static/css/main.bc3a9a3b.css",
+    "main.js": "/ectl/static/js/main.02cfd386.js",
     "static/css/60.11e867ea.chunk.css": "/ectl/static/css/60.11e867ea.chunk.css",
     "static/js/60.6553fb94.chunk.js": "/ectl/static/js/60.6553fb94.chunk.js",
     "static/css/957.11e867ea.chunk.css": "/ectl/static/css/957.11e867ea.chunk.css",
-    "static/js/957.42b208ee.chunk.js": "/ectl/static/js/957.42b208ee.chunk.js",
+    "static/js/957.32c00237.chunk.js": "/ectl/static/js/957.32c00237.chunk.js",
     "static/css/182.11e867ea.chunk.css": "/ectl/static/css/182.11e867ea.chunk.css",
     "static/js/182.5cfdf052.chunk.js": "/ectl/static/js/182.5cfdf052.chunk.js",
     "static/css/57.11e867ea.chunk.css": "/ectl/static/css/57.11e867ea.chunk.css",
@@ -27,6 +27,7 @@
     "static/js/831.20d40522.chunk.js": "/ectl/static/js/831.20d40522.chunk.js",
     "static/js/862.9a966b41.chunk.js": "/ectl/static/js/862.9a966b41.chunk.js",
     "static/js/635.a5143c61.chunk.js": "/ectl/static/js/635.a5143c61.chunk.js",
+    "static/media/opsi_guide.jpg": "/ectl/static/media/opsi_guide.08ecdbac2b6b11bd9ab4.jpg",
     "static/media/kimberly meta.png": "/ectl/static/media/kimberly meta.44f1cccae6aa8e7d99ea.png",
     "static/media/baltimore µ.png": "/ectl/static/media/baltimore µ.0abd53d829207fec1b62.png",
     "static/media/pompeo magno.png": "/ectl/static/media/pompeo magno.571aff40040734a2cb66.png",
@@ -98,7 +99,6 @@
     "static/media/algérie meta.png": "/ectl/static/media/algérie meta.cd6b212678e9588d6f59.png",
     "static/media/poltava.png": "/ectl/static/media/poltava.50a0db93110a224431f0.png",
     "static/media/an shankai.png": "/ectl/static/media/an shankai.cc343eccb7f0ce7f1fd4.png",
-    "static/media/poverty_gear.jpg": "/ectl/static/media/poverty_gear.6d71ee6d0461f7c0d69a.jpg",
     "static/media/admiral nakhimov.png": "/ectl/static/media/admiral nakhimov.39a0af494108a469f3f9.png",
     "static/media/yat senkai.png": "/ectl/static/media/yat senkai.65db5a138994087ab9f6.png",
     "static/media/houshou meta.png": "/ectl/static/media/houshou meta.88051e99cc7330025bbf.png",
@@ -951,6 +951,7 @@
     "static/media/icons.svg": "/ectl/static/media/icons.62d9dae4e0040e81c980.svg",
     "static/media/kölnkai.png": "/ectl/static/media/kölnkai.56283b4ee5d8fa8bd09d.png",
     "static/media/bulldog.png": "/ectl/static/media/bulldog.fc4b8fb60bd661ae646d.png",
+    "static/media/poverty_gear.png": "/ectl/static/media/poverty_gear.1ac15bcf05021e7c33a7.png",
     "static/media/benson.png": "/ectl/static/media/benson.a8edebdc4942f1f2cee1.png",
     "static/media/event_banner.png": "/ectl/static/media/event_banner.d19b3e5dd22947918580.png",
     "static/media/cdp.png": "/ectl/static/media/cdp.835340e5e9721c14436d.png",
@@ -5000,12 +5001,12 @@
     "static/media/emotionconcealing_garb.png": "/ectl/static/media/emotionconcealing_garb.6f359ccc52a986e85a8e.png",
     "static/media/triple_203mm_8_55_mk_15_shs.png": "/ectl/static/media/triple_203mm_8_55_mk_15_shs.a9d0665ef5ec563c02fa.png",
     "index.html": "/ectl/index.html",
-    "main.7c1aec5b.css.map": "/ectl/static/css/main.7c1aec5b.css.map",
-    "main.ee50d610.js.map": "/ectl/static/js/main.ee50d610.js.map",
+    "main.bc3a9a3b.css.map": "/ectl/static/css/main.bc3a9a3b.css.map",
+    "main.02cfd386.js.map": "/ectl/static/js/main.02cfd386.js.map",
     "60.11e867ea.chunk.css.map": "/ectl/static/css/60.11e867ea.chunk.css.map",
     "60.6553fb94.chunk.js.map": "/ectl/static/js/60.6553fb94.chunk.js.map",
     "957.11e867ea.chunk.css.map": "/ectl/static/css/957.11e867ea.chunk.css.map",
-    "957.42b208ee.chunk.js.map": "/ectl/static/js/957.42b208ee.chunk.js.map",
+    "957.32c00237.chunk.js.map": "/ectl/static/js/957.32c00237.chunk.js.map",
     "182.11e867ea.chunk.css.map": "/ectl/static/css/182.11e867ea.chunk.css.map",
     "182.5cfdf052.chunk.js.map": "/ectl/static/js/182.5cfdf052.chunk.js.map",
     "57.11e867ea.chunk.css.map": "/ectl/static/css/57.11e867ea.chunk.css.map",
@@ -5028,7 +5029,7 @@
     "635.a5143c61.chunk.js.map": "/ectl/static/js/635.a5143c61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c1aec5b.css",
-    "static/js/main.ee50d610.js"
+    "static/css/main.bc3a9a3b.css",
+    "static/js/main.02cfd386.js"
   ]
 }
